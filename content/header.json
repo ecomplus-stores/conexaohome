@@ -14,9 +14,11 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/roupas?Roupas"
+    ],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "desktop_megamenu": false,
   "search_input": true
