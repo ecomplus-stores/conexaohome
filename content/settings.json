@@ -1,7 +1,7 @@
 {
   "domain": "mtsolucoestest.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#0094c7",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#00cfc7",
   "icon": "/img/icon.png",
   "store_id": 50359,
   "description": "mtsolucoestest",
