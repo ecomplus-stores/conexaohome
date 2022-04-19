@@ -10,7 +10,7 @@
   "repository": "ecomplus-stores/mtsolucoestest",
   "logo": "/img/uploads/logo_oficial_mt_solucoes_transparente-1-.png",
   "name": "Lojinha MT Soluções | E-Com Plus",
-  "short_name": "mtsolucoestest",
+  "short_name": "Lojinha MT Soluções",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#00cfc7",
   "icon": "/img/icon.png",
   "store_id": 50359,
-  "description": "mtsolucoestest",
+  "description": "A MT Soluções é um sonho de trazer facilidade e tecnologia a todos, sempre utilizando as melhores ferramentas e sistemas. Sabemos a correria diária quando se tem um e-commerce, é preciso disponibilizar tempo e dedicação e sabendo dessa dificuldade decidimos ajudá-los.\n\nPrático: Como imaginamos que o mundo hoje deve ser.\n\nSimples: Porque coisas complexas mais atrapalham do que ajudam na operação.\n\nDireto: Sem muitas firulas para chegar ao ponto, no intuito de agilidade.",
   "large_icon": "/img/large-icon.png"
 }
