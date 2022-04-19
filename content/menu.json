@@ -1,5 +1,7 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "roupas"
+  ],
   "alphabetical_order": false,
   "phone_wpp": true,
   "socials": true
