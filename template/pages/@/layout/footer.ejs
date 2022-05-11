@@ -4,7 +4,7 @@ const footer = _.cms('footer') || {}
 const contacts = _.cms('contacts') || {}
 %>
 
-<footer class="footer py-3 py-lg-4 py-xl-5">
+<footer class="footer py-3">
   <div class="container">
     <div class="row">
       <div class="col-12 col-lg-auto order-lg-last pl-xl-4">
@@ -176,6 +176,9 @@ const contacts = _.cms('contacts') || {}
       </div>
     </div>
 
+    
+<%- await include('@/layout/inc/ecom-credits') %>
+
     <div class="footer__credits">
       <span>
         <%= footer.credits || `© ${_.store.name} / ${contacts.address} / ${contacts.doc_number}` %>
@@ -192,4 +195,3 @@ const contacts = _.cms('contacts') || {}
   </div>
 </footer>
 
-<%- await include('@/layout/inc/ecom-credits') %>

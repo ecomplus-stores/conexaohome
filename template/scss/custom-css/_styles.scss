@@ -1,6 +1,15 @@
 // Add your custom CSS here.
 
+$font: Helvetica, sans-serif;
+$footerColor: red;
+
 /* Footer */
-.ecom-credits {
-    background: #a9fff6;
+.info-bar {
+    background: gray;
 }
+
+.footer__credits {
+    display: flex;
+    justify-content: space-around;
+}
+
