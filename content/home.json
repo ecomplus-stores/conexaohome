@@ -1,5 +1,5 @@
 {
-  "meta_title": "",
+  "meta_title": "Bia Siquiera",
   "meta_description": "",
   "sections": [
     {
@@ -41,7 +41,8 @@
     {
       "type": "brands-carousel",
       "limit": 24,
-      "offset": 0
+      "offset": 0,
+      "autoplay": 0
     },
     {
       "type": "page-title",
