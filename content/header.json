@@ -22,7 +22,7 @@
     "random": 8,
     "full_width": true
   },
-  "desktop_megamenu": true,
+  "desktop_megamenu": false,
   "search_input": true,
   "alphabetical_order_submenu": true,
   "full_width_submenu": true
