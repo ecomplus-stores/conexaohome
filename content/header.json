@@ -9,8 +9,17 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 10,
+    "featured": [
+      "/moveis?Móveis",
+      "/decoracao?Decoração",
+      "/cozinha?Cozinha",
+      "/sala-de-estar?Sala de Estar",
+      "/sala-de-jantar?Sala de Jantar",
+      "/quarto?Quarto",
+      "/escritorio?Escritório",
+      "/varanda?Varanda"
+    ],
+    "random": 8,
     "full_width": true
   },
   "desktop_megamenu": true,
