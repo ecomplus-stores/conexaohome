@@ -3,6 +3,10 @@
   "meta_description": "Aqui na Conexão Home Você Encontra Produtos Exclusivos Para Tornar Seu Lar Mais Aconchegante e Acolhedor. Não Perca e Venha Conferir!",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/foto-26-07-2021-12-36-20_3-1-.jpg"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -37,11 +41,6 @@
       "headless": false,
       "limit": 12,
       "page": 1
-    },
-    {
-      "type": "page-title",
-      "title": "Conexão Home | O Melhor da Decoração em Sua Casa",
-      "description": "Aqui na Conexão Home Você Encontra Produtos Exclusivos Para Tornar Seu Lar Mais Aconchegante e Acolhedor. Não Perca e Venha Conferir!"
     }
   ]
 }
