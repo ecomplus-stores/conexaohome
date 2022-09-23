@@ -1,7 +1,7 @@
 {
   "domain": "conexaohome.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#e26d03",
   "icon": "/img/uploads/logotipo-home-png-site.png",
   "store_id": 51316,
   "description": "???/?",
