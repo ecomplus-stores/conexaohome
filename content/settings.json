@@ -4,7 +4,7 @@
   "primary_color": "#000000",
   "theme": {
     "bootswatch": "united",
-    "custom": "_"
+    "custom": "clean-gray"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/conexaohome",
