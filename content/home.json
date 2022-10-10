@@ -4,7 +4,8 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/conexao.jpg"
+      "img": "/img/uploads/banners_desk_001.png",
+      "mobile_img": "/img/uploads/banners_mobile_001.png"
     },
     {
       "type": "banner-slider",
