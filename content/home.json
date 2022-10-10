@@ -5,7 +5,7 @@
     {
       "type": "banner-slider",
       "autoplay": 0,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "img": "/img/uploads/banners_desk_001.png",
@@ -21,6 +21,12 @@
           "img": "/img/uploads/banners_desk_002.png",
           "alt": "",
           "mobile_img": "/img/uploads/banners_mobile_002.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banners_desk_003.png",
+          "mobile_img": "/img/uploads/banners_mobile_003.png"
         }
       ]
     },
