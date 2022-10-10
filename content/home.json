@@ -9,7 +9,7 @@
       "slides": [
         {
           "img": "/img/uploads/banners_desk_001.png",
-          "link": "",
+          "link": "https://conexaohome.netlify.app/poltrona",
           "alt": "",
           "start": "",
           "end": "",
@@ -20,7 +20,8 @@
           "end": "",
           "img": "/img/uploads/banners_desk_002.png",
           "alt": "",
-          "mobile_img": "/img/uploads/banners_mobile_002.png"
+          "mobile_img": "/img/uploads/banners_mobile_002.png",
+          "link": "https://conexaohome.netlify.app/sala-de-jantar"
         },
         {
           "start": "",
