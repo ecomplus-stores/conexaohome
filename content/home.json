@@ -65,7 +65,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "631f98d873321213f872571b:categories:Sala de Jantar:/sala-de-jantar",
-      "title": "Sala de Estar"
+      "title": "Sala de Estar",
+      "headless": true
     },
     {
       "type": "dynamic-showcase",
