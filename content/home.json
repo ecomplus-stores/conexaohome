@@ -44,6 +44,32 @@
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banners_desk_002.png"
+        },
+        {
+          "img": "/img/uploads/banners_desk_001.png"
+        },
+        {
+          "img": "/img/uploads/banners_desk_003.png"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "631f98d873321213f872571b:categories:Sala de Jantar:/sala-de-jantar"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "views"
     }
   ]
 }
