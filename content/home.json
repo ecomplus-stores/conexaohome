@@ -41,7 +41,7 @@
       "collection_id": "632089db73321213f873765c:categories:Arca e Oratório:/arca-e-oratorio",
       "sort": "offers",
       "title": "Ofertas",
-      "headless": true,
+      "headless": false,
       "limit": 8,
       "page": 1
     },
