@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.75a1b80bba62872c888709c5f538dcbc.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.5618ddb8719fb62e694228a207ef56ed.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.54b5c63b14d07b3bf549481f106a8087.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.be1c41b9be941712de99fac35018b763.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.59344127e5ed98577da0cc87cefbf387.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "conexaohome",
+  "short_name": "Sobre Nós",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Nada como estar em um ambiente bonito, agradável e organizado. Essa é a proposta da Conexão Home, que há mais de 20 anos fornece móveis para decorações de milhares de lares.",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
