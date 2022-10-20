@@ -1,4 +1,20 @@
 // Add your custom CSS here.
+.footer__title {
+    color: var(--secondary);
+}
+#pronta-entrega {
+    background: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3px;
+    font-size: 15px;
+    color: #fff;
+    svg {
+        color: #e26d03 !important;
+        padding-right: 3px;
+    }
+}
 .product__info.lead {
   display: none !important;
 }
