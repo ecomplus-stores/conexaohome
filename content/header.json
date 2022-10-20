@@ -19,9 +19,10 @@
       "/sala-de-jantar?Sala de Jantar",
       "/quarto?Quarto",
       "/escritorio?Escritório",
-      "/varanda?Varanda"
+      "/varanda?Varanda",
+      "/sofa?Sofá"
     ],
-    "random": 8,
+    "random": 9,
     "full_width": true
   },
   "desktop_megamenu": true,
