@@ -71,12 +71,12 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 2,
       "collection_id": "6320978f73321213f87398dd:categories:Sofá:/sofa",
       "title": "Conforto e Luxo",
-      "headless": true
+      "headless": false
     }
   ]
 }
