@@ -56,13 +56,13 @@ const themeCustom = _.settings.theme.custom || ''
                 </a>
               </li>
             <% } %>
-            <% if (footer.contacts.address) { %>
+            <!-- <% if (footer.contacts.address) { %>
               <li>
                 <address>
                   <%= contacts.address %>
                 </address>
               </li>
-            <% } %>
+            <% } %> -->
           </ul>
 
           <% if (footer.contacts.socials) { %>
@@ -169,6 +169,7 @@ const themeCustom = _.settings.theme.custom || ''
                 <i class="pay-icon pay-icon--<%= method %>"></i>
               <% } %>
             <% }) %>
+            <i class="pay-icon pay-icon--pix"></i>
           </p>
           <div class="footer__stamps">
             <%- await include(`@/sections/stamps`, { _, opt: { stamps: footer.stamps } }) %>
@@ -179,7 +180,10 @@ const themeCustom = _.settings.theme.custom || ''
 
     <div class="footer__credits">
       <span>
-        <%= footer.credits || `© ${_.store.name} / ${contacts.address} / ${contacts.doc_number}` %>
+        <%= footer.credits || `© ${_.store.name} | CNPJ: ${contacts.doc_number}` %>
+      </span>
+      <span>
+        <%= footer.credits || `${contacts.address}` %>
       </span>
       <% if (themeCustom === 'ecom-beauty') { %>
         <div class="ecom-credits-container">
@@ -195,15 +199,15 @@ const themeCustom = _.settings.theme.custom || ''
           </div>
         </div>
       <% } %>
-      <button
-        id="go-to-top"
-        class="btn btn-primary ml-3"
-        type="button"
-        aria-label="<%= _.dictionary('goToTop') %>"
-      >
-        <i class="i-chevron-up"></i>
-      </button>
     </div>
+    <button
+      id="go-to-top"
+      class="btn btn-primary ml-3"
+      type="button"
+      aria-label="<%= _.dictionary('goToTop') %>"
+    >
+      <i class="i-chevron-up"></i>
+    </button>
   </div>  
 </footer>
 
