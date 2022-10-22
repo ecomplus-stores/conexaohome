@@ -3,6 +3,6 @@
   "active": true,
   "desktopOnly": false,
   "options": {
-    "pagination": false
+    "pagination": true
   }
 }
