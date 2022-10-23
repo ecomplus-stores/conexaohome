@@ -78,6 +78,17 @@
       "title": "Conforto e Luxo",
       "headless": false,
       "sort": "offers"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/1900x600.jpg"
+        },
+        {
+          "img": "/img/uploads/queridinhos-conexao-home.jpg"
+        }
+      ]
     }
   ]
 }
