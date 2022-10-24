@@ -49,13 +49,13 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banners_desk_002.png"
+          "img": "/img/uploads/001.png"
         },
         {
-          "img": "/img/uploads/banners_desk_001.png"
+          "img": "/img/uploads/002.png"
         },
         {
-          "img": "/img/uploads/banners_desk_003.png"
+          "img": "/img/uploads/003.png"
         }
       ]
     },
