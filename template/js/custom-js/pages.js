@@ -103,7 +103,7 @@ function instaFeed () {
 
 
 // Instafeed
-(window.location.pathname == '/') ? instaFeed() : null;
+// (window.location.pathname == '/') ? instaFeed() : null;
 
 function instaFeed () {
     let quantidade = 4
