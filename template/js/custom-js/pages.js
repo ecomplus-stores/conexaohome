@@ -107,6 +107,42 @@ function instaFeed () {
 
 function instaFeed () {
     let quantidade = 4
+<<<<<<< HEAD
+=======
+    let instagram = 'conexao_home'
+
+    async function startInsta(){
+        const dataResponseGetMedias = await fetch('https://instafeed.hubdesolucoes.com.br/medias/username/'+instagram)
+        const dataResponseGetMediasJson = await dataResponseGetMedias.json()
+        const listFeeds = dataResponseGetMediasJson.medias.data
+        insertImgs(listFeeds)
+    }
+
+
+
+    function insertImgs (obj){
+        for (let i = 0; i < quantidade; i++) {
+            /* verifica se é imagem */
+            if(obj[i].media_type == "IMAGE" || obj[i].media_type == "CAROUSEL_ALBUM"){
+                $("#mt-instafeed").append("<a href='#'><img src="+obj[i].media_url+"></a>");
+                }
+                    else{    
+                    $("#mt-instafeed").append("<a href='#'><video src="+obj[i].media_url+"></video></a>");
+                    }
+                    
+            }
+        }
+
+    startInsta()
+}
+
+
+// Instafeed
+(window.location.pathname == '/') ? instaFeed() : null;
+
+function instaFeed () {
+    let quantidade = 4
+>>>>>>> 7c7acafe1af72ffc1cbc9e517d68bc49c1d3b9d9
 let instagram = 'conexao_home'
 
 async function startInsta(){
