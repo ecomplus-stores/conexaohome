@@ -95,7 +95,7 @@
       "collection_id": "631f944673321213f8724dbe:categories:Móveis:/moveis",
       "title": "Decoração",
       "headless": false,
-      "sort": "lowest_price"
+      "sort": "slug"
     }
   ]
 }
