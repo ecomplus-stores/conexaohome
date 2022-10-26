@@ -63,6 +63,34 @@ article#content {
   }
 }
 
+// INFOBAR
+.info-bar {
+  max-width: 100%;
+}
+
+// BANNER TRIPLO
+.page--home {
+  .banners-grid {
+    .container {
+      .row {
+        .banner {
+          width: 100%;
+        }
+      }
+    }
+  }
+}
+
+// CAROUSEL HOME
+.products-carousel {
+  max-width: 100%;
+  ul.glide__slides {
+    li.products-carousel__item {
+      width: 25%;
+    }
+  }
+}
+
 
 // PAGE CART
 #cart, #product {
