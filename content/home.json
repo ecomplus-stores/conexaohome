@@ -30,16 +30,6 @@
       "enabled": true
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2022-10-26T15:14:22.265Z",
-      "end": "2022-10-27T15:14:22.352Z",
-      "notes": "Teste MT Soluções - Frete Grátis Acaba Hoje",
-      "offers": [
-        "633fa48373321213f8a09b50"
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 8,
