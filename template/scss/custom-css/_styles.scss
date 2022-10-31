@@ -120,6 +120,13 @@ article#content {
   }
 }
 
+// Remove instafeed
+#spa {
+  + #mt-instafeed {
+    display: none!important;
+  }
+}
+
 // FOOTER
 footer.footer {
   .container {
