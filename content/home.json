@@ -30,6 +30,16 @@
       "enabled": true
     },
     {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2022-11-01T02:07:30.961Z",
+      "end": "2022-11-03T02:07:31.025Z",
+      "offers": [
+        "635d4b1d73321213f8c2461b"
+      ],
+      "notes": "Aproveite a nossa oferta do dia com 30% de Desconto! "
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 8,
