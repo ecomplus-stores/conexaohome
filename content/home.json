@@ -16,12 +16,12 @@
           "mobile_img": "/img/uploads/banner-mobile-burt-600x400.png"
         },
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banners_desk_002.png",
+          "start": "2022-10-31T03:00:00.000Z",
+          "end": "2022-11-30T03:00:00.000Z",
+          "img": "/img/uploads/rotativo-desktop.png",
           "alt": "",
-          "mobile_img": "/img/uploads/banners_mobile_002.png",
-          "link": "https://conexaohome.netlify.app/sala-de-jantar"
+          "mobile_img": "/img/uploads/mobile.jpg",
+          "link": "https://conexaohome.com.br/moveis-a-pronta-entrega"
         }
       ]
     },
