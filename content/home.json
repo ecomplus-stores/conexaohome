@@ -63,7 +63,9 @@
           "mobile_img": "/img/uploads/1.png"
         },
         {
-          "img": "/img/uploads/002.png"
+          "img": "/img/uploads/2.png",
+          "link": "https://conexaohome.com.br/cozinha",
+          "mobile_img": "/img/uploads/2.png"
         }
       ]
     },
