@@ -53,7 +53,9 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/001.png"
+          "img": "/img/uploads/3.png",
+          "link": "https://conexaohome.com.br/cadeira",
+          "mobile_img": ""
         },
         {
           "img": "/img/uploads/003.png"
