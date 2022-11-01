@@ -6070,6 +6070,896 @@
     "source": "/products/mesa-de-jantar-florida-120cm",
     "destination": "/mesa-de-jantar-eiffel-120cm-branca",
     "type": 301
+  },
+     {
+    "source": "/collections/canecas-e-xicaras-para-cozinha-decoracao",
+    "destination": "/xicara",
+    "type": 301
+  },
+  {
+    "source": "/collections/porta-vela-designer-decorativo",
+    "destination": "/vela",
+    "type": 301
+  },
+  {
+    "source": "/collections/vasos-e-cachepots",
+    "destination": "/vaso",
+    "type": 301
+  },
+  {
+    "source": "/collections/travessa-cozinha",
+    "destination": "/travessa",
+    "type": 301
+  },
+  {
+    "source": "/collections/tapetes",
+    "destination": "/tapete",
+    "type": 301
+  },
+  {
+    "source": "/collections/talheres",
+    "destination": "/talher",
+    "type": 301
+  },
+  {
+    "source": "/collections/tacas-para-cozinha-decoracao-utilidade",
+    "destination": "/taca",
+    "type": 301
+  },
+  {
+    "source": "/collections/tabua",
+    "destination": "/tabua",
+    "type": 301
+  },
+  {
+    "source": "/collections/sofa-retratil",
+    "destination": "/sofa-retratil",
+    "type": 301
+  },
+  {
+    "source": "/collections/sofa-recamier",
+    "destination": "/sofa-recamier",
+    "type": 301
+  },
+  {
+    "source": "/collections/sofa-fixo",
+    "destination": "/sofa-fixo",
+    "type": 301
+  },
+  {
+    "source": "/collections/sofa-cama",
+    "destination": "/sofa-cama",
+    "type": 301
+  },
+  {
+    "source": "/collections/sofa-3-lugares",
+    "destination": "/sofa-3-lugares",
+    "type": 301
+  },
+  {
+    "source": "/collections/sofa-2-lugares",
+    "destination": "/sofa-2-lugares",
+    "type": 301
+  },
+  {
+    "source": "/collections/sofa",
+    "destination": "/sofa",
+    "type": 301
+  },
+  {
+    "source": "/collections/sala-de-jantar",
+    "destination": "/sala-de-jantar",
+    "type": 301
+  },
+  {
+    "source": "/collections/sala-de-estar",
+    "destination": "/sala-de-estar",
+    "type": 301
+  },
+  {
+    "source": "/collections/rack",
+    "destination": "/rack",
+    "type": 301
+  },
+  {
+    "source": "/collections/quarto",
+    "destination": "/quarto",
+    "type": 301
+  },
+  {
+    "source": "/collections/quadros",
+    "destination": "/quadros-e-placas",
+    "type": 301
+  },
+  {
+    "source": "/collections/puff",
+    "destination": "/pufe",
+    "type": 301
+  },
+  {
+    "source": "/collections/prato-para-queijo",
+    "destination": "/prato-p-queijo",
+    "type": 301
+  },
+  {
+    "source": "/collections/prato-para-bolo",
+    "destination": "/prato-p-bolo",
+    "type": 301
+  },
+  {
+    "source": "/collections/prato-porcelana-ceramica",
+    "destination": "/prato",
+    "type": 301
+  },
+  {
+    "source": "/collections/prateleira-e-suporte-garden-decoracao",
+    "destination": "/prateleira-e-suporte",
+    "type": 301
+  },
+  {
+    "source": "/collections/potiche",
+    "destination": "/potiche",
+    "type": 301
+  },
+  {
+    "source": "/collections/porta-azeite-e-vinagre",
+    "destination": "/porta-vinagre",
+    "type": 301
+  },
+  {
+    "source": "/collections/porta-vela",
+    "destination": "/porta-vela",
+    "type": 301
+  },
+  {
+    "source": "/collections/porta-temperos",
+    "destination": "/porta-tempero",
+    "type": 301
+  },
+  {
+    "source": "/collections/porta-retrato",
+    "destination": "/porta-retrato",
+    "type": 301
+  },
+  {
+    "source": "/collections/porta-mantimento",
+    "destination": "/porta-mantimento",
+    "type": 301
+  },
+  {
+    "source": "/collections/porta-alcool",
+    "destination": "/porta-alcool",
+    "type": 301
+  },
+  {
+    "source": "/collections/poltrona-giratoria",
+    "destination": "/poltrona-giratoria",
+    "type": 301
+  },
+  {
+    "source": "/collections/poltrona-fixa",
+    "destination": "/poltrona-fixa",
+    "type": 301
+  },
+  {
+    "source": "/collections/poltrona",
+    "destination": "/poltrona",
+    "type": 301
+  },
+  {
+    "source": "/collections/petisqueira",
+    "destination": "/petisqueira",
+    "type": 301
+  },
+  {
+    "source": "/collections/pendente",
+    "destination": "/pendente",
+    "type": 301
+  },
+  {
+    "source": "/collections/organizador-multiuso",
+    "destination": "/organizador-multiuso",
+    "type": 301
+  },
+  {
+    "source": "/collections/moveis",
+    "destination": "/moveis",
+    "type": 301
+  },
+  {
+    "source": "/collections/moringa-decoracao",
+    "destination": "/moringa",
+    "type": 301
+  },
+  {
+    "source": "/collections/mini-panela",
+    "destination": "/mini-panela",
+    "type": 301
+  },
+  {
+    "source": "/collections/mesa-para-computador",
+    "destination": "/mesa-para-computador",
+    "type": 301
+  },
+  {
+    "source": "/collections/mesa-lateral",
+    "destination": "/mesa-lateral",
+    "type": 301
+  },
+  {
+    "source": "/collections/mesa-de-jantar",
+    "destination": "/mesa-de-jantar",
+    "type": 301
+  },
+  {
+    "source": "/collections/mesa-de-centro",
+    "destination": "/mesa-de-centro",
+    "type": 301
+  },
+  {
+    "source": "/collections/mesa-de-cabeceira",
+    "destination": "/mesa-de-cabeceira",
+    "type": 301
+  },
+  {
+    "source": "/collections/mesa-bancada",
+    "destination": "/mesa-bancada",
+    "type": 301
+  },
+  {
+    "source": "/collections/manteigueira",
+    "destination": "/manteigueira",
+    "type": 301
+  },
+  {
+    "source": "/collections/luminaria-e-cupula",
+    "destination": "/luminaria",
+    "type": 301
+  },
+  {
+    "source": "/collections/leiteira-para-cozinha",
+    "destination": "/leiteira",
+    "type": 301
+  },
+  {
+    "source": "/collections/lata-decoracao",
+    "destination": "/lata",
+    "type": 301
+  },
+  {
+    "source": "/collections/lareira",
+    "destination": "/lareira",
+    "type": 301
+  },
+  {
+    "source": "/collections/jogo-americano-e-sousplat-para-mesa-designer-decorativo",
+    "destination": "/jogo-americano-e-sousplat",
+    "type": 301
+  },
+  {
+    "source": "/collections/jarra-para-cozinha",
+    "destination": "/jarra",
+    "type": 301
+  },
+  {
+    "source": "/collections/garrafa-termica",
+    "destination": "/garrafa-e-termica",
+    "type": 301
+  },
+  {
+    "source": "/collections/estante",
+    "destination": "/estante",
+    "type": 301
+  },
+  {
+    "source": "/collections/espelhos",
+    "destination": "/espelho",
+    "type": 301
+  },
+  {
+    "source": "/collections/escrivaninhas",
+    "destination": "/escrivaninha",
+    "type": 301
+  },
+  {
+    "source": "/collections/escada-decorativa",
+    "destination": "/escada",
+    "type": 301
+  },
+  {
+    "source": "/collections/decoracao",
+    "destination": "/decoracao",
+    "type": 301
+  },
+  {
+    "source": "/collections/cristaleira",
+    "destination": "/cristaleira",
+    "type": 301
+  },
+  {
+    "source": "/collections/cozinha",
+    "destination": "/cozinha",
+    "type": 301
+  },
+  {
+    "source": "/collections/coqueteleira",
+    "destination": "/coqueteleira",
+    "type": 301
+  },
+  {
+    "source": "/collections/copo-e-taca-para-cozinha-decoracao-e-utilidade",
+    "destination": "/copo",
+    "type": 301
+  },
+  {
+    "source": "/collections/copo-para-cozinha-decoracao-e-utilidades",
+    "destination": "/copo",
+    "type": 301
+  },
+  {
+    "source": "/collections/conjunto-poltrona-e-puff",
+    "destination": "/conjunto-poltrona-e-puff",
+    "type": 301
+  },
+  {
+    "source": "/collections/conjunto-de-cadeiras",
+    "destination": "/conjunto-de-cadeiras",
+    "type": 301
+  },
+  {
+    "source": "/collections/comodas",
+    "destination": "/comoda",
+    "type": 301
+  },
+  {
+    "source": "/collections/closet-e-roupeiro",
+    "destination": "/closet-e-roupeiro",
+    "type": 301
+  },
+  {
+    "source": "/collections/chaleira-para-cozinha",
+    "destination": "/chaleira",
+    "type": 301
+  },
+  {
+    "source": "/collections/cesto",
+    "destination": "/cesta",
+    "type": 301
+  },
+  {
+    "source": "/collections/centro-de-mesa",
+    "destination": "/centro-de-mesa",
+    "type": 301
+  },
+  {
+    "source": "/collections/carrinho-de-cha-e-bar",
+    "destination": "/carrinho-de-cha-e-bar",
+    "type": 301
+  },
+  {
+    "source": "/collections/caneca-para-cozinha-decoracao",
+    "destination": "/caneca",
+    "type": 301
+  },
+  {
+    "source": "/collections/candela",
+    "destination": "/candelabro",
+    "type": 301
+  },
+  {
+    "source": "/collections/caixa-decorativa-organixadora",
+    "destination": "/caixa",
+    "type": 301
+  },
+  {
+    "source": "/collections/cadeira-de-escritorio",
+    "destination": "/cadeira-de-escritorio",
+    "type": 301
+  },
+  {
+    "source": "/collections/cadeira-estofada",
+    "destination": "/cadeira-com-estofado",
+    "type": 301
+  },
+  {
+    "source": "/collections/cadeira-com-",
+    "destination": "/cadeira-com-bracos",
+    "type": 301
+  },
+  {
+    "source": "/collections/cadeira-area-externa",
+    "destination": "/cadeira-area-externa",
+    "type": 301
+  },
+  {
+    "source": "/collections/cadeira",
+    "destination": "/cadeira",
+    "type": 301
+  },
+  {
+    "source": "/collections/cabeceira-de-cama",
+    "destination": "/cabeceira-para-cama",
+    "type": 301
+  },
+  {
+    "source": "/collections/buffets-moveis",
+    "destination": "/buffet",
+    "type": 301
+  },
+  {
+    "source": "/collections/bowls",
+    "destination": "/bowl",
+    "type": 301
+  },
+  {
+    "source": "/collections/bau-decorativo-designer-decoracao",
+    "destination": "/bau",
+    "type": 301
+  },
+  {
+    "source": "/collections/bandeja",
+    "destination": "/bandeja",
+    "type": 301
+  },
+  {
+    "source": "/collections/bandeja-decorativa",
+    "destination": "/bandeja",
+    "type": 301
+  },
+  {
+    "source": "/collections/bancos",
+    "destination": "/banco",
+    "type": 301
+  },
+  {
+    "source": "/collections/armario-organizador",
+    "destination": "/armario",
+    "type": 301
+  },
+  {
+    "source": "/collections/arca-e-oratorio",
+    "destination": "/arca-e-oratorio",
+    "type": 301
+  },
+  {
+    "source": "/collections/aparadores",
+    "destination": "/aparador-e-revisteiro",
+    "type": 301
+  },
+  {
+    "source": "/collections/aparadores-e-revisteiros-para-casa",
+    "destination": "/aparador-e-revisteiro",
+    "type": 301
+  },
+  {
+    "source": "/collections/banquetas-altas",
+    "destination": "/alta",
+    "type": 301
+  },
+  {
+    "source": "/collections/decoracao-almofada",
+    "destination": "/almofada",
+    "type": 301
+  },
+  {
+    "source": "/collections/decoracao-adorno",
+    "destination": "/adorno",
+    "type": 301
+  },
+  {
+    "source": "/collections/adega-e-bar",
+    "destination": "/adega-e-bar",
+    "type": 301
+  },
+  {
+    "source": "/collections/adegas",
+    "destination": "/adega-e-bar",
+    "type": 301
+  },
+  {
+    "source": "/collections/acucareiro",
+    "destination": "/acucareiro",
+    "type": 301
+  },
+  {
+    "source": "/collections/achadinhos-para-cozinha",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/anel-para-guardanapo",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/aparador-para-sala-de-estar-designer-decoracao",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/aparadores-1",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/area-de-servico",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/balcao-e-buffet",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/balde",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/banho",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/banquetas-para-cozinha-e-sala-de-jantar",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/bar",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/base-mesa-de-jantar-4-e-6-lugares",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/bistro-para-cozinha-e-sala-de-estar",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/budas",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/cachepot",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/cachepot-vaso-planta",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/cadeira-espanha",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/cadeiras-e-mesas",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/cadeiras-para-sala-de-estar",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/cartao-presente-virtual",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/colar-decorativo",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/composicao-decorativa",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/cupula",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/difusor",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/drinks",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/escorredor",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/escultura-para-decoracao",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/frontpage",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/garden",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/garrafa",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/garrafa-e-garrafa-termica",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/home-e-estar",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/home-e-office",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/jarra-chaleira-leiteira-para-cozinha-itens-decorativos",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/lanterna",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/linha-antique-moveis",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/linha-burt-marsala",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/linha-burt-moveis",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/linha-luiz-xv-moveis",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/linha-vermont-moveis",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/linha-zen-cabeca-buda-porta-velas-desiner-decoracao-casa",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/loja-de-moveis-decoracao-cozinha",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/lugar-americano-mesa-cozinha-decorativo",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/luminarias",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/mais-desejados",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/mancebo-cabideiro",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/mesa",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/moveis-e-produtos-artesanais",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/moveis-em-promocao-especialista-decorados",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/moveis-industrual",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/moveis-itens-de-decoracao-e-artesanais-mais-desejados",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/organizador-de-mesa-dots",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/organizador-de-pia",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/outlet",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/para-cozinhar",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/pendente-e-lanterna",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/placa-decorativa",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/planta",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/poltrona-e-sofa",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/porta-incenso-designer-decorativo",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/pote",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/potes-e-porta-mantimentos",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/prateleira-garden-decoracao",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/prato-para-queijo-e-bolo",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/presente-de-natal",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/pufe-decorativo-sala-de-estar-artesanal",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/remmo-decorativo-grade-e-medio",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/revisteiro",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/sapateira",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/servir-e-cozinhar",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/sofa-2-lugares-1",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/sofa-cama-1",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/sofa-milao-com-chaise-em-promocao",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/sofa-reclinavel-e-retratil-sala-de-estar",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/sousplat-para-mesa-designer-decorativo",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/suporte-garden-decoracao",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/tapetes-sao-carlos-linha-plural",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/utensilios",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/utilidades",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/vela-e-porta-vela-designer-decorativo",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/collections/xicara-para-cozinha-decoracao",
+    "destination": "/",
+    "type": 301
   }
 ],
     "public": "dist",
