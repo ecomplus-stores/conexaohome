@@ -30,16 +30,6 @@
       "enabled": true
     },
     {
-      "type": "offers-timer",
-      "max_hours": 23,
-      "start": "2022-11-03T02:07:30.961Z",
-      "end": "2022-11-06T02:07:31.025Z",
-      "offers": [
-        "633fa71973321213f8a09df7"
-      ],
-      "notes": "OFERTA ESPECIAL DA NOSSA CONEXÃO FRIDAY!"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 8,
