@@ -8,26 +8,36 @@
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/banners_desk_001.png",
-          "link": "https://conexaohome.netlify.app/poltrona",
+          "img": "/img/uploads/banner-burt-1900x600.png",
+          "link": "https://conexaohome.com.br/linha-burt",
           "alt": "",
-          "start": "",
-          "end": "",
-          "mobile_img": "/img/uploads/banners_mobile_001.png"
+          "start": "2022-10-31T03:00:00.000Z",
+          "end": "2022-11-30T03:00:00.000Z",
+          "mobile_img": "/img/uploads/banner-mobile-burt-600x400.png"
         },
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banners_desk_002.png",
+          "start": "2022-10-31T03:00:00.000Z",
+          "end": "2022-11-30T03:00:00.000Z",
+          "img": "/img/uploads/rotativo-desktop.png",
           "alt": "",
-          "mobile_img": "/img/uploads/banners_mobile_002.png",
-          "link": "https://conexaohome.netlify.app/sala-de-jantar"
+          "mobile_img": "/img/uploads/mobile.jpg",
+          "link": "https://conexaohome.com.br/moveis-a-pronta-entrega"
         }
       ]
     },
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2022-11-04T02:07:30.961Z",
+      "end": "2022-11-06T02:07:31.025Z",
+      "offers": [
+        "633fa71973321213f8a09df7"
+      ],
+      "notes": "OFERTA ESPECIAL DA NOSSA CONEXÃO FRIDAY!"
     },
     {
       "type": "collection-shelf",
@@ -43,13 +53,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/001.png"
+          "img": "/img/uploads/3.png",
+          "link": "https://conexaohome.com.br/cadeira",
+          "mobile_img": ""
         },
         {
-          "img": "/img/uploads/003.png"
+          "img": "/img/uploads/1.png",
+          "link": "https://conexaohome.com.br/linha-chestersield",
+          "mobile_img": "/img/uploads/1.png"
         },
         {
-          "img": "/img/uploads/002.png"
+          "img": "/img/uploads/2.png",
+          "link": "https://conexaohome.com.br/cozinha",
+          "mobile_img": "/img/uploads/2.png"
         }
       ]
     },
@@ -67,10 +83,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/1080x1080.jpg"
+          "img": "/img/uploads/decoracoa-1-.png",
+          "link": "https://conexaohome.com.br/cozinha"
         },
         {
-          "img": "/img/uploads/queridinhos-conexao-home.jpg"
+          "img": "/img/uploads/decoracoa-2-.png",
+          "link": "https://conexaohome.com.br/decoracao"
         }
       ]
     },
