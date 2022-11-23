@@ -8,20 +8,20 @@
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/banner-burt-1900x600.png",
+          "img": "/img/uploads/20-burt.png",
           "link": "https://conexaohome.com.br/linha-burt",
           "alt": "",
           "start": "2022-10-31T03:00:00.000Z",
           "end": "2022-11-30T03:00:00.000Z",
-          "mobile_img": "/img/uploads/banner-mobile-burt-600x400.png"
+          "mobile_img": "/img/uploads/mobile-burt-20-.png"
         },
         {
           "start": "2022-10-31T03:00:00.000Z",
           "end": "2022-11-30T03:00:00.000Z",
-          "img": "/img/uploads/rotativo-desktop.png",
+          "img": "/img/uploads/sofas-rotativo-desk-1-.png",
           "alt": "",
-          "mobile_img": "/img/uploads/mobile.jpg",
-          "link": "https://conexaohome.com.br/moveis-a-pronta-entrega"
+          "mobile_img": "/img/uploads/sofas-mobile.png",
+          "link": "https://conexaohome.com.br/sofa"
         }
       ]
     },
@@ -32,12 +32,12 @@
     {
       "type": "offers-timer",
       "max_hours": 24,
-      "start": "2022-11-04T02:07:30.961Z",
-      "end": "2022-11-06T02:07:31.025Z",
+      "start": "2022-11-23T13:10:04.261Z",
+      "end": "2022-11-25T13:10:04.329Z",
       "offers": [
-        "633fa71973321213f8a09df7"
+        "63626d8173321213f8c6de62"
       ],
-      "notes": "OFERTA ESPECIAL DA NOSSA CONEXÃO FRIDAY!"
+      "notes": "Oferta imperdível e por tempo limitado!"
     },
     {
       "type": "collection-shelf",
@@ -64,7 +64,7 @@
         },
         {
           "img": "/img/uploads/2.png",
-          "link": "https://conexaohome.com.br/cozinha",
+          "link": "https://conexaohome.com.br/mesa-posta",
           "mobile_img": "/img/uploads/2.png"
         }
       ]
