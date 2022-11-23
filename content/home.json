@@ -32,10 +32,10 @@
     {
       "type": "offers-timer",
       "max_hours": 24,
-      "start": "2022-11-21T21:08:27.137Z",
-      "end": "2022-11-23T21:08:27.184Z",
+      "start": "2022-11-23T13:10:04.261Z",
+      "end": "2022-11-25T13:10:04.329Z",
       "offers": [
-        "6369187c73321213f8cdb1fe"
+        "63626d8173321213f8c6de62"
       ],
       "notes": "Oferta imperdível e por tempo limitado!"
     },
