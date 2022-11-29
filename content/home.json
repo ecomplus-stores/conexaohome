@@ -8,20 +8,10 @@
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/20-burt.png",
-          "link": "https://conexaohome.com.br/linha-burt",
-          "alt": "",
-          "start": "2022-10-31T03:00:00.000Z",
-          "end": "2022-11-30T03:00:00.000Z",
-          "mobile_img": "/img/uploads/mobile-burt-20-.png"
-        },
-        {
-          "start": "2022-10-31T03:00:00.000Z",
-          "end": "2022-11-30T03:00:00.000Z",
-          "img": "/img/uploads/sofas-rotativo-desk-1-.png",
-          "alt": "",
-          "mobile_img": "/img/uploads/sofas-mobile.png",
-          "link": "https://conexaohome.com.br/sofa"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/rotativo-desktop-ressaca.png",
+          "link": "https://conexaohome.com.br/moveis-a-pronta-entrega"
         }
       ]
     },
