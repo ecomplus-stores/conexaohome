@@ -34,19 +34,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/3.png",
-          "link": "https://conexaohome.com.br/cadeira",
-          "mobile_img": ""
-        },
-        {
-          "img": "/img/uploads/1.png",
-          "link": "https://conexaohome.com.br/linha-chestersield",
-          "mobile_img": "/img/uploads/1.png"
-        },
-        {
-          "img": "/img/uploads/2.png",
+          "img": "/img/uploads/banners_mobile_002.png",
           "link": "https://conexaohome.com.br/mesa-posta",
-          "mobile_img": "/img/uploads/2.png"
+          "mobile_img": "/img/uploads/002.png"
+        },
+        {
+          "img": "/img/uploads/banners_mobile_001.png",
+          "link": "https://conexaohome.com.br/poltrona-serg---natural",
+          "mobile_img": "/img/uploads/001.png"
+        },
+        {
+          "img": "/img/uploads/banners_mobile_003.png",
+          "link": "https://conexaohome.com.br/moveis",
+          "mobile_img": "/img/uploads/003.png"
         }
       ]
     },
