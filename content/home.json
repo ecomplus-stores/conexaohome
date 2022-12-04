@@ -61,19 +61,6 @@
       "page": 1
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/decoracoa-1-.png",
-          "link": "https://conexaohome.com.br/cozinha"
-        },
-        {
-          "img": "/img/uploads/decoracoa-2-.png",
-          "link": "https://conexaohome.com.br/decoracao"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 8,
