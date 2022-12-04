@@ -10,25 +10,15 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/rotativo-ressaca-desktop-1-.jpg",
-          "link": "https://conexaohome.com.br/moveis-a-pronta-entrega",
-          "mobile_img": "/img/uploads/rotativo-mobile-ressaca.png"
+          "img": "/img/uploads/rotativo-desk.png",
+          "mobile_img": "/img/uploads/rotativo-mobile.png",
+          "link": "https://conexaohome.com.br/moveis-a-pronta-entrega"
         }
       ]
     },
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2022-11-30T14:30:17.128Z",
-      "end": "2022-12-04T14:30:17.181Z",
-      "offers": [
-        "635d4b1d73321213f8c2461b"
-      ],
-      "notes": "Oferta imperdível e por tempo limitado!"
     },
     {
       "type": "collection-shelf",
