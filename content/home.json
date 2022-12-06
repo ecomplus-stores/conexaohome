@@ -61,6 +61,21 @@
       "page": 1
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/decoracao-2-.jpg",
+          "link": "https://conexaohome.com.br/mesa-posta",
+          "mobile_img": "/img/uploads/decoracao-2-.jpg"
+        },
+        {
+          "img": "/img/uploads/decoracao-1-.jpg",
+          "link": "https://conexaohome.com.br/mesa-posta",
+          "mobile_img": "/img/uploads/decoracao-1-.jpg"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 8,
