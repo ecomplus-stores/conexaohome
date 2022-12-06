@@ -34,19 +34,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/4.png",
+          "img": "/img/uploads/20221205_104504_0000.jpg",
           "link": "https://conexaohome.com.br/design",
-          "mobile_img": "/img/uploads/4.png"
+          "mobile_img": "/img/uploads/20221205_104504_0000.jpg"
         },
         {
-          "img": "/img/uploads/5.png",
+          "img": "/img/uploads/20221205_104504_0001.jpg",
           "link": "https://conexaohome.com.br/mesas-e-cadeiras",
-          "mobile_img": "/img/uploads/5.png"
+          "mobile_img": "/img/uploads/20221205_104504_0001.jpg"
         },
         {
-          "img": "/img/uploads/6.png",
+          "img": "/img/uploads/20221205_104504_0002.jpg",
           "link": "https://conexaohome.com.br/linha-burt",
-          "mobile_img": "/img/uploads/6.png"
+          "mobile_img": "/img/uploads/20221205_104504_0002.jpg"
         }
       ]
     },
