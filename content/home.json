@@ -8,20 +8,18 @@
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/20-burt.png",
-          "link": "https://conexaohome.com.br/linha-burt",
-          "alt": "",
-          "start": "2022-10-31T03:00:00.000Z",
-          "end": "2022-11-30T03:00:00.000Z",
-          "mobile_img": "/img/uploads/mobile-burt-20-.png"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/rotativo-desk.png",
+          "mobile_img": "/img/uploads/rotativo-mobile.png",
+          "link": "https://conexaohome.com.br/sofas-e-poltronas"
         },
         {
-          "start": "2022-10-31T03:00:00.000Z",
-          "end": "2022-11-30T03:00:00.000Z",
-          "img": "/img/uploads/sofas-rotativo-desk-1-.png",
-          "alt": "",
-          "mobile_img": "/img/uploads/sofas-mobile.png",
-          "link": "https://conexaohome.com.br/sofa"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-pronta-entrega-dezembro-1-.png",
+          "mobile_img": "/img/uploads/banner-pronta-entrega-dezembro-2-.png",
+          "link": "https://conexaohome.com.br/moveis-a-pronta-entrega"
         }
       ]
     },
@@ -32,12 +30,12 @@
     {
       "type": "offers-timer",
       "max_hours": 24,
-      "start": "2022-11-23T13:10:04.261Z",
-      "end": "2022-11-25T13:10:04.329Z",
+      "start": "2022-12-15T12:29:38.270Z",
+      "end": "2022-12-19T12:29:38.330Z",
       "offers": [
-        "63626d8173321213f8c6de62"
+        "639a3dcd4834634f73119036"
       ],
-      "notes": "Oferta imperdível e por tempo limitado!"
+      "notes": "Oferta por tempo limitado! ⏳"
     },
     {
       "type": "collection-shelf",
@@ -53,19 +51,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/3.png",
-          "link": "https://conexaohome.com.br/cadeira",
-          "mobile_img": ""
+          "img": "/img/uploads/20221205_104504_0000.jpg",
+          "link": "https://conexaohome.com.br/design",
+          "mobile_img": "/img/uploads/20221205_104504_0000.jpg"
         },
         {
-          "img": "/img/uploads/1.png",
-          "link": "https://conexaohome.com.br/linha-chestersield",
-          "mobile_img": "/img/uploads/1.png"
+          "img": "/img/uploads/20221205_104504_0001.jpg",
+          "link": "https://conexaohome.com.br/mesas-e-cadeiras",
+          "mobile_img": "/img/uploads/20221205_104504_0001.jpg"
         },
         {
-          "img": "/img/uploads/2.png",
-          "link": "https://conexaohome.com.br/mesa-posta",
-          "mobile_img": "/img/uploads/2.png"
+          "img": "/img/uploads/mesa-posta-mesa-posta.png",
+          "link": "https://conexaohome.com.br/moveis-a-pronta-entrega",
+          "mobile_img": "/img/uploads/mesa-posta-mesa-posta.png"
         }
       ]
     },
@@ -83,12 +81,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/decoracoa-1-.png",
-          "link": "https://conexaohome.com.br/cozinha"
+          "img": "/img/uploads/decoracao-2-.jpg",
+          "link": "https://conexaohome.com.br/mesa-posta",
+          "mobile_img": "/img/uploads/decoracao-2-.jpg"
         },
         {
-          "img": "/img/uploads/decoracoa-2-.png",
-          "link": "https://conexaohome.com.br/decoracao"
+          "img": "/img/uploads/decoracao-1-.jpg",
+          "link": "https://conexaohome.com.br/decoracao",
+          "mobile_img": "/img/uploads/decoracao-1-.jpg"
         }
       ]
     },
