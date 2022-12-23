@@ -30,12 +30,12 @@
     {
       "type": "offers-timer",
       "max_hours": 24,
-      "start": "2022-12-21T18:31:41.273Z",
-      "end": "2022-12-24T18:31:41.328Z",
+      "start": "2022-12-23T13:16:41.694Z",
+      "end": "2022-12-24T13:16:41.740Z",
       "offers": [
-        "6345afcf73321213f8a7039c"
+        "63626d8173321213f8c6de62"
       ],
-      "notes": "Oferta por tempo limitado! ⏳"
+      "notes": "Oferta até a Meia Noite! ⏳"
     },
     {
       "type": "collection-shelf",
