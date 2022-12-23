@@ -10,13 +10,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/rotativo-desk.png",
-          "mobile_img": "/img/uploads/rotativo-mobile.png",
-          "link": "https://conexaohome.com.br/sofas-e-poltronas"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/banner-pronta-entrega-dezembro-1-.png",
           "mobile_img": "/img/uploads/banner-pronta-entrega-dezembro-2-.png",
           "link": "https://conexaohome.com.br/moveis-a-pronta-entrega"
@@ -26,16 +19,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2022-12-23T13:16:41.694Z",
-      "end": "2022-12-24T13:16:41.740Z",
-      "offers": [
-        "63626d8173321213f8c6de62"
-      ],
-      "notes": "Oferta até a Meia Noite! ⏳"
     },
     {
       "type": "collection-shelf",
