@@ -8,18 +8,18 @@
       "full_width": true,
       "slides": [
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-pronta-entrega-dezembro-1-.png",
-          "mobile_img": "/img/uploads/banner-pronta-entrega-dezembro-2-.png",
-          "link": "https://conexaohome.com.br/moveis-a-pronta-entrega"
-        },
-        {
           "start": "2023-01-01T03:00:00.000Z",
           "end": "2023-01-23T03:00:00.000Z",
           "img": "/img/uploads/banner-15off-moveis-desck.png",
           "mobile_img": "/img/uploads/banner-15off-moveis-mobile.png",
           "link": "https://conexaohome.com.br/moveis"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-pronta-entrega-dezembro-1-.png",
+          "mobile_img": "/img/uploads/banner-pronta-entrega-dezembro-2-.png",
+          "link": "https://conexaohome.com.br/moveis-a-pronta-entrega"
         }
       ]
     },
