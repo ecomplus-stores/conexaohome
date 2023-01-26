@@ -10,6 +10,13 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/banner-rotativo-desktop.png",
+          "link": "https://conexaohome.com.br/home-e-cinema",
+          "mobile_img": "/img/uploads/rotativo-mobile.png"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner-pronta-entrega-dezembro-1-.png",
           "mobile_img": "/img/uploads/banner-pronta-entrega-dezembro-2-.png",
           "link": "https://conexaohome.com.br/moveis-a-pronta-entrega"
