@@ -41,9 +41,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/20221205_104504_0000.jpg",
-          "link": "https://conexaohome.com.br/design",
-          "mobile_img": "/img/uploads/20221205_104504_0000.jpg"
+          "img": "/img/uploads/burt.png",
+          "link": "https://conexaohome.com.br/linha-burt",
+          "mobile_img": "/img/uploads/burt.png",
+          "alt": ""
         },
         {
           "img": "/img/uploads/20221205_104504_0001.jpg",
