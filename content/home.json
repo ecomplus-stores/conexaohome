@@ -13,6 +13,13 @@
           "img": "/img/uploads/banner-rotativo-desktop-chesterfield.png",
           "mobile_img": "/img/uploads/rotativo-mobile-chesterfield.png",
           "link": "https://conexaohome.com.br/linha-chestersield"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/rotativo-desk.jpg",
+          "link": "https://conexaohome.com.br/decoracao-pascoa",
+          "mobile_img": "/img/uploads/mobile-600-400-px-1-.jpg"
         }
       ]
     },
