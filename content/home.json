@@ -28,6 +28,16 @@
       "enabled": true
     },
     {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2023-02-25T15:03:58.729Z",
+      "end": "2023-02-28T15:03:58.780Z",
+      "notes": "Super oferta por tempo limitado!",
+      "offers": [
+        "63f7acc8f4167e223c99ba98"
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 8,
