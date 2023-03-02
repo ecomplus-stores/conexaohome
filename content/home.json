@@ -30,11 +30,11 @@
     {
       "type": "offers-timer",
       "max_hours": 24,
-      "start": "2023-02-25T15:03:58.729Z",
-      "end": "2023-02-28T15:03:58.780Z",
+      "start": "2023-03-02T15:37:16.009Z",
+      "end": "2023-03-08T15:37:16.061Z",
       "notes": "Super oferta por tempo limitado!",
       "offers": [
-        "63f7acc8f4167e223c99ba98"
+        "63f7acb8f4167e223c99ba57"
       ]
     },
     {
