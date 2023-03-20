@@ -82,9 +82,9 @@
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
-      "link": "https://conexaohome.com.br/decoracao",
+      "link": "",
       "limit": 8,
-      "collection_id": null,
+      "collection_id": "631f965a73321213f8725196:categories:Decoração:/decoracao",
       "sort": "sales"
     }
   ]
