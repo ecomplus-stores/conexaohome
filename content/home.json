@@ -10,13 +10,6 @@
         {
           "start": "",
           "end": "",
-          "link": "https://conexaohome.com.br/sofas-e-poltronas",
-          "img": "/img/uploads/semana-do-consumidor-banners.jpg",
-          "mobile_img": "/img/uploads/semana-do-consumidor-banners-mobile.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/sonho-de-pascoa-desck.jpg",
           "mobile_img": "/img/uploads/banner-rotativo-mobile-pacoa.jpg",
           "link": "https://conexaohome.com.br/decoracao-enfeites-para-pascoa"
@@ -26,16 +19,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2023-03-10T18:11:39.881Z",
-      "end": "2023-03-19T18:12:00.311Z",
-      "offers": [
-        "63c02d804834634f73327add"
-      ],
-      "notes": "Super oferta por tempo limitado!"
     },
     {
       "type": "collection-shelf",
