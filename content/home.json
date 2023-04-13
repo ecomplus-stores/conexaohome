@@ -13,6 +13,13 @@
           "img": "/img/uploads/banner-rotativo-desktop-pronta-entrega.png",
           "mobile_img": "/img/uploads/rotativo-mobile-pronta-entrega.png",
           "link": "https://conexaohome.com.br/moveis-a-pronta-entrega"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/rotativo-desktop.jpg",
+          "mobile_img": "/img/uploads/rotativo-mobile.jpg",
+          "link": "https://conexaohome.com.br/moveis-sofa"
         }
       ]
     },
