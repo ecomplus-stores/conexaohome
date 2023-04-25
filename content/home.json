@@ -78,13 +78,13 @@
     },
     {
       "page": 1,
-      "title": "Decoração",
+      "title": "Lançamentos",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
       "link": "",
       "limit": 8,
-      "collection_id": "631f965a73321213f8725196:categories:Decoração:/decoracao",
+      "collection_id": "63a1cb6c4834634f7318c29a:categories:Lançamentos:/lancamentos",
       "sort": "news"
     }
   ]
