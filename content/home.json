@@ -25,10 +25,10 @@
       "shuffle": true,
       "limit": 8,
       "page": 1,
-      "collection_id": "63f637e1f4167e223c97b16a:collections:Páscoa:/decoracao-enfeites-para-pascoa",
+      "collection_id": "63f78869f4167e223c997bc6:categories:Sofá:/moveis-sofa",
       "title": "Destaques",
       "headless": false,
-      "sort": "news"
+      "sort": "sales"
     },
     {
       "type": "banners-grid",
@@ -54,7 +54,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
+      "collection_id": "631f944673321213f8724dbe:categories:Móveis:/moveis",
       "sort": "sales",
       "title": "Mais Vendidos",
       "headless": false,
@@ -78,13 +78,13 @@
     },
     {
       "page": 1,
-      "title": "Decoração",
+      "title": "Lançamentos",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
       "link": "",
       "limit": 8,
-      "collection_id": "631f965a73321213f8725196:categories:Decoração:/decoracao",
+      "collection_id": "63a1cb6c4834634f7318c29a:categories:Lançamentos:/lancamentos",
       "sort": "news"
     }
   ]
