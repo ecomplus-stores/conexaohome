@@ -21,6 +21,16 @@
       "enabled": true
     },
     {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2023-05-06T04:27:14.686Z",
+      "end": "2023-05-12T04:27:14.732Z",
+      "offers": [
+        "643a15504bd2e929c1d0b459"
+      ],
+      "notes": "Oferta por tempo Limitado!"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 8,
