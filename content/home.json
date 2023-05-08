@@ -10,16 +10,16 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-rotativo-desktop-chesterfield.png",
-          "mobile_img": "/img/uploads/rotativo-mobile-chesterfield.png",
-          "link": "https://conexaohome.com.br/linha-chestersield"
+          "img": "/img/uploads/rotativo-desk.jpg",
+          "mobile_img": "/img/uploads/rotativo-mobile.jpg",
+          "link": "https://conexaohome.com.br/dia-das-maes"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/rotativo-desk.jpg",
-          "mobile_img": "/img/uploads/rotativo-mobile.jpg",
-          "link": "https://conexaohome.com.br/dia-das-maes"
+          "img": "/img/uploads/banner-rotativo-desktop-chesterfield.png",
+          "mobile_img": "/img/uploads/rotativo-mobile-chesterfield.png",
+          "link": "https://conexaohome.com.br/linha-chestersield"
         }
       ]
     },
