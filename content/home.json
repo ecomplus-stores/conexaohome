@@ -30,12 +30,12 @@
     {
       "type": "offers-timer",
       "max_hours": 24,
-      "start": "2023-05-06T04:27:14.686Z",
-      "end": "2023-05-12T04:27:14.732Z",
+      "start": "2023-05-15T11:46:08.569Z",
+      "end": "2023-05-31T11:46:23.489Z",
       "offers": [
-        "643a15504bd2e929c1d0b459"
+        "633f2fda73321213f89ff2eb"
       ],
-      "notes": "Oferta por tempo Limitado!"
+      "notes": "Linha de Design"
     },
     {
       "type": "collection-shelf",
