@@ -71,9 +71,9 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "631f944673321213f8724dbe:categories:Móveis:/moveis",
+      "collection_id": "638f5ec073321213f806978c:categories:Linha de Design:/moveis-de-design-famoso",
       "sort": "sales",
-      "title": "Mais Vendidos",
+      "title": "Linha de Design",
       "headless": false,
       "limit": 8,
       "page": 1
