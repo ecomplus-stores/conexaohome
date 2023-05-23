@@ -1,6 +1,14 @@
 {
   "sort_categories": [
-    "conjuntos"
+    "moveis",
+    "conjuntos",
+    "cozinha",
+    "decoracao",
+    "sala-de-estar",
+    "sala-de-jantar",
+    "quarto",
+    "varanda",
+    "ofertas-de-moveis-decoracao-utensilios-para-cozinha"
   ],
   "alphabetical_order": true,
   "phone_wpp": true,
