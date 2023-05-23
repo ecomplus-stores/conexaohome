@@ -1,5 +1,7 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "conjuntos"
+  ],
   "alphabetical_order": true,
   "phone_wpp": true,
   "socials": true
