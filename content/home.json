@@ -20,6 +20,13 @@
           "img": "/img/uploads/banner-rotativo-desktop-chesterfield.png",
           "mobile_img": "/img/uploads/rotativo-mobile-chesterfield.png",
           "link": "https://conexaohome.com.br/linha-chestersield"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-rotativo-cozinha-completa-1900x600.png",
+          "mobile_img": "/img/uploads/rotativo-mobile-cozinha-completa-600-400-px-1-.jpg",
+          "link": "https://conexaohome.com.br/linha-burt"
         }
       ]
     },
