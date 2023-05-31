@@ -6,8 +6,6 @@ import getBlogPosts from '@ecomplus/storefront-template/template/js/netlify-cms/
 import getExtraPages from '@ecomplus/storefront-template/template/js/netlify-cms/base-config/collections/extra-pages'
 import getWidgets from '@ecomplus/storefront-template/template/js/netlify-cms/base-config/collections/widgets'
 
-import getCustomCollection from './collections/custom-collection'
-
 export default options => {
   options.sections = getSections(options)
 
@@ -40,8 +38,7 @@ export default options => {
       getPages(options),
       getBlogPosts(options),
       getExtraPages(options),
-      getWidgets(options),
-      getCustomCollection(options)
+      getWidgets(options)
     ]
   }
 }
