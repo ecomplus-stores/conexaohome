@@ -1,13 +1,12 @@
 {
-  "pkg": "@ecomplus/widget-fb-pixel",
+  "pkg": "@ecomplus/widget-tiktok-pixel",
   "active": false,
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
-    "fbqContainerId": "",
+    "tiktokPixelId": "",
     "debug": false,
     "partytown": false
   },
-  "headAppend": "src/append/head",
-  "bodyAppend": "src/append/body"
+  "headAppend": "src/append/head"
 }
