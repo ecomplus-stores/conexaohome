@@ -28,16 +28,6 @@
       "enabled": true
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2023-06-01T11:37:08.492Z",
-      "end": "2023-06-15T11:37:08.547Z",
-      "offers": [
-        "64622106a0e875411e8db8dc"
-      ],
-      "notes": "OFERTA POR TEMPO LIMITADO 🕗 Retire no mesmo dia útil!"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 8,
