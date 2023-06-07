@@ -12,6 +12,7 @@
   },
   "categories_list": {
     "featured": [
+      "/conjuntos?Conjuntos",
       "/moveis?Móveis",
       "/decoracao?Decoração",
       "/cozinha?Cozinha",
@@ -19,8 +20,7 @@
       "/sala-de-jantar?Sala de Jantar",
       "/quarto?Quarto",
       "/escritorio?Escritório",
-      "/varanda?Varanda",
-      "/conjuntos?Conjuntos"
+      "/varanda?Varanda"
     ],
     "random": 8,
     "full_width": true
