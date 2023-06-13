@@ -49,6 +49,9 @@
       ]
     },
     {
+      "type": "newsletter-mt"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 8,

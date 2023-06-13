@@ -557,6 +557,31 @@ header[class~='mini-header'] {
     align-items: center;
     justify-content: center;
   }
+  .product-card__link {
+    border: 0!important;
+    text-decoration: none!important;
+    .product-card__buy {
+      margin-bottom: 1rem;
+      button.btn-primary {
+        border: 0!important;
+        background: var(--primary-color);
+        box-shadow: 0px 3px 6px #00000029;
+        border-radius: 0px 12px;
+        padding: .5rem 1rem;
+        font-size: 1.4rem;
+        text-transform: uppercase;
+        i {
+          display: none;
+        }
+
+      }
+    }
+    .product-card__name {
+      font-size: 1.4rem;
+      line-height: 1.4rem;
+      margin-bottom: 1rem;
+    }
+  }
   #pronta-entrega {
     position: absolute;
     top: 1rem;
@@ -569,6 +594,85 @@ header[class~='mini-header'] {
     justify-content: center;
     svg {
       display: none;
+    }
+  }
+  .prices {
+    .prices__compare {
+      font-size: 1.2rem;
+      margin-bottom: .5rem;
+    }
+    .prices__value {
+      font-size: 1.4rem;
+      margin-bottom: .5rem;
+    }
+    .prices__discount {
+      font-size: 1.2rem;
+    }
+  }
+}
+
+
+// NEWSLETTER MT
+.newsletter-mt {
+  background-color: var(--primary-color);
+  padding: 2rem 0;
+  .content-form {
+    max-width: 94rem;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    > p {
+      width: 30%;
+      font-size: 1.6rem;
+      line-height: 1.6rem;
+      color: var(--white);
+    }
+    form {
+      width: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      gap: 1.7rem;
+      > div {
+        width: 100%;
+        input[type="text"] {
+          width: 100%;
+          background-color: transparent;
+          color: var(--white);
+          border: 1px solid #FFF;
+          height: 5rem;
+          padding-left: 2rem;
+          font-size: 1.4rem;
+          &::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+            color: #FFF;
+            opacity: 1; /* Firefox */
+          }
+          
+          &:-ms-input-placeholder { /* Internet Explorer 10-11 */
+            color: #FFF;
+          }
+          
+          &::-ms-input-placeholder { /* Microsoft Edge */
+            color: #FFF;
+          }
+          &:focus {
+            border: 0;
+            
+          }
+        }
+      }
+      input[type="submit"] {
+        background-color: var(--yellow);
+        color: var(--white);
+        border-radius: 4px;
+        height: 5rem;
+        border: none;
+        padding: 0 2rem;
+        font-size: 1.2rem;
+        font-weight: 500;
+        text-transform: uppercase;
+      }
     }
   }
 }
