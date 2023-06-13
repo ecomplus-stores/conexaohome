@@ -455,19 +455,7 @@ header[class~='mini-header'] {
   }
 }
 
-// LISTAGEM DE PRODUTO
-.collection-shelf {
-  .products-carousel {
-    .products-carousel__title {
-      font-size: 2rem;
-      font-weight: 600;
-      color: #000;
-      &::before {
-        display: none;
-      }
-    }
-  }
-}
+
 
 .page--home {
   .banner-slider {
@@ -503,6 +491,14 @@ header[class~='mini-header'] {
           a.info-bar__item {
             flex-direction: column;
             justify-content: center;
+            &:hover {
+              border: 0!important;
+              box-shadow: none!important;
+            }
+            &:hover {
+              border: 0!important;
+              box-shadow: none!important;
+            }
             > span.rounded-icon {
               width: 44px;
               height: 44px;
@@ -514,6 +510,7 @@ header[class~='mini-header'] {
               justify-content: center;
               padding: 0;
               margin-bottom: 1rem;
+              
               i {
                 color: var(--primary-color);
               }
@@ -525,6 +522,7 @@ header[class~='mini-header'] {
               font-size: 1.4rem;
               font-weight: 500;
               line-height: 1.7rem;
+              margin-left: 0;
               &:hover {
                 color: #000;
               }
@@ -532,6 +530,45 @@ header[class~='mini-header'] {
           }
         }
       }
+    }
+  }
+}
+// LISTAGEM DE PRODUTO
+.collection-shelf {
+  .products-carousel {
+    max-width: var(--max-width-full);
+    .products-carousel__title {
+      font-size: 2rem;
+      font-weight: 600;
+      color: #000;
+      &::before {
+        display: none;
+      }
+    }
+  }
+}
+.product-card {
+  .product-card__offer-stamp {
+    border-radius: 0px 12px;
+    font-size: 1.3rem;
+    font-weight: 400;
+    padding: 0 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #pronta-entrega {
+    position: absolute;
+    top: 1rem;
+    padding: .5rem 2rem;
+    border-radius: 0px 12px;
+    font-size: 1.2rem;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    svg {
+      display: none;
     }
   }
 }
