@@ -455,13 +455,86 @@ header[class~='mini-header'] {
   }
 }
 
-.page--home {
-  .info-bar {
-    max-width: var(--max-width-full);
+// LISTAGEM DE PRODUTO
+.collection-shelf {
+  .products-carousel {
+    .products-carousel__title {
+      font-size: 2rem;
+      font-weight: 600;
+      color: #000;
+      &::before {
+        display: none;
+      }
+    }
   }
 }
 
-
+.page--home {
+  .banner-slider {
+    margin-bottom: 2rem;
+    .glide {
+      .glide__track {
+        .glide__slides {}
+        .glide__arrows {
+          button {}
+        }
+        .glide__bullets {
+          button {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+          }
+        }
+      }
+    }
+  }
+  .info-bar {
+    background-color: transparent;
+    margin-bottom: 3rem;
+    .container {
+      max-width: var(--max-width-full);
+      .info-bar__nav {
+        gap: 2rem;
+        > div {
+          border-bottom: 1px solid var(--grey-70)!important;
+          &:hover {
+            border-bottom: 1px solid var(--primary-color)!important;
+          }
+          a.info-bar__item {
+            flex-direction: column;
+            justify-content: center;
+            > span.rounded-icon {
+              width: 44px;
+              height: 44px;
+              border: 2px solid var(--primary-color);
+              border-radius: 1.5rem;
+              flex: auto;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              padding: 0;
+              margin-bottom: 1rem;
+              i {
+                color: var(--primary-color);
+              }
+            }
+            > div {
+              text-align: center;
+              color: var(--grey-70);
+              text-transform: none;
+              font-size: 1.4rem;
+              font-weight: 500;
+              line-height: 1.7rem;
+              &:hover {
+                color: #000;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
 
 @media (max-width: 768px) {
   .header {
