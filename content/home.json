@@ -24,6 +24,16 @@
       ]
     },
     {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2023-06-29T18:38:22.072Z",
+      "end": "2023-07-10T18:39:36.130Z",
+      "offers": [
+        "635fe36373321213f8c4083c"
+      ],
+      "notes": "Oferta por tempo limitado!"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
