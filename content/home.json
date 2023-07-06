@@ -87,6 +87,9 @@
       ]
     },
     {
+      "type": "banners-grid-mt"
+    },
+    {
       "page": 1,
       "title": "Lançamentos",
       "shuffle": true,
