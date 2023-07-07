@@ -589,7 +589,9 @@ header[class~='mini-header'] {
       }
     }
   }
-  
+  .show-main-mini-menu {
+    display: block!important;
+  }
   .main-menu {
     display: none;
     margin-top: 5rem;

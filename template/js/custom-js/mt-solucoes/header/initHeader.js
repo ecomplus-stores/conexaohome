@@ -1,5 +1,6 @@
 import { createElement } from "../utils/createElementHTML";
 import { isMobile } from "../utils/isMobile"
+import { buttonMainMenu } from "./buttonMenuMiniMenu";
 import { changeHeader } from "./changeHeader"
 import { initSubMenu } from "./mainSubMenu";
 
@@ -23,6 +24,7 @@ const initListenerOnMenuButtonMobile = () => {
 const initHeaderDesktop = () => {
   changeHeader();
   initSubMenu('.main-submenu', 'show-submenu-main');
+  buttonMainMenu();
 }
 
 const initHeaderMobile = () => {
