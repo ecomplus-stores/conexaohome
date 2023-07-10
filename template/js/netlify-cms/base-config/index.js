@@ -7,7 +7,38 @@ import getExtraPages from '@ecomplus/storefront-template/template/js/netlify-cms
 import getWidgets from '@ecomplus/storefront-template/template/js/netlify-cms/base-config/collections/widgets'
 
 export default options => {
-  options.sections = getSections(options)
+  options.sections = getSections(options).concat([{
+    label: "Grid de banners MT Soluções",
+    name: "banners-grid-mt",
+    widget: "object",
+    icon: "https://api.iconify.design/bi:grid.svg",
+    fields: [
+      {
+        label: "Banners",
+        name: "banners",
+        widget: "list",
+        fields: [
+          {
+            label: "Imagem",
+            name: "img",
+            widget: "image"
+          },
+          {
+            label: "Link",
+            required: false,
+            name: "link",
+            widget: "string"
+          },
+          {
+            label: "Título",
+            required: false,
+            name: "title",
+            widget: "string"
+          }
+        ],
+      },
+    ],
+  }])
 
   return {
     backend: {

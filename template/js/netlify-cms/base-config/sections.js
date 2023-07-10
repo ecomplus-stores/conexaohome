@@ -141,43 +141,6 @@ export default ({ state }) => [
     ],
   },
   {
-    label: "Grid de banners MT Soluções",
-    name: "banners-grid-mt",
-    widget: "object",
-    icon: "https://api.iconify.design/bi:grid.svg",
-    fields: [
-      {
-        label: "Banners",
-        name: "banners",
-        widget: "list",
-        fields: [
-          {
-            label: "Imagem",
-            name: "img",
-            widget: "image",
-            media_library: {
-              config: {
-                max_file_size: Math.max(window.CMS_MAX_FILE_SIZE || 0, 1000000),
-              },
-            },
-          },
-          {
-            label: "Link",
-            required: false,
-            name: "link",
-            widget: "string",
-          },
-          {
-            label: "Título",
-            required: false,
-            name: "title",
-            widget: "string",
-          },
-        ],
-      },
-    ],
-  },
-  {
     label: "Conteúdo customizado",
     name: "custom-content",
     widget: "object",
