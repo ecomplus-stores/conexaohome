@@ -96,14 +96,14 @@
     },
     {
       "page": 1,
-      "title": "Lançamentos",
+      "title": "Linha de Design",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
       "link": "",
       "limit": 8,
-      "collection_id": "63a1cb6c4834634f7318c29a:categories:Lançamentos:/lancamentos",
-      "sort": "news"
+      "collection_id": "638f5ec073321213f806978c:categories:Linha de Design:/moveis-de-design-famoso",
+      "sort": "views"
     }
   ]
 }
