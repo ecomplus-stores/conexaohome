@@ -72,9 +72,9 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "638f5ec073321213f806978c:categories:Linha de Design:/moveis-de-design-famoso",
-      "sort": "sales",
-      "title": "Linha de Design",
+      "collection_id": "63a1cb6c4834634f7318c29a:categories:Lançamentos:/lancamentos",
+      "sort": "news",
+      "title": "Lançamentos",
       "headless": false,
       "limit": 8,
       "page": 1
