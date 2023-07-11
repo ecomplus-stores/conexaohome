@@ -17,12 +17,12 @@ import {
   import Vue from 'vue'
   import { store } from '@ecomplus/client'
   import ecomCart from '@ecomplus/shopping-cart'
-  import ALink from '@ecomplus/storefront-componenents/src/ALink.vue'
-  import APicture from '@ecomplus/storefront-componenents/src/APicture.vue'
-  import APrices from '@ecomplus/storefront-componenents/src/APrices.vue'
-  import ProductVariations from '@ecomplus/storefront-componenents/src/ProductVariations.vue'
+  import ALink from '@ecomplus/storefront-components/src/ALink.vue'
+  import APicture from '@ecomplus/storefront-components/src/APicture.vue'
+  import APrices from '@ecomplus/storefront-components/src/APrices.vue'
+  import ProductVariations from '@ecomplus/storefront-components/src/ProductVariations.vue'
   import ecomPassport from '@ecomplus/passport-client'
-  import { toggleFavorite, checkFavorite } from '@ecomplus/storefront-componenents/src/js/helpers/favorite-products'
+  import { toggleFavorite, checkFavorite } from '@ecomplus/storefront-components/src/js/helpers/favorite-products'
   
   const getExternalHtml = (varName, product) => {
     if (typeof window === 'object') {
