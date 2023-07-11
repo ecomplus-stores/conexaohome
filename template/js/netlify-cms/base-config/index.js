@@ -39,6 +39,34 @@ export default options => {
             ],
         }
         ]
+    },
+    {
+        label: "Instagram feed",
+        name: "instafeed",
+        widget: "object",
+        icon: "https://api.iconify.design/bi:grid.svg",
+        fields: [
+            {
+                label: "Ativar feed instagram",
+                name: "active",
+                widget: "boolean",
+                default: true
+            }
+        ]
+    },
+    {
+        label: "Newsletter",
+        name: "newsletter-mt",
+        widget: "object",
+        icon: "https://api.iconify.design/bi:grid.svg",
+        fields: [
+            {
+                label: "Ativar newsletter",
+                name: "active",
+                widget: "boolean",
+                default: true
+            }
+        ]
     }
   ])
 
