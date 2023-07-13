@@ -49,7 +49,8 @@
       ]
     },
     {
-      "type": "newsletter-mt"
+      "type": "newsletter-mt",
+      "active": true
     },
     {
       "type": "collection-shelf",
@@ -85,9 +86,6 @@
           "mobile_img": "/img/uploads/transforme.webp"
         }
       ]
-    },
-    {
-      "type": "banners-grid-mt"
     },
     {
       "page": 1,
