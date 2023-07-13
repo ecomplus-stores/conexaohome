@@ -1,7 +1,7 @@
 {
   "description": {
-    "title": "xururur",
-    "text": "xuru2ru"
+    "title": "Sobre Nós",
+    "text": ""
   },
   "links_1": {
     "list_pages": true,
@@ -27,24 +27,22 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
-    "boleto": true,
+    "boleto": false,
     "aura": true,
-    "banrisul": true,
+    "banrisul": false,
     "elo": true,
-    "hipercard": true,
-    "hsbc": true,
-    "bradesco": true,
-    "santander": true,
+    "hipercard": false,
+    "hsbc": false,
+    "bradesco": false,
+    "santander": false,
     "mastercard": true,
-    "paypal": true,
-    "citibank": true,
-    "hiper": true,
+    "citibank": false,
     "diners": true,
-    "mais": true,
+    "mais": false,
     "amex": true,
-    "itau": true
+    "itau": false
   },
   "credits": ""
 }

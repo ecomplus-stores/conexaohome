@@ -1,8 +1,15 @@
 {
   "sort_categories": [
-    "roupas"
+    "conjuntos",
+    "moveis",
+    "cozinha",
+    "decoracao",
+    "sala-de-estar",
+    "sala-de-jantar",
+    "quarto",
+    "bazar-de-moveis-decoracao-utensilios-para-cozinha"
   ],
-  "alphabetical_order": false,
+  "alphabetical_order": true,
   "phone_wpp": true,
   "socials": true
 }

@@ -1,4 +1,172 @@
 // Add your custom CSS here.
+#pronta-entrega {
+    background: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3px;
+    font-size: 15px;
+    color: #fff;
+    svg {
+        color: #e26d03 !important;
+        padding-right: 3px;
+    }
+}
+.product__info.lead {
+  display: none !important;
+}
+
+#header {
+  nav.header__nav--full {
+    padding: 1em 0;
+    .header__category {
+      &:hover {
+        background-color: rgba($color: #e26d03, $alpha: .7);
+      }
+    }
+    > div {
+      nav.header__submenu {
+        width: 100%;
+        max-width: 100%;
+        max-height: 300px;
+        overflow-y: scroll;
+        left: 0;
+      }
+    }
+  }
+}
+// BACKDROP MODAL
+.backdrop {
+  background-color: rgba($color: #000000, $alpha: .7)!important;
+}
+
+
+
+
+
+// PAGE HOME
+.page--home {
+  .banners-grid {
+    .container {
+      max-width: 100%;
+    }
+  }
+}
+
+// OURS STORES
+article#content {
+  .extra-page {
+    iframe {
+      width: 100%;
+    }
+  }
+}
+
+// INFOBAR
+.info-bar {
+  max-width: 100%;
+}
+
+// BANNER TRIPLO
+.page--home {
+  .banners-grid {
+    .container {
+      .row {
+        .banner {
+          width: 100%;
+        }
+      }
+    }
+  }
+}
+
+// CAROUSEL HOME
+.products-carousel {
+  max-width: 100%;
+  ul.glide__slides {
+    li.products-carousel__item {
+      width: 25%;
+    }
+  }
+}
+
+
+// PAGE CART
+#cart, #product {
+  .shipping-calculator {
+    .shipping-calculator__services {
+      .list-group {
+        .list-group-item {
+          padding: 0.75rem 1rem;
+          .shipping-calculator__option {
+            font-size: .9em;
+            > small {
+              position: absolute;
+              right: 0;
+              top: 1px!important;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+// INSTAFEED
+.content-instafeed {
+  h4 {
+    text-align: center;
+  }
+}
+
+// Remove instafeed
+#spa {
+  + #mt-instafeed {
+    display: none!important;
+  }
+}
+
+// FOOTER
+footer.footer {
+  .container {
+    position: relative;
+    .footer__payment-methods {
+      .pay-icon--pix {
+        background: url('/assets/icons/pix.svg') center center no-repeat;
+        background-size: cover;
+        width: 71px;
+      }
+    }
+    .footer__credits {
+      flex-direction: column;
+    }
+    #go-to-top {
+      position: absolute;
+      right: 0;
+    }
+    .footer__title {
+      color: var(--secondary)!important;
+    }
+  }
+}
+
+// mobile
+#categories-nav {
+  a[data-toggle="collapse"] {
+    position: relative;
+    .arrow-menu {
+      height: 20px;
+      position: absolute;
+      right: 20px;
+      top: 19px;
+      width: 20px;
+      background: url('/assets/arrow-right.svg') center center no-repeat;
+      background-size: contain;
+    }
+  }
+}
+
+
 
 $font: Helvetica, sans-serif;
 $footerColor: red;

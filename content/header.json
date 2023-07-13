@@ -1,25 +1,31 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "BAZAR ONLINE! Clique e confira.",
+    "link": "https://conexaohome.com.br/bazar-de-moveis-decoracao-utensilios-para-cozinha",
+    "background": "#d9d9d9",
+    "color": "#e26d03"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
     "featured": [
-      "/roupas?Roupas"
+      "/conjuntos?Conjuntos",
+      "/moveis?Móveis",
+      "/decoracao?Decoração",
+      "/cozinha?Cozinha",
+      "/sala-de-estar?Sala de Estar",
+      "/sala-de-jantar?Sala de Jantar",
+      "/quarto?Quarto",
+      "/bazar-de-moveis-decoracao-utensilios-para-cozinha?Bazar"
     ],
-    "random": 6,
+    "random": 0,
     "full_width": true
   },
-  "desktop_megamenu": false,
-  "search_input": true
+  "desktop_megamenu": true,
+  "search_input": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": false
 }

@@ -1,26 +1,25 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Conexão Home | O Melhor da Decoração em Sua Casa",
+  "meta_description": "Aqui na Conexão Home Você Encontra Produtos Exclusivos Para Tornar Seu Lar Mais Aconchegante e Acolhedor. Não Perca e Venha Conferir!",
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
+      "autoplay": 2000,
+      "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
-        },
-        {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/banner-bazer-desck-1.jpg",
+          "mobile_img": "/img/uploads/banner-bazer-mobile-1.jpg",
+          "link": "https://conexaohome.com.br/bazar-de-moveis-decoracao-utensilios-para-cozinha"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-rotativo-cozinha-completa-1900x600.png",
+          "mobile_img": "/img/uploads/rotativo-mobile-cozinha-completa-600-400-px-1-.jpg",
+          "link": "https://conexaohome.com.br/linha-burt"
         }
       ]
     },
@@ -29,28 +28,77 @@
       "enabled": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/burt.webp",
+          "link": "https://conexaohome.com.br/linha-burt",
+          "mobile_img": "/img/uploads/burt.webp",
+          "alt": ""
+        },
+        {
+          "img": "/img/uploads/triplo-chesterfield-atualizado.png",
+          "link": "https://conexaohome.com.br/linha-chestersield",
+          "mobile_img": "/img/uploads/triplo-chesterfield-atualizado.png"
+        },
+        {
+          "img": "/img/uploads/poltrona.webp",
+          "link": "https://conexaohome.com.br/poltrona",
+          "mobile_img": "/img/uploads/poltrona.webp"
+        }
+      ]
+    },
+    {
+      "type": "newsletter-mt"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "Escolha sua blowzinha",
+      "limit": 8,
+      "page": 1,
+      "collection_id": "63597c6073321213f8be3fb9:categories:Linha Burt:/linha-burt",
+      "title": "Linha Burt",
       "headless": false,
-      "limit": 12,
+      "sort": "sales"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "638f5ec073321213f806978c:categories:Linha de Design:/moveis-de-design-famoso",
+      "sort": "sales",
+      "title": "Linha de Design",
+      "headless": false,
+      "limit": 8,
       "page": 1
     },
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "autoplay": 0
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/mesa-laeral.webp",
+          "link": "https://conexaohome.com.br/mesa-lateral",
+          "mobile_img": "/img/uploads/mesa-laeral.webp"
+        },
+        {
+          "img": "/img/uploads/transforme.webp",
+          "link": "https://conexaohome.com.br/moveis-sofa",
+          "mobile_img": "/img/uploads/transforme.webp"
+        }
+      ]
     },
     {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "type": "banners-grid-mt"
     },
     {
-      "type": "banners-grid"
+      "page": 1,
+      "title": "Lançamentos",
+      "shuffle": true,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "",
+      "limit": 8,
+      "collection_id": "63a1cb6c4834634f7318c29a:categories:Lançamentos:/lancamentos",
+      "sort": "news"
     }
   ]
 }
