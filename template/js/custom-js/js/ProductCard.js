@@ -20,6 +20,7 @@ import {
   import ALink from '@ecomplus/storefront-components/src/ALink.vue'
   import APicture from '@ecomplus/storefront-components/src/APicture.vue'
   import APrices from '@ecomplus/storefront-components/src/APrices.vue'
+  import ProductVariations from '@ecomplus/storefront-components/src/ProductVariations.vue'
   import ecomPassport from '@ecomplus/passport-client'
   import { toggleFavorite, checkFavorite } from '@ecomplus/storefront-components/src/js/helpers/favorite-products'
   
@@ -42,7 +43,8 @@ import {
     components: {
       ALink,
       APicture,
-      APrices
+      APrices,
+      ProductVariations
     },
   
     props: {
@@ -92,6 +94,11 @@ import {
       i19addToFavorites: () => i18n(i19addToFavorites),
       i19outOfStock: () => i18n(i19outOfStock),
       i19unavailable: () => i18n(i19unavailable),
+      i19uponRequest: () => 'Sob consulta',
+  
+      isWithoutPrice () {
+        return !getPrice(this.body)
+      },
   
       ratingHtml () {
         return getExternalHtml('Rating', this.body)
