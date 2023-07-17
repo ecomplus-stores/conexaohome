@@ -24,18 +24,18 @@
       ]
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2023-07-10T20:22:11.488Z",
-      "end": "2023-07-10T20:22:11.549Z",
-      "offers": [
-        "641c5c4e4bd2e929c1ace7cd"
-      ],
-      "notes": "Oferta por tempo limitado!"
-    },
-    {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2023-07-17T20:49:35.818Z",
+      "end": "2023-07-31T20:49:35.872Z",
+      "notes": "A Poltrona com Base Giratória super estofada é o epitome do conforto e elegância, transformando qualquer ambiente em um verdadeiro oásis de descanso.",
+      "offers": [
+        "6377e0f473321213f8e2eebc"
+      ]
     },
     {
       "page": 1,
