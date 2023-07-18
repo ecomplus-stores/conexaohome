@@ -109,6 +109,23 @@
         "6483278a5e606903703261ef:categories:Conjunto Mesas:/conjunto-mesas",
         "6483278b5e606903703261f1:categories:Conjunto Poltrona e Puff:/conjunto-poltrona-e-puff"
       ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/icone_revendedor.svg",
+          "alt": "Revendedor autorizado Dazie Metais"
+        },
+        {
+          "img": "/img/uploads/icone_entrega.svg",
+          "alt": "Entrega expressa de até 2 dias úteis para São Paulo"
+        },
+        {
+          "img": "/img/uploads/icone_desconto.svg",
+          "alt": "10% de Desconto na sua primeira compra."
+        }
+      ]
     }
   ]
 }
