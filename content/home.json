@@ -115,7 +115,8 @@
       "banners": [
         {
           "img": "/img/uploads/icone_revendedor.png",
-          "alt": "Revendedor autorizado Dazie Metais"
+          "alt": "Revendedor autorizado Dazie Metais",
+          "link": "https://teste.com.br"
         },
         {
           "img": "/img/uploads/icone_entrega.png",
