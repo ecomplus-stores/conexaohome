@@ -114,16 +114,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/icone_revendedor.png",
+          "img": "/img/uploads/icone_revendedor.svg",
           "alt": "Revendedor autorizado Dazie Metais",
           "link": "https://teste.com.br"
         },
         {
-          "img": "/img/uploads/icone_entrega.png",
+          "img": "/img/uploads/icone_entrega.svg",
           "alt": "Revendedor autorizado Dazie Metais"
         },
         {
-          "img": "/img/uploads/icone_desconto.png",
+          "img": "/img/uploads/icone_desconto.svg",
           "alt": "10% de Desconto na sua primeira compra."
         }
       ]
