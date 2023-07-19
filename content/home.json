@@ -193,7 +193,8 @@
       "type": "responsive-banner",
       "img": "/img/uploads/single-desktop.png",
       "link": "https://link.com.br",
-      "mobile_img": "/img/uploads/single-mobile.png"
+      "mobile_img": "/img/uploads/single-mobile.png",
+      "alt": "Conheça nossas lojas"
     }
   ]
 }
