@@ -147,10 +147,11 @@
       "limit": 8,
       "page": 1,
       "collection_ids": [
-        "648327865e606903703261e3:categories:Conjunto Cozinha Completa:/conjunto-cozinha-completa",
-        "648327875e606903703261e8:categories:Melhores Ofertas:/ofertas-de-moveis-decoracao-utensilios-para-cozinha",
-        "6483278a5e606903703261ef:categories:Conjunto Mesas:/conjunto-mesas",
-        "6483278b5e606903703261f1:categories:Conjunto Poltrona e Puff:/conjunto-poltrona-e-puff"
+        "6483282a5e60690370326414:categories:Conjuntos:/conjuntos",
+        "648327b45e6069037032625f:categories:Móveis:/moveis",
+        "648327ce5e606903703262a8:categories:Decoração:/decoracao",
+        "648327cf5e606903703262ab:categories:Cozinha:/cozinha",
+        "648327ba5e6069037032626e:categories:Sala de Estar:/sala-de-estar"
       ]
     },
     {
@@ -159,10 +160,6 @@
       "link": "https://link.com.br",
       "mobile_img": "/img/uploads/single-mobile.png",
       "alt": "Conheça nossas lojas"
-    },
-    {
-      "type": "instafeed",
-      "active": true
     }
   ]
 }
