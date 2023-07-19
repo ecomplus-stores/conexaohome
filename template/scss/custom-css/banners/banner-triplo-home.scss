@@ -1,0 +1,16 @@
+.banner-triple-home {
+  .container {
+    display: flex;
+    gap: 1rem;
+    .banner {
+      width: 33%;
+      a {
+        display: block;
+        
+        picture {
+          width: 100%;
+        }
+      }
+    }
+  }
+}
