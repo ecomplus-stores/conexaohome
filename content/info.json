@@ -1,23 +1,23 @@
 {
   "shipping": {
     "show": true,
-    "text": "Para todo o Brasil",
-    "title": "Entregas"
+    "text": "",
+    "title": "Entregas para todo o Brasil"
   },
   "installments": {
     "show": true,
-    "text": "Até 10 x sem juros",
-    "title": "Pague em "
+    "text": "",
+    "title": "Pague em até 10 x sem juros"
   },
   "exchange": {
     "show": true,
-    "text": "Retire na Loja em SP",
-    "title": "Compre no Site",
+    "text": "",
+    "title": "Compre no site, retire na Loja em SP",
     "link": "https://conexaohome.netlify.app/pages/nossas-lojas"
   },
   "promo": {
     "show": true,
-    "text": "E seu pedido aprova na hora!",
-    "title": "Pague no Pix"
+    "text": "",
+    "title": "Pague no Pix e seu pedido aprova na hora!"
   }
 }
