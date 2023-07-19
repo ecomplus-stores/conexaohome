@@ -135,6 +135,59 @@
         "6483278a5e606903703261ef:categories:Conjunto Mesas:/conjunto-mesas",
         "6483278b5e606903703261f1:categories:Conjunto Poltrona e Puff:/conjunto-poltrona-e-puff"
       ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/imgplaceholder.svg",
+          "alt": "Na sua cozinha",
+          "link": "https://link.com.br",
+          "mobile_img": "/img/uploads/imgplaceholder.svg"
+        },
+        {
+          "img": "/img/uploads/imgplaceholder.svg",
+          "link": "https://link.com.br",
+          "alt": "Na sua sala",
+          "mobile_img": "/img/uploads/imgplaceholder.svg"
+        },
+        {
+          "img": "/img/uploads/imgplaceholder.svg",
+          "link": "https://link.com.br",
+          "alt": "no seu quintal",
+          "mobile_img": "/img/uploads/imgplaceholder.svg"
+        },
+        {
+          "img": "/img/uploads/imgplaceholder.svg",
+          "link": "https://link.com.br",
+          "alt": "Na sala de jantar",
+          "mobile_img": "/img/uploads/imgplaceholder.svg"
+        },
+        {
+          "img": "/img/uploads/imgplaceholder.svg",
+          "link": "https://link.com.br",
+          "alt": "Mesa",
+          "mobile_img": "/img/uploads/imgplaceholder.svg"
+        },
+        {
+          "img": "/img/uploads/imgplaceholder.svg",
+          "link": "https://link.com.br",
+          "alt": "Pratos",
+          "mobile_img": "/img/uploads/imgplaceholder.svg"
+        },
+        {
+          "img": "/img/uploads/imgplaceholder.svg",
+          "link": "https://link.com.br",
+          "alt": "Artesanatos",
+          "mobile_img": "/img/uploads/imgplaceholder.svg"
+        },
+        {
+          "img": "/img/uploads/imgplaceholder.svg",
+          "link": "https://link.com.br",
+          "alt": "Utensílios ",
+          "mobile_img": "/img/uploads/imgplaceholder.svg"
+        }
+      ]
     }
   ]
 }
