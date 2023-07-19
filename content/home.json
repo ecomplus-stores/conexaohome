@@ -83,6 +83,12 @@
       "sort": "sales"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/single-desktop.png",
+      "link": "https:bannersingle.com.br",
+      "mobile_img": "/img/uploads/single-mobile.png"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "638f5ec073321213f806978c:categories:Linha de Design:/moveis-de-design-famoso",
@@ -129,12 +135,6 @@
         "6483278a5e606903703261ef:categories:Conjunto Mesas:/conjunto-mesas",
         "6483278b5e606903703261f1:categories:Conjunto Poltrona e Puff:/conjunto-poltrona-e-puff"
       ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/single-desktop.png",
-      "link": "https:bannersingle.com.br",
-      "mobile_img": "/img/uploads/single-mobile.png"
     }
   ]
 }
