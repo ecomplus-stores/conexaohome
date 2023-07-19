@@ -142,6 +142,18 @@
       ]
     },
     {
+      "type": "shelfs-nav",
+      "shuffle": false,
+      "limit": 8,
+      "page": 1,
+      "collection_ids": [
+        "648327865e606903703261e3:categories:Conjunto Cozinha Completa:/conjunto-cozinha-completa",
+        "648327875e606903703261e8:categories:Melhores Ofertas:/ofertas-de-moveis-decoracao-utensilios-para-cozinha",
+        "6483278a5e606903703261ef:categories:Conjunto Mesas:/conjunto-mesas",
+        "6483278b5e606903703261f1:categories:Conjunto Poltrona e Puff:/conjunto-poltrona-e-puff"
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "638f5ec073321213f806978c:categories:Linha de Design:/moveis-de-design-famoso",
@@ -178,16 +190,10 @@
       "sort": "news"
     },
     {
-      "type": "shelfs-nav",
-      "shuffle": false,
-      "limit": 8,
-      "page": 1,
-      "collection_ids": [
-        "648327865e606903703261e3:categories:Conjunto Cozinha Completa:/conjunto-cozinha-completa",
-        "648327875e606903703261e8:categories:Melhores Ofertas:/ofertas-de-moveis-decoracao-utensilios-para-cozinha",
-        "6483278a5e606903703261ef:categories:Conjunto Mesas:/conjunto-mesas",
-        "6483278b5e606903703261f1:categories:Conjunto Poltrona e Puff:/conjunto-poltrona-e-puff"
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/single-desktop.png",
+      "link": "https://link.com.br",
+      "mobile_img": "/img/uploads/single-mobile.png"
     }
   ]
 }
