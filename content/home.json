@@ -39,12 +39,14 @@
         {
           "img": "/img/uploads/triplo-chesterfield-atualizado.png",
           "link": "https://conexaohome.com.br/linha-chestersield",
-          "mobile_img": "/img/uploads/triplo-chesterfield-atualizado.png"
+          "mobile_img": "/img/uploads/triplo-chesterfield-atualizado.png",
+          "alt": "Móveis diferenciados"
         },
         {
           "img": "/img/uploads/poltrona.webp",
           "link": "https://conexaohome.com.br/poltrona",
-          "mobile_img": "/img/uploads/poltrona.webp"
+          "mobile_img": "/img/uploads/poltrona.webp",
+          "alt": "Móveis versáteis "
         }
       ]
     },
