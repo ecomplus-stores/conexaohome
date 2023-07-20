@@ -36,7 +36,7 @@ export default options => {
                 name: "title",
                 widget: "string"
             }
-            ],
+            ]
         }
         ]
     },
