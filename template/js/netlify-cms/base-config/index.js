@@ -35,12 +35,6 @@ export default options => {
                 required: false,
                 name: "title",
                 widget: "string"
-            },
-            {
-              label: "Imagem para mobile",
-              required: false,
-              name: "mobile_img",
-              widget: "image"
             }
             ],
         }

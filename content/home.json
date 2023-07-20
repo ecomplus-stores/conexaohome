@@ -28,8 +28,7 @@
       "enabled": true
     },
     {
-      "type": "banners-grid-mt",
-      "classe": "banner-triple-home",
+      "type": "banners-grid",
       "banners": [
         {
           "img": "/img/uploads/burt.webp",
@@ -53,7 +52,6 @@
     },
     {
       "type": "banners-grid",
-      "classe": "banner-tarja",
       "banners": [
         {
           "img": "/img/uploads/icone_revendedor.svg",
