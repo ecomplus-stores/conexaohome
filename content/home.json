@@ -84,9 +84,9 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/single-desktop.png",
+      "img": "/img/uploads/single1.webp",
       "link": "https:bannersingle.com.br",
-      "mobile_img": "/img/uploads/single-mobile.png"
+      "mobile_img": "/img/uploads/single1m.webp"
     },
     {
       "type": "banners-grid",
@@ -159,9 +159,9 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/single-desktop.png",
+      "img": "/img/uploads/single2.webp",
       "link": "https://link.com.br",
-      "mobile_img": "/img/uploads/single-mobile.png",
+      "mobile_img": "/img/uploads/single2m.webp",
       "alt": "Conheça nossas lojas"
     }
   ]
