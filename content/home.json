@@ -31,21 +31,21 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/burt.webp",
+          "img": "/img/uploads/triple1.webp",
           "link": "https://conexaohome.com.br/linha-burt",
-          "mobile_img": "/img/uploads/burt.webp",
+          "mobile_img": "",
           "alt": "Itens de decoração"
         },
         {
-          "img": "/img/uploads/triplo-chesterfield-atualizado.png",
+          "img": "/img/uploads/triple2.webp",
           "link": "https://conexaohome.com.br/linha-chestersield",
-          "mobile_img": "/img/uploads/triplo-chesterfield-atualizado.png",
+          "mobile_img": "",
           "alt": "Móveis diferenciados"
         },
         {
-          "img": "/img/uploads/poltrona.webp",
+          "img": "/img/uploads/triple3.webp",
           "link": "https://conexaohome.com.br/poltrona",
-          "mobile_img": "/img/uploads/poltrona.webp",
+          "mobile_img": "",
           "alt": "Móveis versáteis "
         }
       ]
