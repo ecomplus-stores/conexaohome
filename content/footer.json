@@ -4,9 +4,34 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Institucional",
-    "list": []
+    "list": [
+      {
+        "text": "Nossas Lojas",
+        "url": "https://mtsolucoestest.netlify.app/pages/nossas-lojas"
+      },
+      {
+        "text": "Formas de Pagamento",
+        "url": "https://mtsolucoestest.netlify.app/pages/pagamentos"
+      },
+      {
+        "text": "Política de Privacidade",
+        "url": "https://mtsolucoestest.netlify.app/pages/politica-de-privacidade"
+      },
+      {
+        "text": "Trocas e Devoluções",
+        "url": "https://mtsolucoestest.netlify.app/pages/politica-de-trocas-e-devolucoes"
+      },
+      {
+        "text": "Política de Entregas e Envios",
+        "url": "https://mtsolucoestest.netlify.app/pages/politicas-de-entrega"
+      },
+      {
+        "text": "Sobre Nós",
+        "url": "https://mtsolucoestest.netlify.app/pages/sobre-nos"
+      }
+    ]
   },
   "links_2": {
     "list_categories": false,
