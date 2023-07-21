@@ -92,52 +92,52 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/imgplaceholder.svg",
+          "img": "/img/uploads/1.webp",
           "alt": "Na sua cozinha",
           "link": "https://link.com.br",
-          "mobile_img": "/img/uploads/imgplaceholder.svg"
+          "mobile_img": ""
         },
         {
-          "img": "/img/uploads/imgplaceholder.svg",
+          "img": "/img/uploads/2.webp",
           "link": "https://link.com.br",
           "alt": "Na sua sala",
-          "mobile_img": "/img/uploads/imgplaceholder.svg"
+          "mobile_img": ""
         },
         {
-          "img": "/img/uploads/imgplaceholder.svg",
+          "img": "/img/uploads/3.webp",
           "link": "https://link.com.br",
           "alt": "no seu quintal",
-          "mobile_img": "/img/uploads/imgplaceholder.svg"
+          "mobile_img": ""
         },
         {
-          "img": "/img/uploads/imgplaceholder.svg",
+          "img": "/img/uploads/4.webp",
           "link": "https://link.com.br",
           "alt": "Na sala de jantar",
-          "mobile_img": "/img/uploads/imgplaceholder.svg"
+          "mobile_img": ""
         },
         {
-          "img": "/img/uploads/imgplaceholder.svg",
+          "img": "/img/uploads/5.webp",
           "link": "https://link.com.br",
           "alt": "Mesa",
-          "mobile_img": "/img/uploads/imgplaceholder.svg"
+          "mobile_img": ""
         },
         {
-          "img": "/img/uploads/imgplaceholder.svg",
+          "img": "/img/uploads/6.webp",
           "link": "https://link.com.br",
           "alt": "Pratos",
-          "mobile_img": "/img/uploads/imgplaceholder.svg"
+          "mobile_img": ""
         },
         {
-          "img": "/img/uploads/imgplaceholder.svg",
+          "img": "/img/uploads/7.webp",
           "link": "https://link.com.br",
           "alt": "Artesanatos",
-          "mobile_img": "/img/uploads/imgplaceholder.svg"
+          "mobile_img": ""
         },
         {
-          "img": "/img/uploads/imgplaceholder.svg",
+          "img": "/img/uploads/8.webp",
           "link": "https://link.com.br",
           "alt": "Utensílios ",
-          "mobile_img": "/img/uploads/imgplaceholder.svg"
+          "mobile_img": ""
         }
       ]
     },
