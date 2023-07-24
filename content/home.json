@@ -29,6 +29,7 @@
     },
     {
       "type": "banners-grid",
+      "identificador": "banner-triplo",
       "banners": [
         {
           "img": "/img/uploads/triple1.webp",
