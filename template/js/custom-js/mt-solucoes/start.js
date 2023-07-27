@@ -2,6 +2,7 @@ import { addClassOnClasses } from "./home/addClassOnSections/";
 import { initCategoryPage } from "./categoryPage";
 import { initHeader } from "./header/initHeader";
 import { initProductPage } from "./productPage";
+import { initCartPage } from "./cartPage";
 
 
 

@@ -43,7 +43,10 @@
 // CONTENT BANNERS CATEGRIAS
 .section-categories-banners {
   h1 {
-    margin-bottom: 3rem;
+    display: table;
+    margin: 0 auto 3rem auto;
+    border-bottom: 2px solid var(--primary-color);
+    padding: 0 1rem;
   }
   > .container {
     max-width: 1250px!important;

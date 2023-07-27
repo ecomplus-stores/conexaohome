@@ -53,6 +53,7 @@
     },
     {
       "type": "banners-grid",
+      "identificador": "banner-tarja",
       "banners": [
         {
           "img": "/img/uploads/icone_revendedor.svg",
@@ -85,12 +86,14 @@
     },
     {
       "type": "responsive-banner",
+      "identificador": "full-banner-home",
       "img": "/img/uploads/single1.webp",
       "link": "https:bannersingle.com.br",
       "mobile_img": "/img/uploads/single1m.webp"
     },
     {
       "type": "banners-grid",
+      "identificador": "section-categories-banners",
       "banners": [
         {
           "img": "/img/uploads/1.webp",
@@ -160,6 +163,7 @@
     },
     {
       "type": "responsive-banner",
+      "identificador": "full-banner-home",
       "img": "/img/uploads/single2.webp",
       "link": "https://link.com.br",
       "mobile_img": "/img/uploads/single2m.webp",
