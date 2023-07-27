@@ -3,6 +3,7 @@ import { initCategoryPage } from "./categoryPage";
 import { initHeader } from "./header/initHeader";
 import { initProductPage } from "./productPage";
 import { initCartPage } from "./cartPage";
+import { initFooter } from "./footer";
 
 
 
@@ -17,3 +18,6 @@ document.querySelector('#page-products') ? initProductPage() : null;
 
 // HOME
 document.querySelector('.page--home') ? addClassOnClasses() : null;
+
+// FOOTER
+document.querySelector('footer.foo') ? initFooter() : null;

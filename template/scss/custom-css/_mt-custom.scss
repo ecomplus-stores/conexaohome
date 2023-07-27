@@ -740,6 +740,15 @@ header[class~="mini-header"] {
             width: 10px;
             height: 10px;
             border-radius: 50%;
+            opacity: 1!important;
+            border: 0;
+          }
+          .glide__bullet {
+            background-color: var(--primary-color);
+            
+          }
+          .glide__bullet--active {
+            background-color: var(--grey-70)!important;
           }
         }
       }
@@ -1238,7 +1247,6 @@ header[class~="mini-header"] {
             .search-engine__retail {
               .row {
                 gap: 3rem;
-                justify-content: space-between;
                 > div {
                   flex: 0 0 calc(25% - 5rem);
                   max-width: calc(25% - 5rem);
@@ -1578,6 +1586,23 @@ header[class~="mini-header"] {
     }
   }
 }
+
+// SECTION NEWSLETTER
+.content-instafeed {
+  h4 {
+    a {
+      display: inline-block;
+      @extend .title-page;
+      padding: 0 1rem;
+      border-bottom: 2px solid var(--primary-color);
+      &::after {
+        width: 20px;
+        height: 20px;
+        background-color: red;
+      }
+    }
+  }
+}
 // FOOTER
 footer.foo {
   background: var(--pink-light);
@@ -1660,10 +1685,29 @@ footer.foo {
           font-size: 1.4rem;
           color: var(--black);
           font-weight: 500;
+          display: flex;
           .footer__list-icon {
-            margin-right: 0.5rem;
+            margin-right: 1rem;
+            width: 18px;
+            height: 18px;
+            padding-top: .2rem;
             i {
-              color: var(--primary-color);
+              width: 18px;
+              height: 18px;
+              display: block;
+              background-size: contain!important;
+            }
+            i.phone {
+              background: url(/img/footer/i-phone.svg) center center no-repeat;
+            }
+            i.mail {
+              background: url(/img/footer/i-mail.svg) center center no-repeat;
+            }
+            i.hours {
+              background: url(/img/footer/i-hours.svg) center center no-repeat;
+            }
+            i.pin {
+              background: url(/img/footer/i-pin.svg) center center no-repeat;
             }
           }
         }

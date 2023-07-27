@@ -80,7 +80,7 @@ const themeCustom = _.settings.theme.custom || ''
           <% if (contacts.phone) { %>
             <li>
               <span class="footer__list-icon">
-                <i class="i-phone"></i>
+                <i class="phone"></i>
               </span>
               <a
                 href="tel:+<%= contacts.phone.replace(/\D/g, '') %>"
@@ -94,18 +94,30 @@ const themeCustom = _.settings.theme.custom || ''
         <% } %>
         <% if (footer.contacts.email) { %>
           <li>
+            <span class="footer__list-icon">
+              <i class="mail"></i>
+            </span>
             <a href="mailto:<%= contacts.email %>" target="_blank" rel="noopener">
               <%= contacts.email %>
             </a>
           </li>
         <% } %>
-        <!-- <% if (footer.contacts.address) { %>
+        <% if (footer.contacts.address) { %>
+          <li class="horario">
+            <span class="footer__list-icon">
+              <i class="hours"></i>
+            </span>
+            <p></p>
+          </li>
           <li>
+            <span class="footer__list-icon">
+              <i class="pin"></i>
+            </span>
             <address>
               <%= contacts.address %>
             </address>
           </li>
-        <% } %> -->
+        <% } %>
       </ul>
     </div>
     <div class="content-lojas">
@@ -188,18 +200,21 @@ const themeCustom = _.settings.theme.custom || ''
             <% } %>
             <% if (footer.contacts.email) { %>
               <li>
+                <span class="footer__list-icon">
+                  <i class="i-mail"></i>
+                </span>
                 <a href="mailto:<%= contacts.email %>" target="_blank" rel="noopener">
                   <%= contacts.email %>
                 </a>
               </li>
             <% } %>
-            <!-- <% if (footer.contacts.address) { %>
+            <% if (footer.contacts.address) { %>
               <li>
                 <address>
                   <%= contacts.address %>
                 </address>
               </li>
-            <% } %> -->
+            <% } %>
           </ul>
 
           <% if (footer.contacts.socials) { %>
