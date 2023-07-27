@@ -5,7 +5,7 @@
   },
   "links_1": {
     "list_pages": false,
-    "title": "Institucional",
+    "title": "Informações úteis",
     "list": [
       {
         "text": "Nossas Lojas",
@@ -39,7 +39,7 @@
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "Dúvidas? Fale conosco",
     "phone_wpp": true,
     "socials": true,
     "email": true,
