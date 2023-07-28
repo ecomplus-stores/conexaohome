@@ -604,7 +604,6 @@ div[data-mbz-button-popup-wrapper] {
   }
 }
 
-
 header[class~="mini-header"] {
   background-color: var(--primary-color)!important;
   transition: all 0.5s ease;
@@ -1789,6 +1788,61 @@ footer.foo {
             i.pin {
               background: url(/img/footer/i-pin.svg) center center no-repeat;
             }
+          }
+        }
+      }
+    }
+    .content-lojas {
+      ul {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        li {
+          
+          .title {
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+            margin-bottom: 1.4rem;
+            p {
+              color: var(--black);
+              font-size: 1.4rem;
+              font-weight: 500;
+            }
+            i {
+              font-size: 1.2rem!important;
+              margin-right: .5rem;
+              color: var(--primary-color);
+              &::before {
+                width: 15px;
+                height: 15px;
+                content: '+';
+                font-family: arial;
+                top: -2px;
+                position: relative;
+              }
+            }
+          }
+          .content {
+            display: none;
+          }
+        }
+        li.show-address-store {
+          .title {
+            margin-bottom: .5rem;
+          }
+          i {
+            &::before {
+              content: '-';
+            }
+          }
+          .content {
+            display: block!important;
+            margin-bottom: 1.4rem!important;
+            padding-left: 1rem;
+            font-size: 1.3rem;
+            font-weight: 500;
+            color: var(--primary-color)
           }
         }
       }
