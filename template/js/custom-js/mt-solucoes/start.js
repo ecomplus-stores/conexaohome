@@ -4,6 +4,7 @@ import { initHeader } from "./header/initHeader";
 import { initProductPage } from "./productPage";
 import { initCartPage } from "./cartPage";
 import { initFooter } from "./footer";
+import { initMobile } from "./mobile";
 
 
 
@@ -21,3 +22,9 @@ document.querySelector('.page--home') ? addClassOnClasses() : null;
 
 // FOOTER
 document.querySelector('footer.foo') ? initFooter() : null;
+
+
+window.addEventListener("load", (event) => {
+  window.matchMedia("(max-width: 768px)").matches ? initMobile() : null;
+});
+
