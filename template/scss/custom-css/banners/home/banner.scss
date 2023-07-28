@@ -9,6 +9,7 @@
   // Banner tarja
   .banner-tarja {
     .container {
+      max-width: var(--max-width-full);
       .row {
         > div {
           .banner {
@@ -37,6 +38,12 @@
         }
       }
     }
+  }
+}
+
+.banner-triple {
+  .container {
+    max-width: var(--max-width-full)!important;
   }
 }
 
