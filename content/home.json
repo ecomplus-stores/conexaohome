@@ -30,12 +30,12 @@
     {
       "type": "offers-timer",
       "max_hours": 24,
-      "start": "2023-07-17T20:49:35.818Z",
-      "end": "2023-07-31T20:49:35.872Z",
-      "notes": "A Poltrona com Base Giratória super estofada é o epitome do conforto e elegância, transformando qualquer ambiente em um verdadeiro oásis de descanso.",
+      "start": "2023-07-31T18:57:22.313Z",
+      "end": "2023-08-13T18:57:22.361Z",
       "offers": [
-        "6377e0f473321213f8e2eebc"
-      ]
+        "64c2cdb65e60690370760865"
+      ],
+      "notes": "Oferta de Dia Dos Pais! Sei super herói com capa invisível, MERECE! "
     },
     {
       "page": 1,
