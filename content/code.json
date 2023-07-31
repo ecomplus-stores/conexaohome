@@ -1,5 +1,5 @@
 {
   "css": "#sd-63eccd45f4167e223c901f15, #sd-645502004bd2e929c1edd014 {\ndisplay: none !important;\n}\n#c-63eccd45f4167e223c901f15, #c-645502004bd2e929c1edd014 {\ndisplay: none !important ;\n} #c-63d2704fb9e5be077846edfd, #c-638f5ec073321213f806978c, #c-631f9e0273321213f87263a9 {\ndisplay: none;\n} #c-6362796173321213f8c6eb12 {\ndisplay: none;\n}\n.header__nav .d-inline-block:last-child a { \nbackground-color: rgba(226,109,3,.7); \nborder-radius: var(--border-radius-sm) \n}\n#c-63597cce73321213f8be4059 span { \nbackground-color: rgba(226,109,3,.7); \nborder-radius: var(--border-radius-sm); \npadding: 5px \n} \n",
-  "html_head": "                                                                                                                               <script defer=\"defer\">window.addEventListener(\"load\",function(){var t=document.createElement(\"script\");t.type=\"text/javascript\",t.src=\"https://k-analytics.net/script.min.js?\"+Date.now(),document.body.appendChild(t)});</script>",
+  "html_head": "<script defer=\"defer\">window.addEventListener(\"load\",function(){var t=document.createElement(\"script\");t.type=\"text/javascript\",t.src=\"https://k-analytics.net/script.min.js?\"+Date.now(),document.body.appendChild(t)});</script>",
   "html_body": ""
 }
