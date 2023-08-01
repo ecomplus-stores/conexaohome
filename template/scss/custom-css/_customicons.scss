@@ -1,0 +1,14 @@
+.i-sort {
+  &::before {
+    content: '';
+    width: 12px;
+    height: 12px;
+    display: block;
+    background: url(/img/short-icon.svg) center center no-repeat;
+    background-size: contain;
+  }
+}
+
+select.custom-select {
+  background: #fff url(/img/short-icon.svg) right 0.75rem center/8px 10px no-repeat!important;
+}
