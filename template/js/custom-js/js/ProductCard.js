@@ -121,6 +121,10 @@ import {
           (typeof window === 'object' && window.productCardBuyText) ||
           i18n(i19buy)
       },
+
+      hasVariations () {
+        return this.body && this.body.variations && this.body.variations.length
+      },
   
       isInStock () {
         return checkInStock(this.body)

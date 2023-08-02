@@ -86,6 +86,15 @@
               {{ name }}
             </component>
           </slot>
+
+          <slot
+              name="variations"
+              v-if="hasVariations"
+            >
+              <product-variations
+                :product="product"
+              />
+          </slot>
         </a-link>
       </slot>
 
