@@ -6,6 +6,7 @@ const themeCustom = _.settings.theme.custom || ''
 %>
 <footer class="foo">
   <div class="container">
+    
     <div class="content-about">
       <%- await include('@/layout/inc/logo', { _ }) %>
       <div class="description">
@@ -196,12 +197,15 @@ const themeCustom = _.settings.theme.custom || ''
       </div>
     </div>
   </div>
-  <div class="creditos">
-    <%- await include('@/layout/inc/ecom-credits') %>
-    <div class="legal">
-      <span>
-        <%= footer.credits || `© ${_.store.name} | CNPJ: ${contacts.doc_number}` %>
-      </span>
+  <div class="container">
+    <div class="creditos">
+      <%- await include('@/layout/inc/ecom-credits') %>
+      <div class="legal">
+        <span>
+          <%= footer.credits || `© ${_.store.name} | CNPJ: ${contacts.doc_number}` %>
+        </span>
+      </div>
+      <div class="btn-to-top"></div>
     </div>
   </div>
 </div>
