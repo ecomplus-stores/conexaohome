@@ -30,12 +30,12 @@
     {
       "type": "offers-timer",
       "max_hours": 24,
-      "start": "2023-07-31T18:57:22.313Z",
-      "end": "2023-08-13T18:57:22.361Z",
+      "start": "2023-08-04T18:24:17.180Z",
+      "end": "2023-08-31T18:24:17.233Z",
+      "notes": "Seu super herói merece uma Super Cadeira!!!",
       "offers": [
-        "64c2cdb65e60690370760865"
-      ],
-      "notes": "Seu super herói merece uma Super Cadeira!!!"
+        "64c3bfd75e6069037076f316"
+      ]
     },
     {
       "page": 1,
