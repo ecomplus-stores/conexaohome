@@ -2470,18 +2470,86 @@ header.app__header {
     }
   }
 }
+
+// LOGIN ACCOUNT
+.login.account__login {
+  > form {
+    > label {
+      font-size: 1.6rem;
+      color: var(--grey-70);
+      text-transform: uppercase;
+      margin-bottom: 1.1rem;
+      font-weight: 600;
+    }
+    .login__email {
+      input#login-email {
+        margin: 0 1rem 3rem 0;
+        border-radius: 0.6rem;
+        border: 1px solid var(--grey-70);
+        height: 4.6rem;
+      }
+      .input-group-append {
+        .login__email-btn {
+          width: 15rem;
+          background-color: var(--primary-color);
+          border-radius: 0.6rem;
+          color: #fff;
+          border: 0;
+          height: 4.6rem;
+          i {
+            display: none;
+          }
+        }
+      }
+    }
+    .login__oauth {
+      .lead {
+        margin-bottom: 1.5rem;
+        text-transform: uppercase;
+        color: var(--grey-70);
+        font-weight: 600;
+      }
+    }
+  }
+  .login__info {
+    margin-bottom: 3rem;
+    > div {
+      font-size: 1.4rem;
+    }
+  }
+}
+
+.app__header {
+  + main {
+    .container {
+      h1 {
+        display: table;
+        margin: 2rem auto;
+        color: #000!important;
+        border-bottom: 2px solid var(--primary-color);
+        text-transform: uppercase;
+        font-weight: 600;
+        padding: 0 1rem;
+        &::before {
+          display: none!important;
+        }
+      }
+    }
+  }
+}
+
 .checkout-page {
   #spa {
     #storefront-app {
       max-width: var(--max-width-full);
       .container {
         > h1 {
-          text-decoration: 2px solid var(--primary-color) underline;
-          color: var(--black);
-          text-transform: uppercase;
-          font-size: 2rem;
-          font-weight: 700;
-          margin-bottom: 3rem;
+          // text-decoration: 2px solid var(--primary-color) underline;
+          // color: var(--black);
+          // text-transform: uppercase;
+          // font-size: 2rem;
+          // font-weight: 700;
+          // margin-bottom: 3rem;
         }
         #checkout {
           > .row {
@@ -2941,24 +3009,46 @@ header.app__header {
       }
     }
   }
-  footer {
-    .app__footer {
-      .container-fluid {
-        .app__stamps {
-          .stamps {
-            justify-content: center;
-          }
+}
+footer {
+  .app__footer {
+    .container-fluid {
+      .app__stamps {
+        .stamps {
+          justify-content: center;
         }
       }
     }
-    .app__credits {
-      flex-direction: column;
-    }
+  }
+  .app__credits {
+    flex-direction: column;
   }
 }
 #menu-secundario-mobile {
   display: none!important;
 }
+
+#page-404 {
+  #main {
+    .container {
+      width: 100vw;
+      #fallback-404 {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 2rem;
+        padding: 6rem 0;
+        .icon {}
+        h2 {
+          color: var(--primary-color);
+        }
+      }
+    }
+  }
+}
+
+
 @media (max-width: 768px) {
   div[data-mbz-button-popup-wrapper] {
     width: 40px!important;

@@ -26,5 +26,10 @@ document.querySelector('footer.foo') ? initFooter() : null;
 
 window.addEventListener("load", (event) => {
   window.matchMedia("(max-width: 768px)").matches ? initMobile() : null;
+  
 });
+
+
+// LOGIN ACCOUNT PAGE
+
 
