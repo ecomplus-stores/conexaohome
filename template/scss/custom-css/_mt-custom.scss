@@ -313,6 +313,7 @@ div[data-mbz-button-popup-wrapper] {
           }
         }
         button {
+          right: .7rem;
           i {
             color: var(--primary-color);
             svg {
@@ -625,12 +626,13 @@ header[class~="mini-header"] {
   .topo {
     margin-bottom: 0;
     .left-block {
-      width: 30%;
+      width: 40%;
       display: flex;
+      gap: 5rem;
       align-items: center;
       div.content-btn-menu {
         display: block !important;
-        margin-right: 3rem;
+        width: 6.6666666666667%;
         button {
           position: relative;
           i {
@@ -644,8 +646,12 @@ header[class~="mini-header"] {
         }
       }
       .content-search {
-        width: 30.3rem;
+        width: 36.6rem!important;
+        form {
+          width: 100%;
+        }
         input {
+          width: 100%;
           border: 1px solid var(--grey-c8);
           border-radius: 1.2rem 0;
           height: 2.7rem;
@@ -662,7 +668,7 @@ header[class~="mini-header"] {
       }
     }
     .center-block {
-      width: 40%;
+      width: 20%;
       display: flex;
       justify-content: center;
       align-items: stretch;
@@ -689,7 +695,7 @@ header[class~="mini-header"] {
       }
     }
     .right-block {
-      width: 30%;
+      width: 40%;
       display: flex;
       align-items: center;
       justify-content: flex-end;
@@ -952,7 +958,6 @@ header[class~="mini-header"] {
     display: flex;
     align-items: center;
     justify-content: center;
-    left: 0;
     right: auto;
     top: 5rem;
     opacity: 1;
@@ -1502,6 +1507,9 @@ header[class~="mini-header"] {
                           -webkit-box-shadow: inset -4px -6px 4px -2px rgba(0, 0, 0, 0.25);
                           -moz-box-shadow: inset -4px -6px 4px -2px rgba(0, 0, 0, 0.25);
                           box-shadow: inset -4px -6px 4px -2px rgba(0, 0, 0, 0.25);
+                          &:hover {
+                            background: var(--primary-color-hover);
+                          }
                           i {
                             display: none;
                           }
@@ -1612,14 +1620,12 @@ header[class~="mini-header"] {
         font-size: 1.3rem;
         text-transform: uppercase;
         color: var(--black);
-        border-bottom: 2px solid var(--primary-color);
         font-weight: 500;
-        padding: 1rem;
+        padding: 0 1rem;
         text-decoration: none;
       }
       .description-selected {
-        background-color: var(--primary-color);
-        border-bottom: 2px solid #000;
+        border-bottom: 2px solid var(--primary-color);
       }
     }
   }
@@ -1718,12 +1724,11 @@ header[class~="mini-header"] {
       &::after {
         content: '';
         width: 20px;
-        height: 20px;
+        height: 26px;
         background: url(/img/icon-instagram-black.svg) center center no-repeat;
         background-size: contain;
         display: inline-block;
-        position: absolute;
-        right: -20px;
+        margin-left: 1rem;
       }
     }
   }
@@ -1986,6 +1991,18 @@ footer.foo {
                 form.account-form {
                   > div {
                     margin-bottom: 1.5rem;
+                    // Gender Content
+                    &:nth-of-type(3) {
+                      display: none;
+                    }
+                    // hidden field phone
+                    &:nth-of-type(4) {
+                      > div {
+                        &:nth-of-type(1) {
+                          display: none;
+                        }
+                      }
+                    }
                   }
                   .form-group {
                     label {
@@ -2444,11 +2461,12 @@ body[id^="page-pages/"] {
         h1 {
           font-size: 2rem;
           font-weight: 600;
-          padding-top: 3rem;
+          padding: 3rem 1rem 0 1rem;
           text-align: center;
-          -webkit-text-decoration: underline solid var(--primary-color) 10%;
-          text-decoration: underline solid var(--primary-color) 10%;
+          display: table;
+          border-bottom: 2px solid var(--primary-color);
           text-transform: uppercase;
+
           color: var(--black);
         }
       }
@@ -3593,6 +3611,9 @@ footer {
                   }
                   button {
                     width: 100%;
+                    &:hover {
+                      background: var(--primary-color-hover)!important;
+                    }
                   }
                 }
               }
