@@ -34,9 +34,37 @@
     ]
   },
   "links_2": {
-    "list_categories": false,
-    "title": "Categorias",
-    "list": []
+    "title": "Nossas Lojas",
+    "list": [
+      {
+        "text": "Loja 01",
+        "url": "https://mtsolucoestest.netlify.app/pages/sobre-nos - teste loja 01"
+      },
+      {
+        "text": "Loja 02",
+        "url": "https://mtsolucoestest.netlify.app/pages/sobre-nos - teste loja 02"
+      },
+      {
+        "text": "Loja 03",
+        "url": "https://mtsolucoestest.netlify.app/pages/sobre-nos - teste loja 03"
+      },
+      {
+        "text": "Loja 04",
+        "url": "https://mtsolucoestest.netlify.app/pages/sobre-nos - teste loja 04"
+      },
+      {
+        "text": "Loja 05",
+        "url": "https://mtsolucoestest.netlify.app/pages/sobre-nos - teste loja 05"
+      },
+      {
+        "text": "Loja 06",
+        "url": "https://mtsolucoestest.netlify.app/pages/sobre-nos - teste loja 06"
+      },
+      {
+        "text": "Loja 07",
+        "url": "https://mtsolucoestest.netlify.app/pages/sobre-nos - teste loja 07"
+      }
+    ]
   },
   "contacts": {
     "title": "Dúvidas? Fale conosco",
