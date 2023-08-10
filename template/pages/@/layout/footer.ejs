@@ -134,55 +134,15 @@ const themeCustom = _.settings.theme.custom || ''
     <div class="content-lojas">
       <h2>Conheça Nossas lojas</h2>
       <ul>
+        <% footer.links_2.list.forEach(({ url, text }) => { %>
         <li>
           <div class="title">
             <i></i>
-            <p>Loja Santa Cecília - SP Móveis</p>
+            <p><%= text.split("@")[0] %></p>
           </div>
-          <div class="content">Endereço: AV. São João, 1915/1907, Santa Cecília</div>
+          <div class="content"><a href="<%= url %>"><p><%= text.split("@")[1] %></p></a></div>
         </li>
-        <li>
-          <div class="title">
-            <i></i>
-            <p>Loja Santa Cecília – SP Decor</p>
-          </div>
-          <div class="content">Endereço: AV. São João, 1915/1907, Santa Cecília</div>
-        </li>
-        <li>
-          <div class="title">
-            <i></i>
-            <p>Loja Arouche – Centro SP</p>
-          </div>
-          <div class="content">Endereço: AV. São João, 1915/1907, Santa Cecília</div>
-        </li>
-        <li>
-          <div class="title">
-            <i></i>
-            <p>Loja São José dos Campos – Jardim América</p>
-          </div>
-          <div class="content">Endereço: AV. São João, 1915/1907, Santa Cecília</div>
-        </li>
-        <li>
-          <div class="title">
-            <i></i>
-            <p>Loja São José dos Campos - SP -Decor</p>
-          </div>
-          <div class="content">Endereço: AV. São João, 1915/1907, Santa Cecília</div>
-        </li>
-        <li>
-          <div class="title">
-            <i></i>
-            <p>Loja São Caetano do Sul - Centro</p>
-          </div>
-          <div class="content">Endereço: AV. São João, 1915/1907, Santa Cecília</div>
-        </li>
-        <li>
-          <div class="title">
-            <i></i>
-            <p>Loja Campinas – Jardim Santana</p>
-          </div>
-          <div class="content">Endereço: AV. São João, 1915/1907, Santa Cecília</div>
-        </li>
+        <% }) %>
       </ul>
     </div>
   </div>
@@ -316,41 +276,7 @@ const themeCustom = _.settings.theme.custom || ''
       </div>
       <% } %>
 
-      <% if (footer.links_2.list_categories || footer.links_2.list.find(({ url }) => url)) { %>
-      <div class="col-12 col-sm-6 col-lg col-xl-auto px-xl-4">
-        <a class="footer__title" data-toggle="collapse" href="#footer-categories" role="button" aria-expanded="false"
-          aria-controls="footer-categories">
-          <%= footer.links_2.title || _.dictionary('categories') %>
-        </a>
-        <div class="collapse" id="footer-categories">
-          <% if (footer.links_2.list_categories) { %>
-          <ul class="footer__links">
-            <% _.categories.forEach(({ name, slug, parent }) => { %>
-            <% if (!parent) { %>
-            <li>
-              <i class="i-chevron-right"></i>
-              <a href="/<%= slug %>">
-                <%= name %>
-              </a>
-            </li>
-            <% } %>
-            <% }) %>
-          </ul>
-          <% } else { %>
-          <ul class="footer__links">
-            <% footer.links_2.list.forEach(({ url, text }) => { %>
-            <li>
-              <i class="i-chevron-right"></i>
-              <a href="<%= url %>">
-                <%= text %>
-              </a>
-            </li>
-            <% }) %>
-          </ul>
-          <% } %>
-        </div>
-      </div>
-      <% } %>
+      
 
       <div class="col-12 col-xl order-<%= themeCustom === 'ecom-beauty' ? '' : 'lg-'%>first">
         <h2 class="footer__title footer__store">
