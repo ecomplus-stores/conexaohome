@@ -70,6 +70,33 @@ export default options => {
     }
   ])
 
+  options.layout = getLayout(options).concat([
+    {
+      label: "Menu Secundário",
+      name: "secundarymenu",
+      widget: "object",
+      fields: [
+        {
+          label: "Ícone",
+          name: "img",
+          widget: "image"
+        },
+        {
+          label: "Link",
+          required: false,
+          name: "link",
+          widget: "string"
+        },
+        {
+          label: "Título",
+          required: false,
+          name: "title",
+          widget: "string"
+        }
+      ]
+    }
+  ])
+
   return {
     backend: {
       name: 'git-gateway',
