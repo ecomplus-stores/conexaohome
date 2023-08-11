@@ -69,40 +69,7 @@ export default options => {
         ]
     }
   ])
-  options.layout = getLayout(options).concat([
-    {
-      label: "Menu Secundário",
-      name: "secundarymenu",
-      widget: "object",
-      fields: [
-      {
-          label: "Lista do menu",
-          name: "itemsmenu",
-          widget: "list",
-          fields: [
-          {
-              label: "Icone",
-              name: "img",
-              widget: "image"
-          },
-          {
-              label: "Link",
-              required: false,
-              name: "link",
-              widget: "string"
-          },
-          {
-              label: "Título",
-              required: false,
-              name: "title",
-              widget: "string"
-          }
-          ]
-      }
-      ]
-  }
-    
-  ])
+
   return {
     backend: {
       name: 'git-gateway',
@@ -128,6 +95,40 @@ export default options => {
     },
     collections: [
       getSettings(options),
+      getLayout(options).concat([
+        {
+          label: "Menu Secundário",
+          name: "secundarymenu",
+          widget: "object",
+          fields: [
+          {
+              label: "Lista do menu",
+              name: "itemsmenu",
+              widget: "list",
+              fields: [
+              {
+                  label: "Icone",
+                  name: "img",
+                  widget: "image"
+              },
+              {
+                  label: "Link",
+                  required: false,
+                  name: "link",
+                  widget: "string"
+              },
+              {
+                  label: "Título",
+                  required: false,
+                  name: "title",
+                  widget: "string"
+              }
+              ]
+          }
+          ]
+      }
+        
+      ]),
       getPages(options),
       getBlogPosts(options),
       getExtraPages(options),
