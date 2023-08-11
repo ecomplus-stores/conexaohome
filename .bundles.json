@@ -4,8 +4,8 @@
     "vendors~app-account~app-checkout": "chunk.5624ffb92170aeaad995.js",
     "vendors~app-cart~app-checkout": "chunk.d4c40aa6f63871515e53.js",
     "admin": [
-      "admin.85b6450b4ae99b58677e.js",
-      "admin.85b6450b4ae99b58677e.js.map"
+      "admin.410d84496fb36ce61d28.js",
+      "admin.410d84496fb36ce61d28.js.map"
     ],
     "app-account": "chunk.e030bcc8e796487ed353.js",
     "app-cart": "chunk.37f3d703eb23860fd051.js",
