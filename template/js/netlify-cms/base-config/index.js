@@ -95,40 +95,7 @@ export default options => {
     },
     collections: [
       getSettings(options),
-      getLayout(options).concat([
-        {
-          label: "Menu Secundário",
-          name: "secundarymenu",
-          widget: "object",
-          fields: [
-          {
-              label: "Lista do menu",
-              name: "itemsmenu",
-              widget: "list",
-              fields: [
-              {
-                  label: "Icone",
-                  name: "img",
-                  widget: "image"
-              },
-              {
-                  label: "Link",
-                  required: false,
-                  name: "link",
-                  widget: "string"
-              },
-              {
-                  label: "Título",
-                  required: false,
-                  name: "title",
-                  widget: "string"
-              }
-              ]
-          }
-          ]
-      }
-        
-      ]),
+      getLayout(options),
       getPages(options),
       getBlogPosts(options),
       getExtraPages(options),
