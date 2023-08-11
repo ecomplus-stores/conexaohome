@@ -95,7 +95,32 @@ export default options => {
     },
     collections: [
       getSettings(options),
-      getLayout(options),
+      getLayout(options).files.concat[
+        {
+          label: "Menu Secundário",
+          name: "secundarymenu",
+          widget: "object",
+          fields: [
+            {
+              label: "Icone",
+              name: "img",
+              widget: "image"
+            },
+            {
+              label: "Titulo",
+              required: true,
+              name: "titulo",
+              widget: "string"
+            },
+            {
+              label: "Link",
+              required: true,
+              name: "link",
+              widget: "string"
+            }
+          ]
+        }
+      ],
       getPages(options),
       getBlogPosts(options),
       getExtraPages(options),

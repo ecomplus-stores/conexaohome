@@ -4,11 +4,5 @@
   "branch": "master",
   "identity_url": "https://gotrue.ecomplus.biz/50359/.netlify/identity",
   "gateway_url": "https://gitgateway.ecomplus.biz/50359/.netlify/git"
-},
-"collections": [
-  {
-    "label" : "Menu Secundario",
-    "name": "menu"
-  }
-]
+}
 }
