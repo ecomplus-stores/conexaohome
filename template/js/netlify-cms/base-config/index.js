@@ -95,7 +95,41 @@ export default options => {
     },
     collections: [
       getSettings(options),
-      getLayout(options),
+      getLayout(options).files[0].fields.concat(
+        [
+          {
+            label: "Menu Secundario",
+            name: "banners-grid-mt",
+            widget: "object",
+            fields: [
+              {
+                  label: "Banners",
+                  name: "banners",
+                  widget: "list",
+                  fields: [
+                  {
+                      label: "Imagem",
+                      name: "img",
+                      widget: "image"
+                  },
+                  {
+                      label: "Link",
+                      required: false,
+                      name: "link",
+                      widget: "string"
+                  },
+                  {
+                      label: "Título",
+                      required: false,
+                      name: "title",
+                      widget: "string"
+                  }
+                  ]
+              }
+              ]
+          }
+        ]
+      ),
       getPages(options),
       getBlogPosts(options),
       getExtraPages(options),
