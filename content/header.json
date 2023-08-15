@@ -27,8 +27,5 @@
   "desktop_megamenu": true,
   "search_input": true,
   "alphabetical_order_submenu": true,
-  "full_width_submenu": false,
-  "menusecundario": {
-    "listamenusecundario": []
-  }
+  "full_width_submenu": false
 }
