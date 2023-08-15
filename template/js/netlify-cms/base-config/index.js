@@ -70,7 +70,7 @@ export default options => {
     }
   ])
   let layout = getLayout(options);
-  const layoutMt = layout;
+  const layoutMt = Object.assign({}, layout)
   return {
     backend: {
       name: 'git-gateway',
@@ -102,8 +102,11 @@ export default options => {
       getExtraPages(options),
       getWidgets(options)
     ],
-    teste2: {
-      get_layout: layoutMt.files[0].fields.concat([
+    log: {
+      layout_mt: layoutMt
+    },
+    teste3: {
+      get_layout: layoutMt.files[0].fields.push(
         {
           label: "Menu Secundario",
           name: "menusecundario",
@@ -135,7 +138,7 @@ export default options => {
             }
           ]
         }
-      ])
+      )
     }
   }
 }
