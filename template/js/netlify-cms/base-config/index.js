@@ -100,9 +100,6 @@ export default options => {
       getBlogPosts(options),
       getExtraPages(options),
       getWidgets(options)
-    ],
-    teste: [
-      {teste: "Teste"}
     ]
   }
 }
