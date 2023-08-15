@@ -69,7 +69,7 @@ export default options => {
         ]
     }
   ])
-
+  console.log(getLayout(options).files[0].fields)
   return {
     backend: {
       name: 'git-gateway',
@@ -95,7 +95,7 @@ export default options => {
     },
     collections: [
       getSettings(options),
-      getLayout(options),
+      getLayout(options).files[0].fields.concat([{label: "Teste"}]),
       getPages(options),
       getBlogPosts(options),
       getExtraPages(options),
