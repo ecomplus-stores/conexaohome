@@ -69,39 +69,7 @@ export default options => {
         ]
     }
   ])
-  options.layout = getLayout(options).files[0].fields.concat([
-    {
-      label: "Menu Secundario",
-      name: "menusecundario",
-      widget: "object",
-      fields: [
-      {
-          label: "Itens Menu Secundario",
-          name: "itensmenusecundario",
-          widget: "list",
-          fields: [
-          {
-              label: "Imagem",
-              name: "img",
-              widget: "image"
-          },
-          {
-              label: "Link",
-              required: false,
-              name: "link",
-              widget: "string"
-          },
-          {
-              label: "Título",
-              required: false,
-              name: "title",
-              widget: "string"
-          }
-          ]
-      }
-      ]
-    }
-  ])
+
   return {
     backend: {
       name: 'git-gateway',
@@ -127,6 +95,7 @@ export default options => {
     },
     collections: [
       getSettings(options),
+      getLayout(options),
       getPages(options),
       getBlogPosts(options),
       getExtraPages(options),
