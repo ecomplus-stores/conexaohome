@@ -70,34 +70,6 @@ export default options => {
     }
   ])
 
-  const schemaMenuSecundario = [
-    {
-      label: 'Menu Secundário',
-      name: 'menusecundario',
-      widget: 'object',
-      hint: 'insira os itens do menu (titulo, link e ícone)',
-      fields: [
-        {
-          label: 'Texto',
-          name: 'text',
-          required: true,
-          widget: 'string'
-        },
-        {
-          label: 'Link',
-          name: 'link',
-          required: true,
-          widget: 'string'
-        },
-        {
-          label: "Imagem",
-          name: "img",
-          widget: "image"
-        }
-      ]
-    }
-  ]
-  
   return {
     backend: {
       name: 'git-gateway',
@@ -123,11 +95,14 @@ export default options => {
     },
     collections: [
       getSettings(options),
-      getLayout(options).files[0].fields.concat(schemaMenuSecundario),
+      getLayout(options),
       getPages(options),
       getBlogPosts(options),
       getExtraPages(options),
       getWidgets(options)
+    ],
+    teste: [
+      {teste: "Teste"}
     ]
   }
 }
