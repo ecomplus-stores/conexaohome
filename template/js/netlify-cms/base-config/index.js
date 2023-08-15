@@ -135,8 +135,7 @@ export default options => {
       getPages(options),
       getBlogPosts(options),
       getExtraPages(options),
-      getWidgets(options),
-      layout
+      getWidgets(options)
     ]
   }
 }
