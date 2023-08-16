@@ -21,16 +21,6 @@
       "enabled": true
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2023-08-01T12:36:31.203Z",
-      "end": "2023-08-15T12:36:31.252Z",
-      "offers": [
-        "633fccf573321213f8a0b5e8"
-      ],
-      "notes": "Seu super herói merece uma Super Cadeira!!!"
-    },
-    {
       "page": 1,
       "title": "Bazar",
       "shuffle": true,
