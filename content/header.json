@@ -29,6 +29,12 @@
   "alphabetical_order_submenu": true,
   "full_width_submenu": false,
   "menusecundario": {
-    "listamenusecundario": []
+    "listamenusecundario": [
+      {
+        "img": "/img/uploads/escritorio.svg",
+        "title": "Escritorio",
+        "link": "/escritorio"
+      }
+    ]
   }
 }
