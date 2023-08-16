@@ -129,13 +129,14 @@ export default options => {
     },
     collections: [
       getSettings(options),
+      layoutMt,
       getLayout(options),
       getPages(options),
       getBlogPosts(options),
       getExtraPages(options),
       getWidgets(options)
     ],
-    log: {
+    log1: {
       layout_mt: layoutMt
     }
   }
