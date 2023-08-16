@@ -70,7 +70,7 @@ export default options => {
     }
   ])
   let layout = getLayout(options);
-  const layoutMt = Object.assign({}, layout);
+  let layoutMt = Object.assign({}, layout);
   layoutMt.files[0].fields.push(
     {
       label: "Menu Secundario",
@@ -78,25 +78,23 @@ export default options => {
       widget: "object",
       fields: [
         {
-          label: "Lista Menu Secundario",
+          label: "Menu",
           name: "listamenusecundario",
           widget: "list",
           fields: [
             {
-              label: "Imagem",
+              label: "Ícone",
               name: "img",
               widget: "image"
             },
             {
-              label: "Link",
-              required: false,
-              name: "link",
+              label: "Título",
+              name: "title",
               widget: "string"
             },
             {
-              label: "Título",
-              required: false,
-              name: "title",
+              label: "Link",
+              name: "link",
               widget: "string"
             }
           ]
