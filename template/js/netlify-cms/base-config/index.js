@@ -70,7 +70,40 @@ export default options => {
     }
   ])
   let layout = getLayout(options);
-  const layoutMt = Object.assign({}, layout)
+  const layoutMt = Object.assign({}, layout);
+  layoutMt.files[0].fields.push(
+    {
+      label: "Menu Secundario",
+      name: "menusecundario",
+      widget: "object",
+      fields: [
+        {
+          label: "Lista Menu Secundario",
+          name: "listamenusecundario",
+          widget: "list",
+          fields: [
+            {
+              label: "Imagem",
+              name: "img",
+              widget: "image"
+            },
+            {
+              label: "Link",
+              required: false,
+              name: "link",
+              widget: "string"
+            },
+            {
+              label: "Título",
+              required: false,
+              name: "title",
+              widget: "string"
+            }
+          ]
+        }
+      ]
+    }
+  )
   return {
     backend: {
       name: 'git-gateway',
@@ -104,41 +137,6 @@ export default options => {
     ],
     log: {
       layout_mt: layoutMt
-    },
-    teste3: {
-      get_layout: layoutMt.files[0].fields.push(
-        {
-          label: "Menu Secundario",
-          name: "menusecundario",
-          widget: "object",
-          fields: [
-            {
-              label: "Lista Menu Secundario",
-              name: "listamenusecundario",
-              widget: "list",
-              fields: [
-                {
-                  label: "Imagem",
-                  name: "img",
-                  widget: "image"
-                },
-                {
-                  label: "Link",
-                  required: false,
-                  name: "link",
-                  widget: "string"
-                },
-                {
-                  label: "Título",
-                  required: false,
-                  name: "title",
-                  widget: "string"
-                }
-              ]
-            }
-          ]
-        }
-      )
     }
   }
 }
