@@ -947,6 +947,17 @@ header[class~="mini-header"] {
       .product {
         > .row {
           .col {
+            .product__sku {
+              margin-bottom: 2rem;
+            }
+            div [selector="#product-actions"] {
+              .product__prices {
+                margin-bottom: 1.5rem;
+                .prices {
+
+                }
+              }
+            }
             button.btn-primary {
               background-color: var(--primary-color);
               box-shadow: 0px 3px 6px #00000029;
