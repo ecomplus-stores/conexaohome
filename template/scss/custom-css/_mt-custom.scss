@@ -933,6 +933,75 @@ header[class~="mini-header"] {
   }
 }
 
+#quickview {
+  .product-quickview__header {
+    font-size: .001em;
+    button {
+      span {
+        font-size: 1.3em;
+      }
+    }
+  }
+  .product-quickview__body {
+    > .container {
+      .product {
+        > .row {
+          .col {
+            button.btn-primary {
+              background-color: var(--primary-color);
+              box-shadow: 0px 3px 6px #00000029;
+              border-radius: 0px 12px;
+              border: 0;
+              width: 23rem;
+              height: 4.2rem;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              text-transform: uppercase;
+              font-size: 1.6rem;
+              -webkit-box-shadow: inset -4px -6px 4px -2px rgba(0, 0, 0, 0.25);
+              -moz-box-shadow: inset -4px -6px 4px -2px rgba(0, 0, 0, 0.25);
+              box-shadow: inset -4px -6px 4px -2px rgba(0, 0, 0, 0.25);
+              &:hover {
+                background: var(--primary-color-hover);
+              }
+              i {
+                display: none;
+              }
+            }
+            .product__favorite, button[class^="share-network-"] {
+              display: none;
+            }
+          }
+        }
+      }
+    }
+    .product-quickview__btn-redirect {
+      background-color: var(--primary-color);
+      box-shadow: 0px 3px 6px #00000029;
+      border-radius: 0px 12px;
+      border: 0;
+      width: 23rem;
+      height: 4.2rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-transform: uppercase;
+      font-size: 1.6rem;
+      -webkit-box-shadow: inset -4px -6px 4px -2px rgba(0, 0, 0, 0.25);
+      -moz-box-shadow: inset -4px -6px 4px -2px rgba(0, 0, 0, 0.25);
+      box-shadow: inset -4px -6px 4px -2px rgba(0, 0, 0, 0.25);
+      // &:hover {
+      //   background: var(--primary-color-hover);
+      // }
+      i {
+        display: none;
+      }
+    }
+  }
+}
+
+
 // LISTAGEM DE PRODUTO
 .collection-shelf {
   .products-carousel {
