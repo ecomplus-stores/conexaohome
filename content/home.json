@@ -25,7 +25,43 @@
     },
     {
       "type": "info-bar",
-      "enabled": true
+      "enabled": false
+    },
+    {
+      "type": "banners-grid-mt",
+      "identificador": "content-banner-tarja",
+      "banners": [
+        {
+          "img": "/img/icons-tarja/pin.svg",
+          "link": "#",
+          "mobile_img": "",
+          "alt": "Conheça nossas lojas"
+        },
+        {
+          "img": "/img/icons-tarja/juros.svg",
+          "link": "#",
+          "mobile_img": "",
+          "alt": "Tudo em até 12x sem juros"
+        },
+        {
+          "img": "/img/icons-tarja/frete.svg",
+          "link": "#",
+          "mobile_img": "",
+          "alt": "Entregamos em todo o brasil"
+        },
+        {
+          "img": "/img/icons-tarja/whatsapp.svg",
+          "link": "#",
+          "mobile_img": "",
+          "alt": "Compre pelo whatsapp"
+        },
+        {
+          "img": "/img/icons-tarja/store.svg",
+          "link": "#",
+          "mobile_img": "",
+          "alt": "Retire na loja"
+        }
+      ]
     },
     {
       "type": "banners-grid",

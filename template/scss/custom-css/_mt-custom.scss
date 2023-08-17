@@ -1011,7 +1011,45 @@ header[class~="mini-header"] {
     }
   }
 }
-
+#content-banner-tarja {
+  .container {
+    ul {
+      list-style: none;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 2rem;
+      margin: 0;
+      padding: 0;
+      li {
+        width: 24%;
+        border-bottom: 1px solid var(--primary-color);
+        padding: 1rem;
+        .banner {
+          width: 100%;
+          display: block!important;
+          a {
+            min-height: auto!important;
+            height: auto!important;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-decoration: none!important;
+            cursor: default;
+            picture {
+              margin-bottom: 1rem;
+            }
+            > p {
+              font-size: 1.4rem;
+              font-weight: 500;
+              line-height: 1.7rem;
+            }
+          }
+        }
+      }
+    }
+  }
+}
 
 // LISTAGEM DE PRODUTO
 .collection-shelf {
@@ -3505,7 +3543,27 @@ footer {
       }
     }
   }
-
+  // BANNER TARJA
+  #content-banner-tarja {
+    .container {
+      padding: 0 .5rem;
+      ul {
+        flex-wrap: wrap;
+        gap: 3%;
+        justify-content: center;
+        li  {
+          width: 48%;
+          margin-bottom: 2rem;
+          padding: 0 0 1rem 0;
+          a {
+            p {
+              text-align: center;
+            }
+          }
+        }
+      }
+    }
+  }
   // MENU LATERAL MOBILE
   aside#menu {
     display: none;
