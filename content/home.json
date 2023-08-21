@@ -187,12 +187,8 @@
       "limit": 8,
       "page": 1,
       "collection_ids": [
-        "6483282a5e60690370326414:categories:Conjuntos:/conjuntos",
-        "648327b45e6069037032625f:categories:Móveis:/moveis",
-        "648327ce5e606903703262a8:categories:Decoração:/decoracao",
-        "648327cf5e606903703262ab:categories:Cozinha:/cozinha",
-        "648327ba5e6069037032626e:categories:Sala de Estar:/sala-de-estar",
-        "648327935e60690370326203:categories:Prateleira / Suporte:/prateleira-e-suporte"
+        "64caae6f5e606903707d6deb:collections:Cozinha:/cozinha",
+        "64b5a8ff5e6069037068109a:collections:Quem comprou:/quem-comprou"
       ],
       "shelfs_title": "Onde vai começar sua conexão?",
       "sort": "views"
