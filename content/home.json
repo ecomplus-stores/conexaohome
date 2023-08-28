@@ -21,6 +21,16 @@
       "enabled": true
     },
     {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2023-08-28T15:07:48.997Z",
+      "end": "2023-09-09T15:07:49.050Z",
+      "offers": [
+        "641c5c304bd2e929c1ace797"
+      ],
+      "notes": "Cadeira de Polipropileno  e Couro Ecológico Preto com melhor preço da Internet!!"
+    },
+    {
       "page": 1,
       "title": "Bazar",
       "shuffle": true,
