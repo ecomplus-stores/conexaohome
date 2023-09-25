@@ -52,20 +52,20 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/cadeiras-montreal-fratini.png",
+          "img": "/img/uploads/cadeiras-montreal-fratini-email-3.jpg",
           "link": "https://conexaohome.com.br/cadeira-de-polipropileno-genebra",
-          "mobile_img": "/img/uploads/cadeiras-montreal-fratini.png",
+          "mobile_img": "/img/uploads/cadeiras-montreal-fratini-email-3.jpg",
           "alt": ""
         },
         {
-          "img": "/img/uploads/cadeiras-miami-fratini.png",
+          "img": "/img/uploads/cadeiras-miami-fratini-email.jpg",
           "link": "https://conexaohome.com.br/cadeira-de-polipropileno-drops",
-          "mobile_img": "/img/uploads/cadeiras-miami-fratini.png"
+          "mobile_img": "/img/uploads/cadeiras-miami-fratini-email.jpg"
         },
         {
-          "img": "/img/uploads/cadeiras-estofadas-banner.png",
-          "link": "https://conexaohome.com.br/cadeira-com-estofado",
-          "mobile_img": "/img/uploads/cadeiras-estofadas-banner.png"
+          "img": "/img/uploads/cadeiras-oxford-fratini-email-2.jpg",
+          "link": "https://conexaohome.com.br/search?term=oxford",
+          "mobile_img": "/img/uploads/cadeiras-oxford-fratini-email-2.jpg"
         }
       ]
     },
