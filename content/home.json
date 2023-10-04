@@ -28,16 +28,6 @@
       "enabled": true
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2023-09-27T18:06:06.743Z",
-      "end": "2023-10-04T18:06:06.808Z",
-      "offers": [
-        "6512f8e62cd6b659595e3b01"
-      ],
-      "notes": "Conjunto perfeito para espaços ao ar livre, como jardins, varandas ou áreas de lazer!!"
-    },
-    {
       "page": 1,
       "title": "Bazar",
       "shuffle": true,
@@ -104,6 +94,11 @@
       "limit": 8,
       "collection_id": "63597d6773321213f8be4160:categories:Linha Chesterfield:/linha-chestersield",
       "sort": "sales"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
     }
   ]
 }
