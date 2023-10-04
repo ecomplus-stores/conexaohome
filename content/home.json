@@ -86,7 +86,7 @@
     },
     {
       "page": 1,
-      "title": "Linha de Design",
+      "title": "Linha Chesterfield",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
@@ -94,11 +94,6 @@
       "limit": 8,
       "collection_id": "63597d6773321213f8be4160:categories:Linha Chesterfield:/linha-chestersield",
       "sort": "sales"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "offers"
     }
   ]
 }
