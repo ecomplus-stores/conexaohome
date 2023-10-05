@@ -2,5 +2,11 @@
   "title": "Aluguel de Moveis",
   "body": "Teste 1",
   "meta_title": "Teste 2",
-  "meta_description": "Teste 3"
+  "meta_description": "Teste 3",
+  "sections": [
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
