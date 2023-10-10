@@ -28,6 +28,16 @@
       "enabled": true
     },
     {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2023-10-10T20:35:33.292Z",
+      "end": "2023-11-01T20:35:33.351Z",
+      "offers": [
+        "652591612cd6b65959751c3d"
+      ],
+      "notes": "A combinação da madeira maciça de Jequitibá Rosa e o couro legítimo de vaca na poltrona Kilin cria um produto esteticamente atraente, durável e confortável, que pode complementar diversos estilos de decoração de interiores."
+    },
+    {
       "page": 1,
       "title": "Bazar",
       "shuffle": true,
