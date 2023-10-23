@@ -100,8 +100,8 @@ async function fetchSpecificGridItems() {
 
   let data = await response.json();
   let items = [];
-  data.hits.hits.forEach(element => items.push(element._id))
+  data.hits.hits.forEach(element => items.push(element))
 
   console.log("tipo_cadeira ids items", items)
 }
-fetchSpecificGridItems();
+// fetchSpecificGridItems();
