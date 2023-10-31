@@ -28,6 +28,16 @@
       "enabled": true
     },
     {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2023-10-31T13:18:49.611Z",
+      "end": "2023-11-01T13:18:49.660Z",
+      "offers": [
+        "63e2a619b9e5be0778561c36"
+      ],
+      "notes": "Oferta valida somente hoje dia 31/10! Estoque limitado, corra e garanta já!"
+    },
+    {
       "page": 1,
       "title": "Linha Burt 15%OFF",
       "shuffle": true,
@@ -94,16 +104,6 @@
       "limit": 8,
       "collection_id": "63597d6773321213f8be4160:categories:Linha Chesterfield:/linha-chestersield",
       "sort": "sales"
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2023-10-31T13:18:49.611Z",
-      "end": "2023-11-01T13:18:49.660Z",
-      "offers": [
-        "63e2a619b9e5be0778561c36"
-      ],
-      "notes": "Oferta valida somente hoje dia 31/10! Estoque limitado, corra e garanta já!"
     }
   ]
 }
