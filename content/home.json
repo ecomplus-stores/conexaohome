@@ -8,6 +8,13 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2023-11-01T03:00:00.000Z",
+          "end": "2023-11-06T03:00:00.000Z",
+          "img": "/img/uploads/banner-marsala-desck.jpg",
+          "mobile_img": "/img/uploads/banner-marsala-mobile.jpg",
+          "link": "https://conexaohome.com.br/linha-de-moveis-na-cor-marsala"
+        },
+        {
           "start": "",
           "end": "",
           "img": "/img/uploads/rotativo.jpg",
