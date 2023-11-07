@@ -21,6 +21,16 @@
       "enabled": true
     },
     {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2023-11-07T12:30:14.167Z",
+      "end": "2023-12-01T12:30:14.217Z",
+      "offers": [
+        "633fcc9e73321213f8a0b5c2"
+      ],
+      "notes": "Oferta exclusiva da Black November!"
+    },
+    {
       "page": 1,
       "title": "Linha Burt 20%OFF",
       "shuffle": true,
@@ -87,16 +97,6 @@
       "limit": 8,
       "collection_id": "63597d6773321213f8be4160:categories:Linha Chesterfield:/linha-chestersield",
       "sort": "sales"
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2023-11-07T12:30:14.167Z",
-      "end": "2023-12-01T12:30:14.217Z",
-      "offers": [
-        "633fcc9e73321213f8a0b5c2"
-      ],
-      "notes": "Oferta exclusiva da Black November!"
     }
   ]
 }
