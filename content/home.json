@@ -93,17 +93,6 @@
           "mobile_img": "/img/uploads/transforme.webp"
         }
       ]
-    },
-    {
-      "page": 1,
-      "title": "Linha Chesterfield",
-      "shuffle": true,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "",
-      "limit": 8,
-      "collection_id": "63597d6773321213f8be4160:categories:Linha Chesterfield:/linha-chestersield",
-      "sort": "sales"
     }
   ]
 }
