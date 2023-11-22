@@ -17,8 +17,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/email-burt-7.jpg",
-          "mobile_img": "/img/uploads/email-burt-6.jpg",
+          "img": "/img/uploads/banner-desck-marsala.jpg",
+          "mobile_img": "/img/uploads/banner-mobile-marsala.jpg",
           "link": "https://conexaohome.com.br/linha-de-moveis-na-cor-marsala"
         }
       ]
@@ -26,16 +26,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2023-11-07T12:30:14.167Z",
-      "end": "2023-12-01T12:30:14.217Z",
-      "offers": [
-        "633fcc9e73321213f8a0b5c2"
-      ],
-      "notes": "Oferta exclusiva da Black November!"
     },
     {
       "page": 1,
@@ -83,14 +73,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/email-mkt-setembro-1-1-.png",
+          "img": "/img/uploads/banner-central-2.jpg",
           "link": "https://conexaohome.com.br/moveis-de-design-famoso",
-          "mobile_img": "/img/uploads/email-mkt-setembro-1-1-.png"
+          "mobile_img": "/img/uploads/banner-central-2.jpg"
         },
         {
-          "img": "/img/uploads/poltrona-sergui-rodrigues.jpg",
+          "img": "/img/uploads/banner-central-1.jpg",
           "link": "https://conexaohome.com.br/moveis-de-design-famoso",
-          "mobile_img": "/img/uploads/transforme.webp"
+          "mobile_img": "/img/uploads/banner-central-1.jpg"
         }
       ]
     }
