@@ -28,16 +28,6 @@
       "enabled": true
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2023-11-23T23:35:35.503Z",
-      "end": "2023-11-26T23:35:35.550Z",
-      "offers": [
-        "635d4b7c73321213f8c2466c"
-      ],
-      "notes": "Super Oferta de Black Friday. \nValidado até dia 26/11 ou até durar os estoques!"
-    },
-    {
       "page": 1,
       "title": "Linha Burt 20%OFF",
       "shuffle": true,
