@@ -74,14 +74,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner-central-2.jpg",
+          "img": "/img/uploads/email-mkt-setembro-1-1-.png",
           "link": "https://conexaohome.com.br/moveis-de-design-famoso",
-          "mobile_img": "/img/uploads/banner-central-2.jpg"
+          "mobile_img": "/img/uploads/email-mkt-setembro-1-1-.png"
         },
         {
-          "img": "/img/uploads/banner-central-1.jpg",
+          "img": "/img/uploads/poltrona-sergui-rodrigues.jpg",
           "link": "https://conexaohome.com.br/moveis-de-design-famoso",
-          "mobile_img": "/img/uploads/banner-central-1.jpg"
+          "mobile_img": "/img/uploads/poltrona-sergui-rodrigues.jpg"
         }
       ]
     }
