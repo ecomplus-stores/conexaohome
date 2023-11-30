@@ -10,16 +10,10 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/rotativo.jpg",
-          "mobile_img": "/img/uploads/rotativo-mobile.jpg",
-          "link": "https://conexaohome.com.br/lancamentos"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-desck-marsala.jpg",
-          "mobile_img": "/img/uploads/banner-mobile-marsala.jpg",
-          "link": "https://conexaohome.com.br/linha-de-moveis-na-cor-marsala"
+          "img": "/img/uploads/banner-desck-linha-burt.jpg",
+          "mobile_img": "/img/uploads/rotativo-mobile-linha-burt.jpg",
+          "alt": "",
+          "link": "https://conexaohome.com.br/moveis-de-madeira-macica-e-mdf"
         }
       ]
     },
