@@ -43,20 +43,20 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner-1.jpg",
+          "img": "/img/uploads/banner-triplo-finestra.jpg",
           "link": "https://conexaohome.com.br/cadeira-de-polipropileno-genebra",
-          "mobile_img": "/img/uploads/banner-1.jpg",
+          "mobile_img": "/img/uploads/banner-triplo-finestra.jpg",
           "alt": ""
         },
         {
-          "img": "/img/uploads/banner-2.jpg",
+          "img": "/img/uploads/banner-triplo-drops.jpg",
           "link": "https://conexaohome.com.br/cadeira-de-polipropileno-drops",
-          "mobile_img": "/img/uploads/banner-2.jpg"
+          "mobile_img": "/img/uploads/banner-triplo-drops.jpg"
         },
         {
-          "img": "/img/uploads/banner-3.jpg",
+          "img": "/img/uploads/banner-triplo-oxford.jpg",
           "link": "https://conexaohome.com.br/search?term=oxford",
-          "mobile_img": "/img/uploads/banner-3.jpg"
+          "mobile_img": "/img/uploads/banner-triplo-oxford.jpg"
         }
       ]
     },
