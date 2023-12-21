@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "Melhores ofertas!",
-    "link": "https://conexaohome.com.br/bazar-de-moveis-decoracao-utensilios-para-cozinha",
+    "text": "Sua Mesa Suas Vontades! Mesa Posta para o Natal!",
+    "link": "https://conexaohome.com.br/mesa-posta-jantar",
     "background": "#d9d9d9",
     "color": "#e26d03"
   },
@@ -19,7 +19,7 @@
       "/sala-de-estar?Sala de Estar",
       "/sala-de-jantar?Sala de Jantar",
       "/quarto?Quarto",
-      "/bazar-de-moveis-decoracao-utensilios-para-cozinha?Bazar"
+      "/mesa-posta-jantar?Mesa Posta"
     ],
     "random": 0,
     "full_width": true
