@@ -55,7 +55,7 @@ window.addEventListener("load", (event) => {
 
 async function fetchSpecificGridItems() {
   let headersList = {
-    "X-Store-ID": "50359",
+    "X-Store-ID": "51316",
     "Content-Type": "application/json",
   };
 
