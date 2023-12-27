@@ -58,7 +58,7 @@
         },
         {
           "img": "/img/icons-tarja/whatsapp.svg",
-          "link": "#",
+          "link": "https://api.whatsapp.com/send/?phone=551132940706&text&type=phone_number&app_absent=0",
           "mobile_img": "",
           "alt": "Compre pelo whatsapp"
         },
@@ -76,19 +76,19 @@
       "banners": [
         {
           "img": "/img/uploads/triple1.webp",
-          "link": "https://conexaohome.com.br/linha-burt",
+          "link": "https://conexaohome.com.br/mesa-posta-jantar",
           "mobile_img": "",
           "alt": "Itens de decoração"
         },
         {
           "img": "/img/uploads/triple2.webp",
-          "link": "https://conexaohome.com.br/linha-chestersield",
+          "link": "https://conexaohome.com.br/sala-de-estar",
           "mobile_img": "",
           "alt": "Móveis diferenciados"
         },
         {
           "img": "/img/uploads/triple3.webp",
-          "link": "https://conexaohome.com.br/poltrona",
+          "link": "https://conexaohome.com.br/sala-de-jantar",
           "mobile_img": "",
           "alt": "Móveis versáteis "
         }
