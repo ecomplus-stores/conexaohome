@@ -28,7 +28,8 @@
           "img": "/img/icons-tarja/pin.svg",
           "link": "#",
           "mobile_img": "",
-          "alt": "Conheça nossas lojas"
+          "alt": "Conheça nossas lojas",
+          "title": "Todo brasil."
         },
         {
           "img": "/img/icons-tarja/frete.svg",
