@@ -29,25 +29,28 @@
           "link": "#",
           "mobile_img": "",
           "alt": "Conheça nossas lojas",
-          "title": "Todo brasil."
+          "title": "Conheça nossas unidades"
         },
         {
           "img": "/img/icons-tarja/frete.svg",
           "link": "#",
           "mobile_img": "",
-          "alt": "Entregamos em todo o brasil"
+          "alt": "Entregamos em todo o brasil",
+          "title": "Retire na loja"
         },
         {
           "img": "/img/icons-tarja/whatsapp.svg",
-          "link": "https://api.whatsapp.com/send/?phone=551132940706&text&type=phone_number&app_absent=0",
+          "link": "#",
           "mobile_img": "",
-          "alt": "Compre pelo whatsapp"
+          "alt": "Compre pelo whatsapp",
+          "title": "Entrega para todo o Brasil"
         },
         {
           "img": "/img/icons-tarja/store.svg",
-          "link": "#",
+          "link": "https://api.whatsapp.com/send/?phone=551132940706&text&type=phone_number&app_absent=0",
           "mobile_img": "",
-          "alt": "Retire na loja"
+          "alt": "Retire na loja",
+          "title": "Fale conosco"
         }
       ]
     },
