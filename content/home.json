@@ -79,25 +79,6 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "identificador": "banner-tarja",
-      "banners": [
-        {
-          "img": "/img/uploads/icone_revendedor.svg",
-          "alt": "Revendedor autorizado Dazie Metais",
-          "link": "#"
-        },
-        {
-          "img": "/img/uploads/icone_entrega.svg",
-          "alt": "Revendedor autorizado Dazie Metais"
-        },
-        {
-          "img": "/img/uploads/icone_desconto.svg",
-          "alt": "Ganhe + 5%OFF pagando no PIX"
-        }
-      ]
-    },
-    {
       "type": "newsletter-mt",
       "active": true
     },
