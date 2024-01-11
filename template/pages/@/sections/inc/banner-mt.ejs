@@ -27,7 +27,7 @@ if (opt.img) {
   <div class="banner">
     <a
       href="<%= opt.link || 'javascript:;' %>"
-      aria-label="<%= opt.alt %>"
+      aria-label="<%= opt.title %>"
     >
       <picture
         <% if (opt.sync_load) { %>
@@ -35,7 +35,7 @@ if (opt.img) {
         <% } else { %>
           class="lozad fade img-fluid"
           data-iesrc="<%= opt.img.replace('.webp', '.png') %>"
-          data-alt="<%= opt.alt %>"
+          data-alt="<%= opt.title %>"
         <% } %>
         <% if (!opt.height_auto && width) { %>
           data-width="<%= width %>"
@@ -58,7 +58,7 @@ if (opt.img) {
         <% if (opt.sync_load) { %>
           <img
             src="<%= opt.img.replace('.webp', '.png') %>"
-            alt="<%= opt.alt %>"
+            alt="<%= opt.title %>"
             <% if (width) { %>
               width="<%= width %>"
               height="<%= height %>"
@@ -66,7 +66,7 @@ if (opt.img) {
           >
         <% } %>
       </picture>
-      <p><%= opt.alt %></p>
+      <p><%= opt.title %></p>
     </a>
   </div>
   <%
