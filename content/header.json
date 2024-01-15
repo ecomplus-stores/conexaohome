@@ -16,10 +16,7 @@
       "/moveis?Móveis",
       "/decoracao?Decoração",
       "/cozinha?Cozinha",
-      "/sala-de-estar?Sala de Estar",
-      "/sala-de-jantar?Sala de Jantar",
-      "/quarto?Quarto",
-      "/mesa-posta-jantar?Mesa Posta"
+      "/mesa-posta?Mesa Posta"
     ],
     "random": 0,
     "full_width": true
