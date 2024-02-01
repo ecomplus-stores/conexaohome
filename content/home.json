@@ -32,11 +32,15 @@
       "identificador": "content-banner-tarja",
       "banners": [
         {
+          "img": "/img/uploads/icon-pix.svg",
+          "title": "Ganhe + 5%OFF pagando no PIX"
+        },
+        {
           "img": "/img/icons-tarja/pin.svg",
           "link": "#",
           "mobile_img": "",
           "alt": "Conheça nossas lojas",
-          "title": "Conheça nossas unidades"
+          "title": "Conheça nossas Lojas"
         },
         {
           "img": "/img/icons-tarja/frete.svg",
