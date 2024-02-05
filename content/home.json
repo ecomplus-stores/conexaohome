@@ -10,15 +10,15 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-scalla-desck.jpg",
-          "mobile_img": "/img/uploads/banner-scalla-mobile.jpg",
+          "img": "/img/uploads/banner-scalla-desck.webp",
+          "mobile_img": "/img/uploads/banner-scalla-mobile.webp",
           "link": "https://conexaohome.com.br/cozinha"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-pronta-entrega-desck.jpg",
-          "mobile_img": "/img/uploads/banner-pronta-entrega-mobile.jpg",
+          "img": "/img/uploads/banner-pronta-entrega-desck.webp",
+          "mobile_img": "/img/uploads/banner-pronta-entrega-mobile.webp",
           "link": "https://conexaohome.com.br/moveis-a-pronta-entrega"
         }
       ]
