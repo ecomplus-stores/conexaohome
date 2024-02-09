@@ -7,6 +7,11 @@
         "type": 301
       },
       {
+        "source": "/tabua",
+        "destination": "/petisqueira-e-tabua-de-corte",
+        "type": 301
+      },
+      {
         "source": "/pages/wishlist",
         "destination": "/index",
         "type": 301
