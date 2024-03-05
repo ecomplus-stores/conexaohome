@@ -144,8 +144,10 @@ footer.footer {
       position: absolute;
       right: 0;
     }
-    .footer .col-12.col-sm-6.col-lg.col-xl-auto.px-xl-4 h4 {
-  color: #BB86FC !important;
+    h4, .footer__title {
+    font-size: 2rem;
+    margin-bottom: 15px !important;
+    color: #BB86FC;
 }
   }
 }
