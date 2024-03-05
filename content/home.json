@@ -70,22 +70,21 @@
       "identificador": "banner-triple",
       "banners": [
         {
-          "img": "/img/uploads/encomende-seus-ovos-de-pascoa-1.jpg",
-          "link": "https://conexaohome.com.br/search?term=remanso",
-          "mobile_img": "",
-          "alt": "Itens de decoração"
+          "img": "/img/uploads/2-1-.png",
+          "link": "https://conexaohome.com.br/sala-de-jantar/cristaleira-de-madeira",
+          "mobile_img": "/img/uploads/2-1-.png",
+          "alt": "Cristaleira de Madeira Maciça e Vidro"
         },
         {
-          "img": "/img/uploads/volta-as-aulas.png",
-          "link": "https://conexaohome.com.br/monte-seu-escritorio-em-casa-volta-as-aulas",
-          "mobile_img": "",
-          "alt": "Móveis diferenciados"
+          "img": "/img/uploads/3-1-.png",
+          "mobile_img": "/img/uploads/3-1-.png",
+          "link": "https://conexaohome.com.br/mesas-e-cadeiras",
+          "alt": "Mesas e Cadeiras de Jantar"
         },
         {
-          "img": "/img/uploads/encomende-seus-ovos-de-pascoa.-pelo-telefone-12-34567890.jpg",
-          "link": "https://conexaohome.com.br/decoracao-enfeites-loucas-para-pascoa",
-          "mobile_img": "",
-          "alt": "Móveis versáteis "
+          "img": "/img/uploads/1-1-.png",
+          "mobile_img": "/img/uploads/1-1-.png",
+          "link": "https://conexaohome.com.br/decoracao-enfeites-loucas-para-pascoa"
         }
       ]
     },
