@@ -48,19 +48,9 @@
         "link": "/escritorio"
       },
       {
-        "img": "/img/uploads/nossaslojas.svg",
-        "title": "Nossas Lojas",
-        "link": "/nossaslojas"
-      },
-      {
         "img": "/img/uploads/alugueldemoveis.svg",
         "title": "Aluguel de móveis",
         "link": "https://conexaohome.com.br/pages/aluguel-de-moveis"
-      },
-      {
-        "img": "/img/uploads/vendacorporativa.svg",
-        "title": "Venda Corporativa",
-        "link": "https://conexaohome.com.br/pages/venda-corporativa"
       }
     ]
   }
