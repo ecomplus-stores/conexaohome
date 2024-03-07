@@ -115,10 +115,10 @@
       "identificador": "section-categories-banners",
       "banners": [
         {
-          "img": "/img/uploads/1.webp",
-          "alt": "Na sua cozinha",
-          "link": "https://link.com.br",
-          "mobile_img": ""
+          "img": "/img/uploads/07-banner.png",
+          "alt": "Tudo para preparar Drinks",
+          "link": "https://conexaohome.com.br/acessorios-para-bebidas",
+          "mobile_img": "/img/uploads/07-banner.png"
         },
         {
           "img": "/img/uploads/2.webp",
