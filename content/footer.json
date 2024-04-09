@@ -12,6 +12,10 @@
         "url": "/pages/nossas-lojas"
       },
       {
+        "text": "Sobre Nós",
+        "url": "/pages/sobre-nos"
+      },
+      {
         "text": "Formas de Pagamento",
         "url": "/pages/pagamentos"
       },
@@ -28,8 +32,12 @@
         "url": "/pages/politicas-de-entrega"
       },
       {
-        "text": "Sobre Nós",
-        "url": "/pages/sobre-nos"
+        "text": "Venda Corporativa",
+        "url": "https://conexaohome.com.br/pages/venda-corporativa"
+      },
+      {
+        "text": "Aluguel de Móveis",
+        "url": "https://conexaohome.com.br/pages/aluguel-de-moveis"
       }
     ]
   },
