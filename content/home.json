@@ -63,6 +63,12 @@
       "identificador": "banner-triple",
       "banners": [
         {
+          "img": "/img/uploads/banner-01.png",
+          "mobile_img": "/img/uploads/banner-01.png",
+          "link": "https://conexaohome.com.br/moveis-de-design-famoso",
+          "alt": "Linha de Design Serio Rodrigues"
+        },
+        {
           "img": "/img/uploads/2-1-.png",
           "link": "https://conexaohome.com.br/sala-de-jantar/cristaleira-de-madeira",
           "mobile_img": "/img/uploads/2-1-.png",
@@ -73,12 +79,6 @@
           "mobile_img": "/img/uploads/3-1-.png",
           "link": "https://conexaohome.com.br/mesas-e-cadeiras",
           "alt": "Mesas e Cadeiras de Jantar"
-        },
-        {
-          "img": "/img/uploads/banner-01.png",
-          "mobile_img": "/img/uploads/banner-01.png",
-          "link": "https://conexaohome.com.br/decoracao-enfeites-loucas-para-pascoa",
-          "alt": "Mesa Posta e Decoração para Páscoa "
         }
       ]
     },
