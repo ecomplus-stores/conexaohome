@@ -172,9 +172,9 @@
     {
       "type": "responsive-banner",
       "identificador": "full-banner-home",
-      "img": "/img/uploads/single2.webp",
+      "img": "/img/uploads/conheca-nossas-lojas-em-sao-paulo.jpg",
       "link": "https://conexaohome.com.br/pages/nossas-lojas",
-      "mobile_img": "/img/uploads/single2m.webp",
+      "mobile_img": "/img/uploads/conheca-nossas-lojas-em-sao-paulo-mobile.jpg",
       "alt": "Conheça nossas lojas"
     }
   ]
