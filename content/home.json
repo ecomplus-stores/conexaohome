@@ -176,6 +176,15 @@
       "link": "https://conexaohome.com.br/pages/nossas-lojas",
       "mobile_img": "/img/uploads/conheca-nossas-lojas-em-sao-paulo-mobile.jpg",
       "alt": "Conheça nossas lojas"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63209a1373321213f873a146:categories:Almofada:/almofada",
+      "sort": "views",
+      "title": "Arraiá de Ofertas: Almofadas"
     }
   ]
 }
