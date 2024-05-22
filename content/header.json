@@ -53,7 +53,7 @@
       {
         "img": "/img/uploads/nossaslojas.svg",
         "title": "Nossas Lojas",
-        "link": "/nossaslojas"
+        "link": "/pages/nossaslojas"
       },
       {
         "img": "/img/uploads/impermeabilizacao.svg",
@@ -68,7 +68,7 @@
       {
         "img": "/img/uploads/vendacorporativa.svg",
         "title": "Venda Corporativa",
-        "link": "/venda-corporativa"
+        "link": "/pages/venda-corporativa"
       }
     ]
   }
