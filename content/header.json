@@ -16,7 +16,10 @@
       "/moveis?Móveis",
       "/decoracao?Decoração",
       "/cozinha?Cozinha",
-      "/promocao-de-moveis-decoracao-e-utensilios-para-cozinha?Descontos"
+      "/sala-de-estar?Sala de Estar",
+      "/sala-de-jantar?Sala de Jantar",
+      "/quarto?Quarto",
+      "/mesa-posta-jantar?Mesa Posta"
     ],
     "random": 0,
     "full_width": true
@@ -48,9 +51,24 @@
         "link": "/escritorio"
       },
       {
+        "img": "/img/uploads/nossaslojas.svg",
+        "title": "Nossas Lojas",
+        "link": "/nossaslojas"
+      },
+      {
+        "img": "/img/uploads/impermeabilizacao.svg",
+        "title": "Impermeabilização",
+        "link": "/impermeabilizacao"
+      },
+      {
         "img": "/img/uploads/alugueldemoveis.svg",
-        "title": "Aluguel de móveis",
-        "link": "https://conexaohome.com.br/pages/aluguel-de-moveis"
+        "title": "Aluguel de imóveis",
+        "link": "/aleguel-de-imoveis"
+      },
+      {
+        "img": "/img/uploads/vendacorporativa.svg",
+        "title": "Venda Corporativa",
+        "link": "/venda-corporativa"
       }
     ]
   }

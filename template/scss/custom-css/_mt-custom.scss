@@ -688,12 +688,7 @@ header[class~="mini-header"] {
           img {
             width: 100%;
           }
-          &:first-of-type {
-            display: none;
-          }
-          &:last-of-type {
-            display: block;
-          }
+          
         }
       }
     }
