@@ -48,11 +48,6 @@
         "link": "/escritorio"
       },
       {
-        "img": "/img/uploads/nossaslojas.svg",
-        "title": "Nossas Lojas",
-        "link": "https://conexaohome.com.br/pages/nossas-lojas"
-      },
-      {
         "img": "/img/uploads/alugueldemoveis.svg",
         "title": "Aluguel de imóveis",
         "link": "https://conexaohome.com.br/pages/aluguel-de-moveis"
@@ -61,6 +56,11 @@
         "img": "/img/uploads/vendacorporativa.svg",
         "title": "Venda Corporativa",
         "link": "/pages/venda-corporativa"
+      },
+      {
+        "img": "/img/uploads/nossaslojas.svg",
+        "title": "Nossas Lojas",
+        "link": "https://conexaohome.com.br/pages/nossas-lojas"
       }
     ]
   }
