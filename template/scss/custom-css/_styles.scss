@@ -353,3 +353,9 @@ $footerColor: red;
     right: 0;
     bottom: 80px;
 }
+
+.minicart__subtotal {
+  .prices__points, .prices__installments, .prices__discount {
+    font-size: 1.5rem !important;
+  }
+}
