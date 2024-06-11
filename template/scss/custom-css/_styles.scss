@@ -354,8 +354,22 @@ $footerColor: red;
     bottom: 80px;
 }
 
-.minicart__subtotal {
+.minicart__subtotal, #cart, .summary__amount__row {
   .prices__points, .prices__installments, .prices__discount {
     font-size: 1.5rem !important;
+  }
+}
+
+#cart .cart > span > .row > div:nth-of-type(2) .cart__info .cart__total .prices .prices__value {
+  font-size: 2rem !important;
+}
+
+.login__info * {
+  font-size: 1.5rem !important;
+}
+
+.summary__amount__row {
+  .prices__value {
+    font-size: 2rem !important;
   }
 }
