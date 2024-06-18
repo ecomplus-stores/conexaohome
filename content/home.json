@@ -35,6 +35,16 @@
       "enabled": false
     },
     {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2024-06-18T20:22:37.994Z",
+      "end": "2024-06-30T20:22:48.787Z",
+      "offers": [
+        "641c5c6d4bd2e929c1ace7ef"
+      ],
+      "notes": "Arraiá de Ofertas Conexão Home"
+    },
+    {
       "type": "banners-grid-mt",
       "identificador": "content-banner-tarja",
       "banners": [
