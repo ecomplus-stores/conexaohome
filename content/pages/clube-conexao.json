@@ -3,5 +3,17 @@
   "title": "Clube Conexão",
   "meta_title": "Clube Conexão: Benefício Exclusivo de CashBack | Conexão Home",
   "meta_description": "Com nosso programa clube conexão, qualquer compra realizada em nosso site garante 10% de CashBack para usar na próxima compra. É simples: compre, acumule e economize!",
-  "sections": []
+  "sections": [
+    {
+      "type": "shelfs-nav",
+      "shuffle": false,
+      "limit": 8,
+      "page": 1,
+      "collection_ids": [
+        "645cd9084bd2e929c1f776ea:categories:Conjuntos:/conjuntos-de-moveis-decoracao-e-utensilios-para-cozinha"
+      ],
+      "sort": "sales",
+      "shelfs_title": "Mais Comprados"
+    }
+  ]
 }
