@@ -105,10 +105,10 @@
       "shuffle": true,
       "limit": 8,
       "page": 1,
-      "collection_id": "65cf5e1e87ab487fbfba1ef4:categories:Descontos:/promocao-de-moveis-decoracao-e-utensilios-para-cozinha",
-      "title": "Arraiá de Ofertas",
+      "collection_id": "63f78869f4167e223c997bc6:categories:Sofá:/moveis-sofa-para-sala-de-estar",
+      "title": "Sala de Estar: Sofás",
       "headless": false,
-      "sort": "news"
+      "sort": "sales"
     },
     {
       "type": "responsive-banner",
