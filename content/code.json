@@ -1,5 +1,5 @@
 {
   "css": "#sd-63eccd45f4167e223c901f15, #sd-645502004bd2e929c1edd014, #sd-645ce86e4bd2e929c1f7a5e6, #sd-645ce66a4bd2e929c1f79f3e, #sd-6320960973321213f8739558 {\ndisplay: none !important;\n}\n #c-63eccd45f4167e223c901f15, #c-645502004bd2e929c1edd014, #c-645ce86e4bd2e929c1f7a5e6, #c-645ce66a4bd2e929c1f79f3e, #c-6320960973321213f8739558, #c-63d2704fb9e5be077846edfd, #c-638f5ec073321213f806978c, #c-631f9e0273321213f87263a9, #c-6362796173321213f8c6eb12 {\ndisplay: none !important ;\n},\n@media(max-width: 767px) {\n  #product-description iframe {\n      width: 100% !important;\n      height: auto !important;\n    }\n}",
-  "html_head": "<meta name="p:domain_verify" content="87625d01321fd14780cb8566ba19e4f4"/>",
+  "html_head": "<meta name=\"p:domain_verify\" content=\"87625d01321fd14780cb8566ba19e4f4\"/>",
   "html_body": "<script>(function(m, a, i, l, b, z, j, s) {\nif (m[z]) return;\nm[z] = {\nid: b,\nready: 0\n};\nz = a.createElement(i);\nj = a.getElementsByTagName(i)[0];\nz.async = 1;\nz.src = l;\nj.parentNode.insertBefore(z, j);\n})(window, document, 'script', 'https://d3eq1zq78ux3cv.cloudfront.net/static/scripts/integration.min.js', '637519b5a8aebb115f4130ee', 'MailbizIntegration');"
 }
