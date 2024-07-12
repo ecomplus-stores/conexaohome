@@ -3466,7 +3466,16 @@ footer {
   }
 }
 
+#linktostoremobile { 
+  display:none; 
+  }
+  
 @media (max-width: 768px) {
+
+  #linktostoremobile { 
+    display:block; 
+  }
+  
   #fmais-loyalty__bottom__open__btn {
     top: 27% !important;
   }
