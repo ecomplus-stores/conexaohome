@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 2000,
+      "autoplay": 1000,
       "full_width": true,
       "slides": [
         {
@@ -13,6 +13,13 @@
           "img": "/img/uploads/dia-dos-pais-desck-top.png",
           "mobile_img": "/img/uploads/01.png",
           "link": "https://conexaohome.com.br/dia-dos-pais-e-conexao-home"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/mesas-e-cadeiras.jpg",
+          "mobile_img": "/img/uploads/03.png",
+          "link": "https://conexaohome.com.br/conjunto-mesa-e-cadeiras"
         },
         {
           "start": "",
