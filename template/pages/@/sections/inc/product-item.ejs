@@ -85,13 +85,13 @@ if (stamps && Array.isArray(stamps.stamps_list) && stamps.stamps_list.length) {
     </a>
 
     <div class="product-card__prices prices">
-      <strong class="prices__value">
+      <p class="prices__value"> 
         <% if (opt.item.available && opt.item.visible && _.ecomUtils.inStock(opt.item)) { %>
-          <%= _.ecomUtils.formatMoney(itemData.price) %>
+          <%= _.ecomUtils.formatMoney(itemData.price) %> ppp
         <% } else { %>
           --
         <% } %>
-      </strong>
+        </p>
     </div>
 
     <!-- Customize add to cart button content: -->

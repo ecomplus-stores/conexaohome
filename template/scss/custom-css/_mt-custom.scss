@@ -544,7 +544,7 @@ div[data-mbz-button-popup-wrapper] {
                           }
                           .prices__value {
                             font-size: 1.7rem;
-                            font-weight: 600;
+                            font-weight: 200;
                           }
                         }
                         .product-card__buy {
@@ -1168,7 +1168,8 @@ header[class~="mini-header"] {
       margin-bottom: 0.5rem;
     }
     .prices__discount {
-      font-size: 1.2rem;
+      font-size: 1.5rem;
+      font-weight: bolder;
     }
   }
 }
