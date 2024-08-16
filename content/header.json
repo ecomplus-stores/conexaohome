@@ -30,42 +30,6 @@
   "alphabetical_order_submenu": true,
   "full_width_submenu": false,
   "menusecundario": {
-    "listamenusecundario": [
-      {
-        "img": "/img/uploads/saladeestar.svg",
-        "title": "Sala de estar",
-        "link": "/sala-de-estar"
-      },
-      {
-        "img": "/img/uploads/saladejantar.svg",
-        "title": "Sala de jantar",
-        "link": "/sala-de-jantar"
-      },
-      {
-        "img": "/img/uploads/quarto.svg",
-        "title": "Quarto",
-        "link": "/quarto"
-      },
-      {
-        "img": "/img/uploads/escritorio.svg",
-        "title": "Escritório",
-        "link": "/escritorio"
-      },
-      {
-        "img": "/img/uploads/alugueldemoveis.svg",
-        "title": "Aluguel de móveis",
-        "link": "https://conexaohome.com.br/pages/aluguel-de-moveis"
-      },
-      {
-        "img": "/img/uploads/vendacorporativa.svg",
-        "title": "Venda Corporativa",
-        "link": "/pages/venda-corporativa"
-      },
-      {
-        "img": "/img/uploads/nossaslojas.svg",
-        "title": "Nossas Lojas",
-        "link": "https://conexaohome.com.br/pages/nossas-lojas"
-      }
-    ]
+    "listamenusecundario": []
   }
 }
