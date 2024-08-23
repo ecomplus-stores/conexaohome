@@ -377,3 +377,7 @@ $footerColor: red;
 .prices__value{
   font-weight: 200;
 }
+.header.header__category.main-menu nav.header__nav>div:first-child a {
+    background-color: var(--primary-color) !important;
+    color: var(--white) !important;
+}
