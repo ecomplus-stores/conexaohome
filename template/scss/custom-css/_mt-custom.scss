@@ -1,4 +1,10 @@
 // Add your custom CSS here.
+
+.header .main-menu nav.header__nav .header__category>div:first-child a {
+  background-color: var(--primary-color) !important;
+  color: var(--white) !important;
+}
+
 /* Box sizing rules */
 *,
 *::before,
@@ -1541,23 +1547,23 @@ header[class~="mini-header"] {
                         font-size: 1.3rem;
                       }
                       .prices__value {
-                        color: var(--primary-color);
-                        font-size: 3rem;
+                        color: var(--grey-70);
+                        font-size: 2rem;
                         display: flex;
                         align-items: center;
                         gap: 2rem;
                         .prices__compare {
-                          font-size: 1.3rem;
-                          color: var(--grey-70);
+                          font-size: 2rem;
+                          color: var(--primary-color);
                           font-weight: 500;
                           small {
                             display: none;
                           }
                         }
                       }
-                      .prices__discount {
-                        color: var(--grey-70);
-                        font-size: 1.3rem;
+                      .prices__discount>span {
+                        color: var(--primary-color);
+                        font-size: 2.3rem;
                       }
                     }
                     .content-favorite-button {
@@ -4430,3 +4436,9 @@ footer {
     }
   }
 }
+
+.header .main-menu nav.header__nav>div:first-child .header__category {
+  background-color: var(--primary-color) !important;
+  color: var(--white) !important;
+}
+
