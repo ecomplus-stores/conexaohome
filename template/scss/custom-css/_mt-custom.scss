@@ -240,7 +240,7 @@ select {
               margin-bottom: 0.5rem;
             }
             .prices__discount {
-              color: var(--grey-70);
+              color: var(--primary-color);
               font-size: 1.2rem;
             }
           }
@@ -549,7 +549,7 @@ div[data-mbz-button-popup-wrapper] {
                             }
                           }
                           .prices__value {
-                            font-size: 1.7rem;
+                            font-size: 1.2rem;
                             font-weight: 200;
                           }
                         }
@@ -1170,10 +1170,11 @@ header[class~="mini-header"] {
       margin-bottom: 0.5rem;
     }
     .prices__value {
-      font-size: 1.4rem;
+      font-size: 1.2rem;
       margin-bottom: 0.5rem;
     }
-    .prices__discount {
+    .prices__discount>span {
+      color: var(--primary-color);
       font-size: 1.5rem;
       font-weight: bolder;
     }
