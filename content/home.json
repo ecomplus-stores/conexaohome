@@ -12,21 +12,24 @@
           "end": "",
           "img": "/img/uploads/banner-01.jpg",
           "mobile_img": "/img/uploads/banner-01-mobile.jpg",
-          "link": "https://conexaohome.com.br/comoda-de-madeira-macica-4-gavetas-retro-burt-verde"
+          "link": "https://conexaohome.com.br/comoda-de-madeira-macica-4-gavetas-retro-burt-verde",
+          "alt": "Burt Verde"
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-02.jpg",
           "mobile_img": "/img/uploads/banner-02-mobile.jpg",
-          "link": "https://conexaohome.com.br/sof-chesterfield-2-lugares-preto"
+          "link": "https://conexaohome.com.br/sof-chesterfield-2-lugares-preto",
+          "alt": "Sofá Chesterfield 2 Lugares Preto"
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-03.jpg",
           "mobile_img": "/img/uploads/banner-03-mobile.jpg",
-          "link": " https://conexaohome.com.br/poltrona-cica-com-tecido-sintetico-verde-e-pes-castanho-e-03"
+          "link": " https://conexaohome.com.br/poltrona-cica-com-tecido-sintetico-verde-e-pes-castanho-e-03",
+          "alt": "Poltrona Ciça com Tecido Sintético"
         }
       ]
     },
