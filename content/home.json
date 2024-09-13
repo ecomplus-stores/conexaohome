@@ -78,14 +78,14 @@
       "banners": [
         {
           "img": "/img/uploads/mini-01.jpg",
-          "mobile_img": "/img/uploads/banner-08.png",
+          "mobile_img": "",
           "link": "https://conexaohome.com.br/moveis-sala-de-estar",
           "alt": ""
         },
         {
-          "img": "/img/uploads/2-1-.png",
-          "link": "https://conexaohome.com.br/sala-de-jantar/cristaleira-de-madeira",
-          "mobile_img": "/img/uploads/2-1-.png",
+          "img": "/img/uploads/mini-02.jpg",
+          "link": "https://conexaohome.com.br/sala-de-jantar",
+          "mobile_img": "",
           "alt": "Cristaleira de Madeira Maciça e Vidro"
         },
         {
