@@ -30,6 +30,14 @@
           "mobile_img": "/img/uploads/banner-03-mobile.jpg",
           "link": " https://conexaohome.com.br/poltrona-cica-com-tecido-sintetico-verde-e-pes-castanho-e-03",
           "alt": "Poltrona Ciça com Tecido Sintético"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-04.jpg",
+          "mobile_img": "/img/uploads/banner-04-mobile.png",
+          "link": "https://conexaohome.com.br/moveis-sofa-para-sala-de-estar",
+          "alt": "Sala de Estar"
         }
       ]
     },
