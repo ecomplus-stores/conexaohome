@@ -6,6 +6,7 @@ module.exports = () => ({
     alias: {
       './methods/set-search-term': path.resolve(dirSearchAlias, 'set-search-term'),
       './html/ProductCard.html': path.resolve(__dirname, 'template/js/custom-js/html/ProductCard.html'),
+      './html/TheProduct.html': path.resolve(__dirname, 'template/js/custom-js/html/TheProduct.html'),
       './js/ProductCard.js': path.resolve(__dirname, 'template/js/custom-js/js/ProductCard.js'),
       './base-config': path.resolve(__dirname, 'template/js/netlify-cms/base-config')
     }
