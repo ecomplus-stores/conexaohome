@@ -8550,7 +8550,92 @@
         "source": "/collections/mesa-de-centro/products/mesa-centro-freijo-com-vidro-135cm",
         "destination": "/",
         "type": 301
-      }
+      },
+      {
+        "source": "/azulejo-decorativo",
+        "destination": "/lançamento",
+        "type": 301
+        },
+        {
+         "source": "/castiçal",
+         "destination": "/lançamento",
+         "type": 301
+         },
+         {
+         "source": "/churrasqueira",
+         "destination": "/lançamento",
+         "type": 301
+         },
+         {
+          "source": "/escada-decorativa",
+          "destination": "/lançamento",
+          "type": 301
+          },
+          {
+         "source": "/lixeira",
+         "destination": "/lançamento",
+         "type": 301
+         },
+         {
+         "source": "/luminaria",
+         "destination": "/lançamento",
+         "type": 301
+          },
+          {
+          "source": "/nicho",
+          "destination": "/lançamento",
+          "type": 301
+          },
+          {
+          "source": "/balde-de-gelo",
+          "destination": "/lançamento",
+          "type": 301
+           },
+           {
+           "source": "/Lareira",
+           "destination": "/lançamento",
+           "type": 301
+           },
+           {
+          "source": "/base-de-mesa-de-jantar",
+          "destination": "/lançamento",
+          "type": 301
+           },
+           {
+            "source": "/remo",
+            "destination": "/lançamento",
+            "type": 301
+             },
+             {
+            "source": "/cabideiro",
+            "destination": "/lançamento",
+            "type": 301
+           },
+           {
+           "source": "/mesa-bancada",
+          "destination": "/lançamento",
+          "type": 301
+           },
+           {
+           "source": "/candelabro",
+          "destination": "/lançamento",
+           "type": 301
+          },
+          {
+          "source": "/cinzeiro",
+          "destination": "/lançamento",
+          "type": 301
+          },
+          {
+          "source": "/cupula",
+          "destination": "/lançamento",
+          "type": 301
+         },
+         {
+         "source": "/gancho-de-parede",
+         "destination": "/lançamento",
+         "type": 301
+         }
     ],
     "public": "dist",
     "ignore": [
