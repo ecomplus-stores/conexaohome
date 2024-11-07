@@ -8553,87 +8553,87 @@
       },
       {
         "source": "/azulejo-decorativo",
-        "destination": "/lançamento",
+        "destination": "/lancamentos-de-moveis-e-decoracao",
         "type": 301
         },
         {
          "source": "/castiçal",
-         "destination": "/lançamento",
+         "destination": "/lancamentos-de-moveis-e-decoracao",
          "type": 301
          },
          {
          "source": "/churrasqueira",
-         "destination": "/lançamento",
+         "destination": "/lancamentos-de-moveis-e-decoracao",
          "type": 301
          },
          {
           "source": "/escada-decorativa",
-          "destination": "/lançamento",
+          "destination": "/lancamentos-de-moveis-e-decoracao",
           "type": 301
           },
           {
          "source": "/lixeira",
-         "destination": "/lançamento",
+         "destination": "/lancamentos-de-moveis-e-decoracao",
          "type": 301
          },
          {
          "source": "/luminaria",
-         "destination": "/lançamento",
+         "destination": "/lancamentos-de-moveis-e-decoracao",
          "type": 301
           },
           {
           "source": "/nicho",
-          "destination": "/lançamento",
+          "destination": "/lancamentos-de-moveis-e-decoracao",
           "type": 301
           },
           {
           "source": "/balde-de-gelo",
-          "destination": "/lançamento",
+          "destination": "/lancamentos-de-moveis-e-decoracao",
           "type": 301
            },
            {
            "source": "/Lareira",
-           "destination": "/lançamento",
+           "destination": "/lancamentos-de-moveis-e-decoracao",
            "type": 301
            },
            {
           "source": "/base-de-mesa-de-jantar",
-          "destination": "/lançamento",
+          "destination": "/lancamentos-de-moveis-e-decoracao",
           "type": 301
            },
            {
             "source": "/remo",
-            "destination": "/lançamento",
+            "destination": "/lancamentos-de-moveis-e-decoracao",
             "type": 301
              },
              {
             "source": "/cabideiro",
-            "destination": "/lançamento",
+            "destination": "/lancamentos-de-moveis-e-decoracao",
             "type": 301
            },
            {
            "source": "/mesa-bancada",
-          "destination": "/lançamento",
+          "destination": "/lancamentos-de-moveis-e-decoracao",
           "type": 301
            },
            {
            "source": "/candelabro",
-          "destination": "/lançamento",
+          "destination": "/lancamentos-de-moveis-e-decoracao",
            "type": 301
           },
           {
           "source": "/cinzeiro",
-          "destination": "/lançamento",
+          "destination": "/lancamentos-de-moveis-e-decoracao",
           "type": 301
           },
           {
           "source": "/cupula",
-          "destination": "/lançamento",
+          "destination": "/lancamentos-de-moveis-e-decoracao",
           "type": 301
          },
          {
          "source": "/gancho-de-parede",
-         "destination": "/lançamento",
+         "destination": "/lancamentos-de-moveis-e-decoracao",
          "type": 301
          }
     ],
