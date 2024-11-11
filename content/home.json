@@ -46,6 +46,12 @@
           "link": "https://conexaohome.com.br/desconto-progressivo",
           "mobile_img": "/img/uploads/banner-05-mobile.png",
           "alt": "Promoção"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-04-.jpg",
+          "mobile_img": "/img/uploads/banner-04-mobile-2.jpg"
         }
       ]
     },
