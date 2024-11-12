@@ -6,7 +6,7 @@
   "options": {
     "tiktokPixelId": "",
     "debug": false,
-    "partytown": true
+    "partytown": false
   },
   "headAppend": "src/append/head"
 }
