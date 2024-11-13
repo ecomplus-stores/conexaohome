@@ -95,21 +95,21 @@
       "identificador": "banner-triple",
       "banners": [
         {
-          "img": "/img/uploads/mini-01.jpg",
+          "img": "/img/uploads/mini-01-1-.jpg",
           "mobile_img": "",
-          "link": "https://conexaohome.com.br/moveis-sala-de-estar",
+          "link": "https://conexaohome.com.br/search?term=Poltrona+Ci%C3%A7a",
           "alt": "Sala de Estar"
         },
         {
-          "img": "/img/uploads/mini-02.jpg",
-          "link": "https://conexaohome.com.br/sala-de-jantar",
+          "img": "/img/uploads/mini-02-1-.jpg",
+          "link": "https://conexaohome.com.br/search?term=cesta",
           "mobile_img": "",
           "alt": "Sala de Jantar"
         },
         {
-          "img": "/img/uploads/mini-03.jpg",
+          "img": "/img/uploads/mini-03-1-.jpg",
           "mobile_img": "",
-          "link": "https://conexaohome.com.br/quarto",
+          "link": "https://conexaohome.com.br/search?term=cadeira+genebra",
           "alt": "Quarto"
         }
       ]
