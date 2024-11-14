@@ -178,6 +178,16 @@
       "link": "https://conexaohome.com.br/pages/nossas-lojas",
       "mobile_img": "/img/uploads/conheca-nossas-lojas-em-sao-paulo-mobile.jpg",
       "alt": "Conheça nossas lojas"
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2024-11-14T15:17:12.266Z",
+      "end": "2024-11-23T15:17:12.342Z",
+      "notes": "Melhor Preço da Internet! Enviado Montado!",
+      "offers": [
+        "63bdbb294834634f732fc4c3"
+      ]
     }
   ]
 }
