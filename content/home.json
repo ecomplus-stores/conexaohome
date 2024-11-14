@@ -152,6 +152,14 @@
       "collection_id": "63f78869f4167e223c997bc6:categories:Sofá:/moveis/sofa-para-sala-de-estar"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6320959a73321213f87393f9:categories:Poltrona:/poltrona",
+      "title": "Poltronas"
+    },
+    {
       "type": "banners-grid",
       "identificador": "section-categories-banners",
       "banners": [
