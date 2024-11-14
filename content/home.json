@@ -45,23 +45,6 @@
       "enabled": false
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "63597cce73321213f8be4059:categories:Black Friday:/black-friday-de-moveis-decoracao-utensilios-para-cozinha"
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2024-11-14T15:17:12.266Z",
-      "end": "2024-11-23T15:17:12.342Z",
-      "notes": "Melhor Preço da Internet! Enviado Montado!",
-      "offers": [
-        "63bdbb294834634f732fc4c3"
-      ]
-    },
-    {
       "type": "banners-grid-mt",
       "identificador": "content-banner-tarja",
       "banners": [
@@ -97,6 +80,23 @@
           "alt": "Retire na loja",
           "title": "Fale conosco"
         }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63597cce73321213f8be4059:categories:Black Friday:/black-friday-de-moveis-decoracao-utensilios-para-cozinha"
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2024-11-14T15:17:12.266Z",
+      "end": "2024-11-23T15:17:12.342Z",
+      "notes": "Melhor Preço da Internet! Enviado Montado!",
+      "offers": [
+        "63bdbb294834634f732fc4c3"
       ]
     },
     {
