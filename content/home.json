@@ -90,6 +90,60 @@
       "collection_id": "63597cce73321213f8be4059:categories:Black Friday:/black-friday-de-moveis-decoracao-utensilios-para-cozinha"
     },
     {
+      "type": "banners-grid",
+      "identificador": "banner-triple",
+      "banners": [
+        {
+          "img": "/img/uploads/mini-01-1-.jpg",
+          "mobile_img": "",
+          "link": "https://conexaohome.com.br/search?term=Poltrona+Ci%C3%A7a",
+          "alt": "Sala de Estar"
+        },
+        {
+          "img": "/img/uploads/mini-02-1-.jpg",
+          "link": "https://conexaohome.com.br/cesta",
+          "mobile_img": "",
+          "alt": "Decoração: Cestaria"
+        },
+        {
+          "img": "/img/uploads/mini-03-1-.jpg",
+          "mobile_img": "",
+          "link": "https://conexaohome.com.br/search?term=Cadeira+Genebra+Marrom+Capuccino",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "identificador": "section-categories-banners",
+      "banners": [
+        {
+          "img": "/img/uploads/acessorios-para-cozinha.png",
+          "alt": "Acessórios para cozinha",
+          "link": "https://conexaohome.com.br/cozinha-e-mesa-posta",
+          "mobile_img": ""
+        },
+        {
+          "img": "/img/uploads/area-externa.png",
+          "link": "https://conexaohome.com.br/moveis/area-externa-e-varanda",
+          "alt": "Área Externa",
+          "mobile_img": ""
+        },
+        {
+          "img": "/img/uploads/decoracao.png",
+          "link": "https://conexaohome.com.br/decoracao",
+          "alt": "Decoração",
+          "mobile_img": ""
+        },
+        {
+          "img": "/img/uploads/exclusivos-conexao-home.png",
+          "link": "https://conexaohome.com.br/linha-exclusiva-conexao-home",
+          "alt": "Linha Exclusiva Conexão Home",
+          "mobile_img": ""
+        }
+      ]
+    },
+    {
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2024-11-14T15:17:12.266Z",
@@ -148,36 +202,6 @@
       "title": "Móveis a pronta entrega"
     },
     {
-      "type": "banners-grid",
-      "identificador": "section-categories-banners",
-      "banners": [
-        {
-          "img": "/img/uploads/acessorios-para-cozinha.png",
-          "alt": "Acessórios para cozinha",
-          "link": "https://conexaohome.com.br/cozinha-e-mesa-posta",
-          "mobile_img": ""
-        },
-        {
-          "img": "/img/uploads/area-externa.png",
-          "link": "https://conexaohome.com.br/moveis/area-externa-e-varanda",
-          "alt": "Área Externa",
-          "mobile_img": ""
-        },
-        {
-          "img": "/img/uploads/decoracao.png",
-          "link": "https://conexaohome.com.br/decoracao",
-          "alt": "Decoração",
-          "mobile_img": ""
-        },
-        {
-          "img": "/img/uploads/exclusivos-conexao-home.png",
-          "link": "https://conexaohome.com.br/linha-exclusiva-conexao-home",
-          "alt": "Linha Exclusiva Conexão Home",
-          "mobile_img": ""
-        }
-      ]
-    },
-    {
       "type": "shelfs-nav",
       "shuffle": true,
       "limit": 8,
@@ -188,30 +212,6 @@
       ],
       "shelfs_title": "Onde vai começar sua conexão?",
       "sort": "views"
-    },
-    {
-      "type": "banners-grid",
-      "identificador": "banner-triple",
-      "banners": [
-        {
-          "img": "/img/uploads/mini-01-1-.jpg",
-          "mobile_img": "",
-          "link": "https://conexaohome.com.br/search?term=Poltrona+Ci%C3%A7a",
-          "alt": "Sala de Estar"
-        },
-        {
-          "img": "/img/uploads/mini-02-1-.jpg",
-          "link": "https://conexaohome.com.br/cesta",
-          "mobile_img": "",
-          "alt": "Decoração: Cestaria"
-        },
-        {
-          "img": "/img/uploads/mini-03-1-.jpg",
-          "mobile_img": "",
-          "link": "https://conexaohome.com.br/search?term=Cadeira+Genebra+Marrom+Capuccino",
-          "alt": ""
-        }
-      ]
     },
     {
       "type": "newsletter-mt",
