@@ -100,10 +100,6 @@
       ]
     },
     {
-      "type": "newsletter-mt",
-      "active": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 8,
@@ -216,6 +212,10 @@
           "alt": ""
         }
       ]
+    },
+    {
+      "type": "newsletter-mt",
+      "active": true
     }
   ]
 }
