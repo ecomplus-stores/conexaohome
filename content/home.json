@@ -138,6 +138,20 @@
       "sort": "sales"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63597d6773321213f8be4160:categories:Linha Chesterfield:/linha-chestersield"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63f78869f4167e223c997bc6:categories:Sofá:/moveis/sofa-para-sala-de-estar"
+    },
+    {
       "type": "banners-grid",
       "identificador": "section-categories-banners",
       "banners": [
