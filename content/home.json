@@ -100,30 +100,6 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "identificador": "banner-triple",
-      "banners": [
-        {
-          "img": "/img/uploads/mini-01-1-.jpg",
-          "mobile_img": "",
-          "link": "https://conexaohome.com.br/search?term=Poltrona+Ci%C3%A7a",
-          "alt": "Sala de Estar"
-        },
-        {
-          "img": "/img/uploads/mini-02-1-.jpg",
-          "link": "https://conexaohome.com.br/cesta",
-          "mobile_img": "",
-          "alt": "Decoração: Cestaria"
-        },
-        {
-          "img": "/img/uploads/mini-03-1-.jpg",
-          "mobile_img": "",
-          "link": "https://conexaohome.com.br/search?term=Cadeira+Genebra+Marrom+Capuccino",
-          "alt": ""
-        }
-      ]
-    },
-    {
       "type": "newsletter-mt",
       "active": true
     },
@@ -216,6 +192,30 @@
       ],
       "shelfs_title": "Onde vai começar sua conexão?",
       "sort": "views"
+    },
+    {
+      "type": "banners-grid",
+      "identificador": "banner-triple",
+      "banners": [
+        {
+          "img": "/img/uploads/mini-01-1-.jpg",
+          "mobile_img": "",
+          "link": "https://conexaohome.com.br/search?term=Poltrona+Ci%C3%A7a",
+          "alt": "Sala de Estar"
+        },
+        {
+          "img": "/img/uploads/mini-02-1-.jpg",
+          "link": "https://conexaohome.com.br/cesta",
+          "mobile_img": "",
+          "alt": "Decoração: Cestaria"
+        },
+        {
+          "img": "/img/uploads/mini-03-1-.jpg",
+          "mobile_img": "",
+          "link": "https://conexaohome.com.br/search?term=Cadeira+Genebra+Marrom+Capuccino",
+          "alt": ""
+        }
+      ]
     }
   ]
 }
