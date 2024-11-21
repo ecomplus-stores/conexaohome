@@ -45,16 +45,6 @@
       "enabled": false
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2024-11-14T20:01:51.182Z",
-      "end": "2024-11-30T20:01:51.277Z",
-      "offers": [
-        "636424a573321213f8c8c1fb"
-      ],
-      "notes": "Linha Exclusiva: Conexão By Tapetes São Carlos"
-    },
-    {
       "type": "banners-grid-mt",
       "identificador": "content-banner-tarja",
       "banners": [
