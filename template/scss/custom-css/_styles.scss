@@ -381,3 +381,6 @@ $footerColor: red;
   background-color:#000 !important;
   color: var(--white) !important;
 }
+.minicart__btn-checkout, .cart__btn-checkout {
+    display: none;
+}
