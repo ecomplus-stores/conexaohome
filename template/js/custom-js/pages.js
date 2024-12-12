@@ -7,6 +7,7 @@ const insertArrowOnMenuMobile = () => {
     })
 }
 insertArrowOnMenuMobile();
+
 storefront.on('widget:@ecomplus/widget-minicart', function () {
     document.querySelector('.minicart__btn-checkout').insertAdjacentHTML('beforebegin', `
     <div id="block-confirm" class="form-group"><div class="custom-control custom-checkbox"><input type="checkbox" id="input-confirm-checkout" class="custom-control-input"> <label for="input-confirm-checkout" class="custom-control-label">
