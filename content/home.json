@@ -10,6 +10,12 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/banner-pop.jpg",
+          "mobile_img": "/img/uploads/banner-pop-mobile.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner-01-9-.jpg",
           "mobile_img": "/img/uploads/banner-01-mobile-10-.jpg",
           "link": "https://conexaohome.com.br/promocao-de-moveis-decoracao-e-utensilios-para-cozinha"
@@ -37,12 +43,6 @@
           "mobile_img": "/img/uploads/banner-04-mobile.png",
           "link": "https://conexaohome.com.br/moveis-sofa-para-sala-de-estar",
           "alt": "Sala de Estar"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-pop.jpg",
-          "mobile_img": "/img/uploads/banner-pop-mobile.jpg"
         }
       ]
     },
