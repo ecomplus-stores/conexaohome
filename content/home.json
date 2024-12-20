@@ -41,7 +41,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-pop.jpg"
+          "img": "/img/uploads/banner-pop.jpg",
+          "mobile_img": "/img/uploads/banner-pop-mobile.jpg"
         }
       ]
     },
