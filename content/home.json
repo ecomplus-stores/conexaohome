@@ -37,6 +37,11 @@
           "mobile_img": "/img/uploads/banner-04-mobile.png",
           "link": "https://conexaohome.com.br/moveis-sofa-para-sala-de-estar",
           "alt": "Sala de Estar"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-pop.jpg"
         }
       ]
     },
