@@ -10,5 +10,3 @@ window.addEventListener("load", (event) => {
 
 // CART PAGE
 window.location.hash.split('/')[1] == 'cart' ? initCartPage() : null;
-
-
