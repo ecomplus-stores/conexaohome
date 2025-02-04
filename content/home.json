@@ -18,16 +18,10 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-03-pascoa.jpg",
-          "link": "https://conexaohome.com.br/decoracao-enfeites-loucas-para-pascoa",
-          "mobile_img": "/img/uploads/banner-03-mobile-pascoa.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-02-10-.jpg",
-          "mobile_img": "/img/uploads/banner-02-mobile-9-.jpg",
-          "link": "https://conexaohome.com.br/linha-de-moveis-fratini"
+          "img": "/img/uploads/banner-02-13-.jpg",
+          "mobile_img": "/img/uploads/banner-02-mobile-12-.jpg",
+          "link": "https://conexaohome.com.br/moveis-de-madeira-macica-e-mdf",
+          "alt": "Madeira Maciça e Mdf"
         },
         {
           "start": "",
@@ -40,18 +34,17 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-03-6-.jpg",
-          "mobile_img": "/img/uploads/banner-03-mobile-6-.jpg",
-          "link": "https://conexaohome.com.br/tapete-linha-plural-tapetes-sao-carlos",
-          "alt": "oslo"
+          "img": "/img/uploads/banner-02-10-.jpg",
+          "mobile_img": "/img/uploads/banner-02-mobile-9-.jpg",
+          "link": "https://conexaohome.com.br/linha-de-moveis-fratini"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-02-13-.jpg",
-          "mobile_img": "/img/uploads/banner-02-mobile-12-.jpg",
-          "link": "https://conexaohome.com.br/moveis-de-madeira-macica-e-mdf",
-          "alt": "Madeira Maciça e Mdf"
+          "img": "/img/uploads/banner-03-6-.jpg",
+          "mobile_img": "/img/uploads/banner-03-mobile-6-.jpg",
+          "link": "https://conexaohome.com.br/tapete-linha-plural-tapetes-sao-carlos",
+          "alt": "oslo"
         },
         {
           "start": "",
