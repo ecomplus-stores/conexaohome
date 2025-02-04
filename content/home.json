@@ -52,6 +52,14 @@
           "mobile_img": "/img/uploads/banner-01-mobile.jpg",
           "link": "https://conexaohome.com.br/linha-de-moveis-rps",
           "alt": "Linha de móveis rps"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-04-2-.jpg",
+          "mobile_img": "/img/uploads/banner-04-mobile-2-.jpg",
+          "link": "https://conexaohome.com.br/promocao-de-moveis-decoracao-e-utensilios-para-cozinha",
+          "alt": "Carnaval"
         }
       ]
     },
