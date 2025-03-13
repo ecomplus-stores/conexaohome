@@ -4,9 +4,10 @@
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
-    "gtmContainerId": "GTM-59P59W7",
+    "gtmContainerId": "GTM-P43DBB3D",
     "dataLayerVar": "dataLayer",
-    "partytown": false
+    "partytown": false,
+    "isDebug": false
   },
   "headAppend": "src/append/head",
   "bodyAppend": "src/append/body"
