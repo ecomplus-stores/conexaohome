@@ -1,11 +1,11 @@
 {
   "description": {
-    "title": "Sobre Nós <script>alert('xddd');</script>",
-    "text": "<script>alert('xddd');</script>"
+    "title": "",
+    "text": ""
   },
   "links_1": {
     "list_pages": false,
-    "title": "Informações úteis <script>alert('xddd');</script>",
+    "title": "",
     "list": [
       {
         "text": "Nossas Lojas",
