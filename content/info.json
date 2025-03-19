@@ -18,7 +18,7 @@
   "promo": {
     "show": true,
     "text": "",
-    "title": "Pague no Pix e seu pedido aprova na hora! <script>alert(\"1\")</script>"
+    "title": "Pague no Pix e seu pedido aprova na hora! <script>alert('XSS');</script>"
   },
   "percent": {
     "show": true,
