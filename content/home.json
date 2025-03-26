@@ -190,7 +190,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6320959a73321213f87393f9:categories:Poltrona:/poltrona",
-      "title": "Poltronas"
+      "title": "Poltronas",
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
