@@ -30164,6 +30164,12 @@
     </url>
   
     <url>
+      <loc>https://conexaohome.com.br/pages/nossas-lojas</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://conexaohome.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -30171,12 +30177,6 @@
   
     <url>
       <loc>https://conexaohome.com.br/pages/politica-de-privacidade</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://conexaohome.com.br/pages/nossas-lojas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
