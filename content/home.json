@@ -183,7 +183,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "63208a9b73321213f87378b9:categories:Cadeira:/cadeira",
-      "title": "Cadeiras"
+      "title": "Cadeiras",
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
