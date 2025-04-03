@@ -30146,6 +30146,12 @@
     </url>
   
     <url>
+      <loc>https://conexaohome.com.br/pages/aluguel-de-moveis</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://conexaohome.com.br/pages/clube-conexao</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -30164,13 +30170,13 @@
     </url>
   
     <url>
-      <loc>https://conexaohome.com.br/pages/nossas-lojas</loc>
+      <loc>https://conexaohome.com.br/pages/politica-de-privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://conexaohome.com.br/pages/politica-de-privacidade</loc>
+      <loc>https://conexaohome.com.br/pages/nossas-lojas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -30188,13 +30194,13 @@
     </url>
   
     <url>
-      <loc>https://conexaohome.com.br/pages/sobre-nos</loc>
+      <loc>https://conexaohome.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://conexaohome.com.br/pages/privacidade</loc>
+      <loc>https://conexaohome.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -30213,12 +30219,6 @@
   
     <url>
       <loc>https://conexaohome.com.br/pages/venda-corporativa</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://conexaohome.com.br/pages/aluguel-de-moveis</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
