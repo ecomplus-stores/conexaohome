@@ -13,6 +13,30 @@
           "img": "/img/uploads/banner-03-pascoa.jpg",
           "mobile_img": "/img/uploads/banner-03-mobile-pascoa.jpg",
           "link": "https://conexaohome.com.br/decoracao-enfeites-loucas-para-pascoa"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-02-13-.jpg",
+          "mobile_img": "/img/uploads/banner-02-mobile-12-.jpg",
+          "link": "https://conexaohome.com.br/moveis-de-madeira-macica-e-mdf",
+          "alt": "Madeira Maciça e Mdf"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-02.jpg",
+          "mobile_img": "/img/uploads/banner-02-mobile-2-.jpg",
+          "link": "https://conexaohome.com.br/linha-chestersield",
+          "alt": ""
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-01.jpg",
+          "mobile_img": "/img/uploads/banner-01-mobile.jpg",
+          "link": "https://conexaohome.com.br/linha-de-moveis-rps",
+          "alt": "Linha de móveis rps"
         }
       ]
     },
