@@ -41,19 +41,6 @@
       ]
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-01-crist.gif",
-          "link": "https://conexaohome.com.br/moveis-de-madeira-macica-e-mdf"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": false
     },
