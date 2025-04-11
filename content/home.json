@@ -41,10 +41,6 @@
       ]
     },
     {
-      "type": "custom-content",
-      "markdown": "t﻿este"
-    },
-    {
       "type": "info-bar",
       "enabled": false
     },
