@@ -98,5 +98,5 @@
     "amex": true,
     "itau": false
   },
-  "credits": "<script>alert('1')</script>"
+  "credits": ""
 }
