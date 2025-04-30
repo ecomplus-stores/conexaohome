@@ -45,6 +45,13 @@
           "mobile_img": "/img/uploads/banner-01-mobile.jpg",
           "link": "https://conexaohome.com.br/linha-de-moveis-rps",
           "alt": "Linha de móveis rps"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-03.jpg",
+          "link": "https://conexaohome.com.br/mes-das-maes-na-conexao",
+          "mobile_img": "/img/uploads/banner-03-mobile.jpg"
         }
       ]
     },
