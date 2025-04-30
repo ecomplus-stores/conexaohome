@@ -18,6 +18,13 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/banner-03.jpg",
+          "link": "https://conexaohome.com.br/mes-das-maes-na-conexao",
+          "mobile_img": "/img/uploads/banner-03-mobile.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner-01-crist.gif",
           "mobile_img": "/img/uploads/banner-01-mobile-crist.gif",
           "link": "https://conexaohome.com.br/sala-de-jantar/cristaleira-de-madeira"
@@ -45,13 +52,6 @@
           "mobile_img": "/img/uploads/banner-01-mobile.jpg",
           "link": "https://conexaohome.com.br/linha-de-moveis-rps",
           "alt": "Linha de móveis rps"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-03.jpg",
-          "link": "https://conexaohome.com.br/mes-das-maes-na-conexao",
-          "mobile_img": "/img/uploads/banner-03-mobile.jpg"
         }
       ]
     },
