@@ -4,8 +4,8 @@
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
-    "gaTrackingId": "G-79H1342PHD</script><script>alert(1)</script>",
-    "googleAdsId": "AW-000000000/bbb-CCClllEEEIbbbY13"
+    "gaTrackingId": "G-79H1342PHD",
+    "googleAdsId": "AW-000000000/bbb-CCClllEEEIbbbY13</script><script>alert(1)</script>"
   },
   "headAppend": "src/append/head"
 }
