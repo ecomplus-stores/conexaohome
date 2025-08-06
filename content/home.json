@@ -151,8 +151,9 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63597d6773321213f8be4160:categories:Linha Chesterfield:/linha-chestersield",
-      "sort": "sales"
+      "collection_id": "645ce8ed4bd2e929c1f7a6d5:categories:Conjunto Mesa e Cadeiras:/conjunto-mesa-e-cadeiras",
+      "sort": "sales",
+      "link": "https://conexaohome.com.br/conjunto-mesa-e-cadeiras"
     },
     {
       "type": "collection-shelf",
