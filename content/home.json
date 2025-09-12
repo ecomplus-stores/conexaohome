@@ -185,9 +185,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "65cf5e1e87ab487fbfba1ef4:categories:Descontos:/promocao-de-moveis-decoracao-e-utensilios-para-cozinha",
-      "title": "Lançamentos",
-      "sort": "news"
+      "collection_id": "68c1d526578b5f7954a8bdb8:categories:Couro:/sofas-e-poltronas-de-couro-legitimo",
+      "title": "Couro Legítimo",
+      "sort": "news",
+      "link": ""
     },
     {
       "type": "shelfs-nav",
