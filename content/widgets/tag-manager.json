@@ -4,10 +4,10 @@
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
-    "gtmContainerId": "GTM-KKRG6VB</script><script>alert(1)</script>",
+    "gtmContainerId": "GTM-KKRG6VB",
     "dataLayerVar": "dataLayer",
     "partytown": false,
-    "isDebug": true
+    "isDebug": false
   },
   "headAppend": "src/append/head",
   "bodyAppend": "src/append/body"
