@@ -78,9 +78,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6890ec86578b5f79547bdcb1:collections:Top de Vendas:/moveis-top-de-vendas",
+      "collection_id": "68c1d526578b5f7954a8bdb8:categories:Couro:/sofas-e-poltronas-de-couro-legitimo",
       "sort": "views",
-      "link": "https://conexaohome.com.br/moveis-top-de-vendas"
+      "link": "",
+      "title": "Couro Legítimo"
     },
     {
       "type": "banners-grid",
