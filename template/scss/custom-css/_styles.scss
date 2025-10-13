@@ -385,3 +385,11 @@ $footerColor: red;
 .minicart__btn-checkout, .cart__btn-checkout {
     display: none;
 }
+
+span[id*='frete-grátis'] {
+  background: #000;
+  color: #fff;
+  border-radius: 7px;
+  padding: 2px;
+  margin-bottom: 1px;
+}
