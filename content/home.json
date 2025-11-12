@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 3000,
+      "autoplay": 3300,
       "full_width": true,
       "slides": [
         {
@@ -25,9 +25,10 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-01.jpg",
-          "mobile_img": "/img/uploads/banner-01-mobile.jpg",
-          "link": "https://conexaohome.com.br/linha-chestersield"
+          "img": "/img/uploads/banner-descktop.gif",
+          "mobile_img": "/img/uploads/gif-mobile-banner-1.gif",
+          "link": "https://conexaohome.com.br/sofas-e-poltronas-de-couro-legitimo",
+          "alt": "Sofás e Poltronas de Couro Legitimo"
         }
       ]
     },
