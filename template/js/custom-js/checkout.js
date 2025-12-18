@@ -16,20 +16,41 @@ storefront.on('widget:@ecomplus/widget-tag-manager', function () {
   if (!checkoutBtn || document.querySelector('#block-confirm')) {
     return;
   }
+  
+  storefront.on('widget:@ecomplus/widget-tag-manager', function () {
+  const checkoutBtn = document.querySelector('.cart__btn-checkout');
 
-  // Esconde o botão inicialmente
+  // Se o botão ainda não existe ou se o aviso já foi inserido, não faz nada
+  if (!checkoutBtn || document.querySelector('#block-confirm')) {
+    return;
+  }
+
+  // Esconde o botão de finalizar compra
   checkoutBtn.style.display = 'none';
 
-storefront.on('widget:@ecomplus/widget-tag-manager', function () {
-    document.querySelector('.cart__btn-checkout').insertAdjacentHTML('beforebegin', `
-    <div id="block-confirm" class="form-group"><div class="custom-control custom-checkbox"><input type="checkbox" id="input-confirm-checkout" class="custom-control-input"> <label for="input-confirm-checkout" class="custom-control-label">
-          Ao finalizar a compra, confirmo que estou ciente e concordo que, devido ao recesso, os envios serão suspensos entre 20/12 e 06/01. O prazo de entrega começará a contar a partir de 06/01.
-        </label></div></div>
-    `);
-    document.querySelector('#block-confirm').addEventListener('click', (e) => {
-        if (e.target.checked) {
-            document.querySelector('#block-confirm').style.display = 'none'
-            document.querySelector('.cart__btn-checkout').style.display = 'block'
-        }
-    })
-})
+  // Insere o aviso antes do botão
+  checkoutBtn.insertAdjacentHTML('beforebegin', `
+    <div id="block-confirm" class="form-group">
+      <div class="custom-control custom-checkbox">
+        <input
+          type="checkbox"
+          id="input-confirm-checkout"
+          class="custom-control-input"
+        >
+        <label for="input-confirm-checkout" class="custom-control-label">
+          Ao finalizar a compra, confirmo que estou ciente e concordo que os pedidos realizados e aprovados entre 20/12 e 04/01 serão processados a partir do dia 05/01/2026, e o prazo de entrega passará a contar a partir dessa data.
+        </label>
+      </div>
+    </div>
+  `);
+
+  // Libera o botão somente após marcar o checkbox
+  document
+    .querySelector('#input-confirm-checkout')
+    .addEventListener('change', function () {
+      if (this.checked) {
+        document.querySelector('#block-confirm').style.display = 'none';
+        checkoutBtn.style.display = 'block';
+      }
+    });
+});
