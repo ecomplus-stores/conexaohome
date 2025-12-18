@@ -3,21 +3,17 @@ import { initCartPage } from "./mt-solucoes/cartPage";
 
 // Add your custom JavaScript for checkout here.
 
-window.addEventListener("load", (event) => {
-  dataLayer.forEach(element => element.event == 'checkout' ? initCheckout() : null )
+window.addEventListener("load", () => {
+  dataLayer.forEach(element =>
+    element.event === 'checkout' ? initCheckout() : null
+  );
 });
 
 // CART PAGE
-window.location.hash.split('/')[1] == 'cart' ? initCartPage() : null;
+window.location.hash.split('/')[1] === 'cart' ? initCartPage() : null;
 
+// AVISO DE RECESSO NO CHECKOUT
 storefront.on('widget:@ecomplus/widget-tag-manager', function () {
-  const checkoutBtn = document.querySelector('.cart__btn-checkout');
-
-  if (!checkoutBtn || document.querySelector('#block-confirm')) {
-    return;
-  }
-  
-  storefront.on('widget:@ecomplus/widget-tag-manager', function () {
   const checkoutBtn = document.querySelector('.cart__btn-checkout');
 
   // Se o botão ainda não existe ou se o aviso já foi inserido, não faz nada
