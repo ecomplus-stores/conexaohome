@@ -381,10 +381,6 @@ $footerColor: red;
   background-color:#000 !important;
   color: var(--white) !important;
 }
-//update with consent
-.minicart__btn-checkout, .cart__btn-checkout {
-    display: none;
-}
 
 span[id*='frete-grátis'] {
   background: #000;
@@ -392,4 +388,7 @@ span[id*='frete-grátis'] {
   border-radius: 7px;
   padding: 2px;
   margin-bottom: 1px;
+}
+.minicart__btn-checkout, .cart__btn-checkout {
+    display: none;
 }
