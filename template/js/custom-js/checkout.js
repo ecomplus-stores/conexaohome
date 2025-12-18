@@ -10,15 +10,12 @@ window.addEventListener("load", (event) => {
 
 // CART PAGE
 window.location.hash.split('/')[1] == 'cart' ? initCartPage() : null;
-window.addEventListener('load', function () {
-  function initCheckoutConfirm() {
+
+;(function () {
+  function addConfirmBlock() {
     const btnFinish = document.querySelector('.checkout__btn-confirm');
+    if (!btnFinish || document.querySelector('#block-confirm')) return;
 
-    if (!btnFinish || document.querySelector('#block-confirm')) {
-      return;
-    }
-
-    // Esconde o botão de finalizar pedido
     btnFinish.style.display = 'none';
 
     btnFinish.insertAdjacentHTML('beforebegin', `
@@ -38,15 +35,17 @@ window.addEventListener('load', function () {
       .querySelector('#input-confirm-checkout')
       .addEventListener('change', function () {
         if (this.checked) {
-          document.querySelector('#block-confirm').style.display = 'none';
+          document.querySelector('#block-confirm').remove();
           btnFinish.style.display = 'block';
         }
       });
   }
 
-  // Executa no momento certo do checkout
-  storefront.on('widget:@ecomplus/widget-tag-manager', initCheckoutConfirm);
+  // Cria um observador que fica checando o DOM do checkout
+  const observer = new MutationObserver(() => addConfirmBlock());
+  observer.observe(document.body, {
+    childList: true,
+    subtree: true
+  });
+})();
 
-  // Fallback
-  setTimeout(initCheckoutConfirm, 1500);
-});
