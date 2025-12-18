@@ -2,26 +2,7 @@ import { initCheckout } from "./checkout-mt/initCheckout";
 import { initCartPage } from "./mt-solucoes/cartPage";
 
 // Add your custom JavaScript for checkout here.
-
-
-window.addEventListener("load", (event) => {
-  dataLayer.forEach(element => element.event == 'checkout' ? initCheckout() : null )
-});
-
-// CART PAGE
-window.location.hash.split('/')[1] == 'cart' ? initCartPage() : null;
-
-storefront.on('widget:@ecomplus/widget-tag-manager', function () {
-  const checkoutBtn = document.querySelector('.cart__btn-checkout');
-
-  if (!checkoutBtn || document.querySelector('#block-confirm')) {
-    return;
-  }
-
-  // Esconde o botão inicialmente
-  checkoutBtn.style.display = 'none';
-
-  checkoutBtn.insertAdjacentHTML('beforebegin', `
+checkoutBtn.insertAdjacentHTML('beforebegin', `
     <div id="block-confirm" class="form-group">
       <div class="custom-control custom-checkbox">
         <input type="checkbox" id="input-confirm-checkout" class="custom-control-input">
@@ -43,3 +24,21 @@ storefront.on('widget:@ecomplus/widget-tag-manager', function () {
       }
     });
 });
+
+
+window.addEventListener("load", (event) => {
+  dataLayer.forEach(element => element.event == 'checkout' ? initCheckout() : null )
+});
+
+// CART PAGE
+window.location.hash.split('/')[1] == 'cart' ? initCartPage() : null;
+
+storefront.on('widget:@ecomplus/widget-tag-manager', function () {
+  const checkoutBtn = document.querySelector('.cart__btn-checkout');
+
+  if (!checkoutBtn || document.querySelector('#block-confirm')) {
+    return;
+  }
+
+  // Esconde o botão inicialmente
+  checkoutBtn.style.display = 'none';
