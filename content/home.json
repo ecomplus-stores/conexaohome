@@ -31,6 +31,13 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/sofa.png",
+          "mobile_img": "/img/uploads/sofa-mobile.png",
+          "link": "https://conexaohome.com.br/moveis/sofa-para-sala-de-estar"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner-02-gif.gif",
           "link": "https://conexaohome.com.br/moveis-de-madeira-macica-e-mdf",
           "mobile_img": "/img/uploads/banner-02-gif-mobile.gif"
