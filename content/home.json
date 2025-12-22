@@ -24,6 +24,13 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/banner-site-poltrona-descktop.gif",
+          "mobile_img": "/img/uploads/banner-site-poltrona-mobil-2.gif",
+          "link": "https://conexaohome.com.br/poltrona"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner-02-gif.gif",
           "link": "https://conexaohome.com.br/moveis-de-madeira-macica-e-mdf",
           "mobile_img": "/img/uploads/banner-02-gif-mobile.gif"
