@@ -71,6 +71,7 @@ export default options => {
   ])
   let layout = getLayout(options);
   let layoutMt = Object.assign({}, layout);
+  layoutMt.files = layout.files.filter(f => f.name !== 'code')
   layoutMt.files[0].fields.push(
     {
       label: "Menu Secundario",
