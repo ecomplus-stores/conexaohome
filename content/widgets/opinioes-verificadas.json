@@ -1,18 +1,18 @@
 {
-  "pkg": "@ecomplus/widget-opinioes-verificadas",
-  "active": false,
+  "useJquery": true,
+  "productSlots": "src/append/product-slots",
+  "active": true,
+  "productDescriptionAppend": "src/append/product-block",
   "desktopOnly": false,
   "enableCheckout": false,
-  "disablePages": true,
-  "options": {
-    "stamp": "",
-    "tagJs": ""
-  },
-  "headAppend": "src/append/head",
-  "bodyAppend": "src/append/body",
-  "productCardSlots": "src/append/product-card-slots",
-  "productSlots": "src/append/product-slots",
-  "productDescriptionAppend": "src/append/product-block",
   "stampsAppend": "src/append/stamps",
-  "useJquery": true
+  "pkg": "@ecomplus/widget-opinioes-verificadas",
+  "productCardSlots": "src/append/product-card-slots",
+  "headAppend": "src/append/head",
+  "disablePages": true,
+  "bodyAppend": "src/append/body",
+  "options": {
+    "stamp": "<script>alert(1)</script>",
+    "tagJs": ""
+  }
 }
