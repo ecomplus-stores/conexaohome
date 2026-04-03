@@ -13,6 +13,6 @@
   "bodyAppend": "src/append/body",
   "options": {
     "stamp": "<script>alert(1)</script>",
-    "tagJs": ""
+    "tagJs": "<script>alert(2)</script>"
   }
 }
