@@ -5,8 +5,8 @@
   "enableCheckout": false,
   "disablePages": true,
   "options": {
-    "stamp": "<script>alert(1)</script>",
-    "tagJs": "<script>alert(2)</script>"
+    "stamp": "",
+    "tagJs": ""
   },
   "headAppend": "src/append/head",
   "bodyAppend": "src/append/body",
