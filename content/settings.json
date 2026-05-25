@@ -9,6 +9,7 @@
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logotipo-home-png-site.png",
   "name": "conexaohome",
+  "repository": "ecomplus-stores/conexaohome",
   "short_name": "Sobre Nós",
   "lang": "pt_br",
   "currency": "BRL",
