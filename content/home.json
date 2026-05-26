@@ -118,27 +118,27 @@
       "identificador": "section-categories-banners",
       "banners": [
         {
-          "img": "/img/uploads/acessorios-para-cozinha.png",
-          "alt": "Acessórios para cozinha",
-          "link": "https://conexaohome.com.br/cozinha-e-mesa-posta",
+          "img": "/img/uploads/mobile-03.png",
+          "alt": "Armário de Cozinha",
+          "link": "https://conexaohome.com.br/moveis/armario-de-cozinha",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/area-externa.png",
-          "link": "https://conexaohome.com.br/moveis/area-externa-e-varanda",
-          "alt": "Área Externa",
+          "img": "/img/uploads/mobile-02.png",
+          "link": "https://conexaohome.com.br/sala-de-jantar/cristaleira-de-madeira",
+          "alt": "Cristaleira",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/decoracao.png",
-          "link": "https://conexaohome.com.br/decoracao",
-          "alt": "Decoração",
+          "img": "/img/uploads/mobile-04.png",
+          "link": "https://conexaohome.com.br/search?term=Guarda-Roupa",
+          "alt": "Guarda-Roupa",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/exclusivos-conexao-home.png",
-          "link": "https://conexaohome.com.br/linha-exclusiva-conexao-home",
-          "alt": "Linha Exclusiva Conexão Home",
+          "img": "/img/uploads/mobile-01.png",
+          "link": "https://conexaohome.com.br/buffet-balcao",
+          "alt": "Buffet e Balcão",
           "mobile_img": ""
         }
       ]
