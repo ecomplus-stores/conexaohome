@@ -17,16 +17,16 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/03.png",
-          "mobile_img": "/img/uploads/sofa-eletrico-1-.png",
-          "link": "https://conexaohome.com.br/sofas-e-poltronas-de-couro-natural"
+          "img": "/img/uploads/banner-02-gif.gif",
+          "link": "https://conexaohome.com.br/moveis-de-madeira-macica-e-mdf",
+          "mobile_img": "/img/uploads/banner-02-gif-mobile.gif"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-02-gif.gif",
-          "link": "https://conexaohome.com.br/moveis-de-madeira-macica-e-mdf",
-          "mobile_img": "/img/uploads/banner-02-gif-mobile.gif"
+          "img": "/img/uploads/03.png",
+          "mobile_img": "/img/uploads/sofa-eletrico-1-.png",
+          "link": "https://conexaohome.com.br/sofas-e-poltronas-de-couro-natural"
         }
       ]
     },
