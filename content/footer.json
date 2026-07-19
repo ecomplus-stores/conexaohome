@@ -12,10 +12,6 @@
         "url": "/pages/nossas-lojas"
       },
       {
-        "text": "Clube Conexão - Cashback",
-        "url": "https://conexaohome.com.br/pages/clube-conexao"
-      },
-      {
         "text": "Sobre Nós",
         "url": "/pages/sobre-nos"
       },
@@ -38,20 +34,12 @@
       {
         "text": "Venda Corporativa",
         "url": "https://conexaohome.com.br/pages/venda-corporativa"
-      },
-      {
-        "text": "Aluguel de Móveis",
-        "url": "https://conexaohome.com.br/pages/aluguel-de-moveis"
       }
     ]
   },
   "links_2": {
     "title": "Nossas Lojas",
     "list": [
-      {
-        "text": "ACERVO CONEXÃO - Pinheiros SP @ R﻿ua Teodoro Sampaio, 1877",
-        "url": "https://conexaohome.com.br/pages/nossas-lojas"
-      },
       {
         "text": "Loja Santa Cecília SP: São João, 1915 - Móveis @ Estacionamento no Local @ AV. /1907, Santa Cecília",
         "url": "https://conexaohome.com.br/pages/nossas-lojas"
