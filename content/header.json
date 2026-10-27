@@ -18,8 +18,7 @@
       "/poltrona?Poltrona",
       "/cadeira?Cadeira",
       "/mesa?Mesa",
-      "/moveis?Móveis",
-      "/decoracao?Decoração"
+      "/moveis?Móveis"
     ],
     "random": 0,
     "full_width": true
