@@ -88,16 +88,16 @@
       "identificador": "banner-triple",
       "banners": [
         {
-          "img": "/img/uploads/banner_black_november_capri_355x412.png",
+          "img": "/img/uploads/capri_banner_355x412.png",
           "mobile_img": "",
           "link": "https://conexaohome.com.br/sofa-de-couro-eletrico-retratil-e-reclinavel-capri-4-lugares-280m",
           "alt": "Sofá Retrátil"
         },
         {
-          "img": "/img/uploads/banner_black_november_sofa_blanc_355x412_ajustado.png",
-          "link": "https://conexaohome.com.br/sofa-de-couro-fixo-blanc-minuano",
+          "img": "/img/uploads/collet_banner_355x412.png",
+          "link": "https://conexaohome.com.br/sofa-de-couro-eletrico-reclinavel-collet-4-lugares-amarula-minuano-black-friday",
           "mobile_img": "",
-          "alt": "Cristaleira"
+          "alt": "Sofá Eletrico"
         },
         {
           "img": "/img/uploads/banner_black_november_sofa_collet_355x412.png",
