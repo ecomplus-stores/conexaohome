@@ -10,6 +10,14 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/banner_black_november_otimizado.jpg.jpeg",
+          "mobile_img": "/img/uploads/banner_black_november_mobile_800x800.png",
+          "link": "https://conexaohome.com.br/black-friday-de-moveis-decoracao-utensilios-para-cozinha",
+          "alt": "BLACK FRIDAY"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/08-2-.png",
           "mobile_img": "/img/uploads/09-1-.png",
           "link": "https://conexaohome.com.br/sofa-de-couro-eletrico"
@@ -17,24 +25,9 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/poltrona-de-couro.png",
-          "link": "https://conexaohome.com.br/poltronas-de-couro",
-          "mobile_img": "/img/uploads/poltronas-de-couro-2-.png"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/banner-01-crist.gif",
           "mobile_img": "/img/uploads/banner-01-mobile-crist.gif",
           "link": "https://conexaohome.com.br/moveis-de-madeira-macica-e-mdf"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner_black_november_otimizado.jpg.jpeg",
-          "mobile_img": "/img/uploads/banner_black_november_mobile_800x800.png",
-          "link": "https://conexaohome.com.br/black-friday-de-moveis-decoracao-utensilios-para-cozinha",
-          "alt": "BLACK FRIDAY"
         }
       ]
     },
