@@ -389,6 +389,59 @@ span[id*='frete-grátis'] {
   padding: 2px;
   margin-bottom: 1px;
 }
+span[id*='black-friday'] {
+  background: #d0021b;
+  color: #fff;
+  border-radius: 7px;
+  padding: 2px;
+  margin-bottom: 1px;
+  font-weight: 600;
+  svg path {
+    fill: #fff;
+  }
+}
+// Etiqueta Black Friday sobre a foto do card, empilhada com Pronta Entrega
+.product-card {
+  span[id*='black-friday'] {
+    position: absolute;
+    top: 1rem;
+    padding: 0.5rem 2rem;
+    border-radius: 0px 12px;
+    font-size: 1.2rem;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    svg {
+      display: none;
+    }
+  }
+  &:has(#pronta-entrega) {
+    span[id*='black-friday'] {
+      top: 4.4rem;
+    }
+    &:has(span[id*='black-friday']) .product-card__offer-stamp {
+      top: 7.8rem;
+    }
+  }
+}
+@media (max-width: 768px) {
+  .product-card {
+    span[id*='black-friday'] {
+      font-size: 1rem;
+      padding: 0.5rem 1rem;
+      left: 0;
+    }
+    &:has(#pronta-entrega) {
+      span[id*='black-friday'] {
+        top: 3.8rem;
+      }
+      &:has(span[id*='black-friday']) .product-card__offer-stamp {
+        top: 6.6rem !important;
+      }
+    }
+  }
+}
 .minicart__btn-checkout, .cart__btn-checkout {
     display: none;
 }
